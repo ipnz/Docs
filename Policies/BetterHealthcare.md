@@ -1,0 +1,394 @@
+# Better Healthcare
+
+
+
+
+
+
+
+
+
+
+
+Table of contents
+
+1. 1.Problems/opportunities identified
+
+1.
+  1. 1.1.E-health solutions
+  2. 1.2.Electronic personal health records
+  3. 1.3.Funding issues
+  4. 1.4.System issues
+  5. 1.5.Individual care
+  6. 1.6.Learning from other sectors
+
+1. 2.Relevant information
+  1. 2.1.Context
+  2. 2.2.E-health solutions
+  3. 2.3.Electronic personal health records
+  4. 2.4.Funding issues
+  5. 2.5.System issues 
+  6. 2.6.Individual care
+  7. 2.7.Learning from other sectors
+
+1. 3.Global leadership
+  1. 3.1.E-health solutions
+  2. 3.2.Electronic personal health records
+  3. 3.3.Funding issues
+  4. 3.4.System issues
+  5. 3.5.Individual care
+  6. 3.6.Learning from other sectors
+
+1. 4.Strategy proposals
+  1. 4.1.Building an E-health environment
+  2. 4.2.Electronic personal health records
+  3. 4.3.Funding and systems reform
+
+
+
+
+
+1. 1. **Problems/opportunities identified** 
+  1. 1.1. **E-health solutions** 
+
+There is considerable [international interest](http://ec.europa.eu/digital-agenda/en/news/report-identifies-challenges-and-trends-ehealth) in exploiting the potential of digital healthcare solutions, often referred to as E-health - the use of information and [communication technologies](http://www.health.gov/communication/ehealth/) to enhance the quality and safety of healthcare.
+
+Health information systems need to change to support new models of healthcare. Any improvement in healthcare can only occur with better information and universal sharing of that information between hospitals, GPs, pharmacists, laboratories, physiotherapists and other health providers, and patients themselves.
+
+Access to information is key to people looking after themselves, to more timely and effective medical treatment, and better planning for health resources.
+
+People's information has been locked up in separate primary, community and secondary health systems, and we now know that for healthcare to work properly, patients need to be at the centre of services, and this is the case for health information. Individual health data belongs to an individual patient, so they should have access to use it, edit it and decide who sees it.
+
+Change requires clinicians, managers and information services personnel to work in partnership to integrate current systems so they can share the necessary patient details when needed - medical history including tests, treatments, pharmaceuticals, as well as carer contacts, and family circumstances.
+
+Getting everyone to use the same core set of data is a fundamental change from previous information strategies and aims to give clinicians certainty that they have complete and up-to-date information about their patients.
+
+1.
+  1. 1.2. **Electronic personal health records** 
+
+Electronic personal health records involve the collection and recording of patient data moving from paper records to digital media. [Cloud computing](http://www.healthcare-today.co.uk/content.php?contentId=19497) will revolutionise the storage and management of patient data in the same way that people store and access photographs and personal music. With this revolution comes the need to transform data into information and intelligence to drive transformative change in how and where healthcare is delivered.
+
+1.
+  1. 1.3. **Funding issues** 
+
+There is a developing awareness, both in New Zealand and internationally, of the gap between available healthcare funding and demand for health funds. Vote Health at about $15 billion accounts for 20 percent of core government spending, and [total health expenditure](http://www.treasury.govt.nz/government/longterm/externalpanel/pdfs/ltfep-s4-01.pdf) is more than 10 percent of GDP.
+
+Wastage is a major issue. Prescription misuse alone accounts for millions in ill-directed funding, a problem that is defined as " [drug-misadventuring](http://www.researchgate.net/publication/15624166_Drug%20related_morbidity_and_mortality._A_cost-of-illness_model)". It has been estimated that 30 percent of healthcare spending is [wasted](http://www.nytimes.com/2012/09/11/opinion/waste-in-the-health-care-system.html?_r=0) on unnecessary or poorly delivered services and needless costs.
+
+1.
+  1. 1.4. **        System issues** 
+
+The thrust of contemporary thinking is that by creating a truly [patient-centric healthcare](http://www.patientsorganizations.org/attach.pl/547/494/IAPO%20Patient-Centred%20Healthcare%20Review%202nd%20edition.pdf) system, a [win-win situation](http://www.safetyandquality.gov.au/our-work/patient-and-consumer-centred-care/) is created for all parties – for the patient as the customer and end-user of health services and for the healthcare funder. While terms like enhancing the [patient journey](http://www.patient-centeredcare.org/inside/abouttheguide.html) are commonplace, any critical analysis will reveal that the process is seldom if ever about the complete patient journey, but usually focuses on just one part of the journey and usually that part is hospital-centric.
+
+Any discussion about [healthcare systems](http://www.wpro.who.int/health_services/action/regional_strategy_health_systems_primary_health_care_chapter4.pdf) - whether at a political, management or academic level - almost inevitably becomes a discussion dominated by hospitals, doctors and nurses, waiting lists and emergency departments.
+
+Two of the key problems in healthcare are that there is the lack of a [whole-of-system view](http://www.ncbi.nlm.nih.gov/books/NBK22878/), and most health professionals work in silos. If home building were like healthcare, carpenters, electricians, and plumbers each would work with different blueprints, with very [little co-ordination](http://www.aarp.org/health/medicare-insurance/info-11-2012/health-care-system-wastes-billions.html).
+
+The only way to contain costs in healthcare is to improve outcomes. Achieving and maintaining [good health](http://www.ccyc.es/periscopihos/adjuntos/249.1-A%20strategy%20for%20Health%20Care%20Reform.pdf) is inherently less costly than dealing with poor health. The best treatment for a patient involves not just specific services covered under traditional approaches, but also includes new technologies and new kinds of care and support at home and beyond traditional healthcare settings.
+
+As a result of fundamental breakthroughs in biomedical science, improvements in data systems and network capabilities, and [continuing innovation](http://www.brookings.edu/research/reports/2013/04/person-centered-health-care-reform) in healthcare delivery, care is becoming increasingly individualised and prevention-oriented. These advances require healthcare providers to work with patients and their caregivers to target increasingly sophisticated treatments and to coordinate care effectively in ways that work best for each patient.
+
+There is [growing concern](http://www.ces-asso.org/sites/default/files/prior.pdf) about reduced access to care, most often expressed in the form of increased numbers of patients, or unacceptable lengths of time, on waiting lists. Waiting lists remain one of the most significant problems facing our healthcare system.
+
+1.
+  1. 1.5. **        Individual care** 
+
+The solution for a long-lasting and really effective health care strategy on a population basis does not lie solely within policy, law, hospitals, institutions or more funding for the ailing current system. Health starts at the individual level and multiplies its effects into the family sphere, community, society, then nation and ultimately the world.
+
+Increasing the effectiveness of self-management may have a far greater impact on the health of the population than any improvement in specific medical treatments.
+
+There is fast-growing interest and capabilities for an individual to collect their own health-related data. There are also similar growing capabilities in home-based sensors, allowing both for data collection as well as real-time remote monitoring. Both of these raise significant issues about privacy and control/ownership of data, as well as inter-operability of data and controls from multiple sources. This sets the basis for a new paradigm of individual-led healthcare.
+
+1.
+  1. 1.6. **        Learning from other sectors** 
+
+Lean thinking originated in the manufacturing industry as a process designed to focus on the needs of the customer rather than those of the organisation. Healthcare is one of the [largest industries](http://www.orms-today.org/orms-4-02/frmismanagement.html) in the developed world.
+
+Despite        the obvious difference between healthcare and other industries, there remain lessons to be learned from outside the healthcare arena. The healthcare industry faces many of the same issues confronting other industries, but with some significant political differences.
+
+1. 2. **Relevant information** 
+  1. 2.1. **Context** 
+
+Well before the recent international financial challenges, every country in the world faced the inescapable challenge of meeting infinite demand for healthcare services and with finite resources, even if their nature and scale varied significantly between industrialised and developing countries.
+
+Add to this spiralling costs caused by the invention of new drugs, medical equipment and procedures, higher patient expectations, an aging population (the population aged 65 years and over was 11 percent of the total New Zealand population in 1991 and is [expected to reach](https://www.msd.govt.nz/what-we-can-do/seniorcitizens/positive-ageing/trends/ageing-population.html) 21 percent by 2031, the so-called " [silver tsunami](http://www.stuff.co.nz/the-press/christchurch-life/mainlander/4570188/A-silver-tsunami)") and shortages of health professionals, and the scale of the challenge is daunting.
+
+The Government's [annual health budget](http://www.treasury.govt.nz/budget/2014/estimates/v6/est14-v6-health.pdf) in 2014/15 is $15.6 billion. Of this amount, $14.2 billion (91%) is operating expenditure and $1.1 billion (7%) capital expenditure, with the balance for the Ministry of Health and other miscellaneous expenditure. With [total core Crown expenses](http://www.treasury.govt.nz/budget/2014/execsumm/b14-execsumm.pdf) of $73.1 billion, health expenditure is just over 20% of total expenses and is the second largest after Social security and welfare ($24 billion, 33%).
+
+ ![](data:image/*;base64,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)
+
+**Core Crown health expenditure per capita and GDP per capita, indexed real growth, 1950-2011**
+
+[Source](http://www.treasury.govt.nz/government/longterm/externalpanel/pdfs/ltfep-s4-01.pdf): The Treasury: _Health Projections and Policy Options for the 2013 Long-term Fiscal Statement_
+
+Crown expenditure on health does not give the complete picture on healthcare expenses. The [latest OCED figures](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10865118) are for 2010 which shows Government contributes 83.2% of healthcare expenditure with people paying 10.5% for their own healthcare and private insurers about 4.5%. That puts New Zealand's total private health expenditure at about 17%, well below the OECD average of 28%.
+
+New Zealand has many unique characteristics that allow it to become a global model and leading nation in health, integrative wellbeing and prosperity within its population, starting with personal leadership.
+
+Nearly every person in New Zealand is registered with a primary care provider. A system of unique identifiers allows linked, shared national collections of hospital admissions, outpatients visits, Emergency Department attendances, prescription dispensing and labtest.
+
+New Zealand primary care providers were early adopters of electronic records, and all primary care records are now computerised. We have established communications systems for securely transmitting healthcare information when required and for accessing shared information repositories. With fewer levels in the health system than, say, Australia with its federal-state levels, New Zealand can respond with greater speed and agility.
+
+Other factors in our favour include: our small population, high level of social development, technological creative prowess, abundant natural resources, isolation from major pollution centres (other than our own growing pollution problems, which is an issue to be addressed in the Internet Party's Environment Policy), and diverse societal mix with high levels of social acceptance and collaboration.
+
+1.
+  1. 2.2. **E-health** 
+
+The World Health Organisation (WHO) [defines](http://www.who.int/topics/ehealth/en/) E-health as the use of information and communication technologies (ICT) for health. While the [scope](http://en.wikipedia.org/wiki/EHealth) of E-health could be narrow or very wide, broadly it is an emerging field at the intersection of medical informatics, public health and business, referring to health services and information delivered or enhanced through the Internet and related technologies.
+
+E-health [characterises](http://www.echalliance.com/wp-content/uploads/2014/01/Connected-Health-White-Paper.pdf) a technical development, but also a state of mind, a way of thinking, an attitude and commitment for networked, global thinking, to improve healthcare locally, regionally, and worldwide by using ICT.
+
+In 2005, the World Health Assembly [urged](http://www.who.int/healthacademy/news/en/) member states to develop and implement E-health technologies and that has since become a main priority for many countries. For example, England has invested at least £12.8 billion in a National Programme for Information Technology for the National Health Service, and the Obama administration in the US has [committed](http://www.plosmedicine.org/article/info%3Adoi%2F10.1371%2Fjournal.pmed.1000387) to a $US38 billion E-health investment in healthcare.
+
+In 2008, the World Health Organisation (WHO) [identified](http://www.echalliance.com/wp-content/uploads/2014/01/Connected-Health-White-Paper.pdf) common shortcomings as:
+
+- fragmented and fragmenting care;
+- unsafe care - poor system design that is unable to ensure safety and hygiene standards, along with medication errors and other avoidable adverse effects that are an under-estimated cause of death and ill health; 
+- misdirected care - neglecting the potential of primary prevention and health promotion to prevent up to 70% of the disease burden and to mitigate adverse effects on health; 
+
+- failure to make the most of what other sectors can contribute to health.
+
+Over the past 20 years, researchers have consistently reported that the application of information processing technology towards patient-centred, shared care would better support high quality as well as efficient treatment in healthcare. Significant cost reductions are expected from avoiding multiple medical investigations and by optimising workflows.
+
+It has also been shown that healthcare organisations that use technology to partner with their patients and share information will achieve a significant advantage. Leveraging consumer involvement helps contain costs, integrate data, and improve quality and outcomes in the healthcare industry.
+
+This led to the idea of a cross-institutional shared [electronic health record](https://www.yumpu.com/en/document/view/7637037/what-are-functional-requirements-of-future-shared-magic-5), which shares the relevant information between all the different players within the healthcare system.
+
+In New Zealand in October 2009, the Minister of Health directed the newly formed National Health IT Board to create the first National Health IT Plan for the sector, based on achieving the [E-health Vision](http://ithealthboard.health.nz/system/files/documents/publications/national-health-it-plan-v11.pdf).
+
+"To achieve high-quality healthcare and improve patient safety, by 2014 New Zealanders will have a core set of personal health information available electronically to them and their treatment providers regardless of the setting as they access health services."
+
+New Zealand is [internationally recognised](http://www.nzte.govt.nz/media/553044/final_nzte_europe_whitepaper_low.pdf) as being an early adopter of digital technology in the delivery and recording of healthcare information, and the country is widely recognised as having a sophisticated and innovative healthcare environment.
+
+The recognition includes a recent US Health White Paper that claimed New Zealand is in the vanguard of many developments in healthcare delivery, including the use of clinical systems in primary care; integrated care across primary, secondary and community settings; shared care planning; patient-centric health, self-management and co-production; and the use of national indices.
+
+1.
+  1. 2.3. **Electronic personal health records** 
+
+Although no universally agreed definition of an [electronic personal health record](http://www.bmj.com/content/335/7615/330) (E-PHR) exists, it has been described as an electronic application through which individuals can access, manage and share their health information in a private, secure and confidential environment.
+
+Models vary in the extent to which the content of the record and rights of access are controlled by the patient or the healthcare provider, the range of tools that accompany it, and their interactivity.
+
+The [ideal E-PHR](http://content.healthaffairs.org/content/28/2/369.full) will have data from many sources, conforming to nationally recognised inter-operability standards, and will provide a complete picture of an individual's health and medical history. It will include not only information from health professionals and institutions, but also information provided or entered by the individual.
+
+In general, an E-PHR is [controlled](http://cms.hhs.gov/Medicare/E-Health/PerHealthRecords/index.html) by the individual, and can be shared with others, including caregivers, family members and providers. This is different from a provider's electronic health record, which is controlled by the provider, just as paper medical records are today.
+
+Although the capabilities of E-PHRs vary significantly in the current marketplace, they typically include provisions to capture information about an individual's diagnoses, medications, allergies, lab test results, immunisation records, and other personal health information.
+
+Many PHRs also [provide](http://www.biomedcentral.com/1472-6947/8/45)linkages to _convenience_ tools (for example, requesting appointments, requesting prescription renewals, asking billing questions) and _communication_ tools to assist the patient in connecting with various healthcare professionals (physicians, nurses, pharmacists).
+
+The cornerstone of a good patient record system, irrespective of the storage medium used, is reliability and security. Medical records contain a large amount of sensitive personal information.
+
+This information is, more often than not, continuous, extending from the cradle to grave. It is broad, covering an extraordinary variety of detail, and with information technology it is more accessible than ever before. These [records](http://otago.ourarchive.ac.nz/bitstream/handle/10523/1135/dp2006-01.pdf) contain information that has non-medical use, and access to that information could be of interest to many parties.
+
+The [range of E-PHRs](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1949437/) varies from those that provide passive access to provider-held records via waiting room kiosks, the Internet or digital copy, such as a smart card or CD, through to models that are fully accessible and controlled by the individual (this model generally implies that the record is web-based or cloud-based).
+
+In New Zealand, there is commitment to personal electronic health records (p-EHR) at the [primary healthcare](http://www.health.govt.nz/our-work/primary-health-care) (GPs) level.  For example, the Progressing and Transforming Health (PATH) initiative sets out the direction for health information in the Northern region to 2020− the [_PATH to the Future of Health Information_](http://www.countiesmanukau.health.nz/about_cmdhb/planning/IS-StrategicPlan/RIS2010-2020-summary.pdf).
+
+The Ministry of Health is promoting a provider-centric [health information sharing scheme](http://www.health.govt.nz/your-health/services-and-support/health-care-services/sharing-your-health-information). According to the [_National Health IT Plan Update 2013/14_](http://ithealthboard.health.nz/system/files/documents/publications/national-health-it-plan-update-2013-14-nov13.pdf), "Our eHealth vision is for New Zealanders and the health professionals caring for them to have electronic access to a core set of personal health information by the end of 2014. Three years after the release of the National Health IT Plan, the sector is on track to achieve this vision."
+
+1.
+  1. 2.4. **Funding issues** 
+
+As healthcare demand and technology outstrips funding, there is a [growing realisation](http://www.oecd.org/els/health-systems/Health-at-a-Glance-2013.pdf) that if left unchanged, healthcare systems as we know them will become unsustainable. An aging population, increasing chronic illness and a lower proportion of individuals providing tax revenue, inevitably means fiscal and budgetary pressure on healthcare funding.
+
+Currently, 12 percent of people in New Zealand are aged 65 and over, but by 2051 older people will [comprise](http://www.health.govt.nz/system/files/documents/publications/stat_report_9.09.pdf) 25 percent of the population. Treasury recently [reported](http://www.ipanz.org.nz/Folder?Action=View%20File&Folder_id=84&File=New%20Zealand%27s%20Economic%20Fiscal%20Outlook.pdf) the dependency ratio of those aged 65-plus to those aged 15-64 in 2010 was 1 to 5.1, and that by 2060 this would be 1 to 2.25.
+
+The dependency ratio is a measure of the portion of a population composed of dependents (people who are too young or too old to work). The dependency ratio is equal to the number of individuals aged below 15 or above 64 divided by the number of individuals aged 15 to 64, expressed as a percentage.
+
+A rising dependency ratio is a [concern](http://www.investorwords.com/1409/dependency_ratio.html#ixzz32jq0q46g) in many countries facing an aging population, since it becomes difficult for pension and social security systems to provide for a significantly older, non-working population. US commentators have [stated](http://www.brookings.edu/research/opinions/2009/09/01-stewardship-aaron) that responsible stewardship for the country and for younger generations requires reforming healthcare and sustaining, not cutting, health benefits.
+
+It has been estimated that 30 percent of healthcare spending is [wasted](http://www.nytimes.com/2012/09/11/opinion/waste-in-the-health-care-system.html?_r=0) on unnecessary or poorly delivered services and other needless costs.
+
+For example, pharmaceuticals are a major cornerstone of modern healthcare and typically account for almost 20% of total healthcare [expenditure](http://www.ispor.org/research_pdfs/40/pdffiles/php44.pdf) across the [OECD](http://apps.who.int/medicinedocs/documents/s19848en/s19848en.pdf). There is sound academic research conclusively demonstrating that for every $1 spent on pharmaceuticals prescribed within the healthcare system there is an additional whole-of-system economic cost of between $1 and $1.50.
+
+In a [ground-breaking](http://www.ncbi.nlm.nih.gov/pubmed/7575048) study on drug-related morbidity (illness)  and mortality (death), it was estimated that in the US alone up to 198,000 people died per year, there were 8.8 million hospital admissions, and 17.1 million emergency room visits with an annual cost exceeding $76 billion per annum (1995 figures).
+
+Between 1995 and 2001, the costs associated with drug-related problems (DRPs) more than doubled. Given the economic and medical burdens associated with DRPs, strategies for [preventing](http://www.medscape.com/viewarticle/406716_1) drug-related morbidity and mortality are urgently needed. In the New Zealand context, this equates to more than $1 billion a year and as many as 2000 deaths.
+
+1.
+  1. 2.5. **System issues** 
+
+Most health services are delivered in the community and it is only occasionally for most people, and never for others, that they visit a hospital. Some researchers have concluded that health systems based on a strong [primary health](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2690145/) care system are more effective and efficient than those centred on specialty and tertiary care. The contributions of primary care to improvements in many aspects of population and individual health are [well-documented](http://content.healthaffairs.org/cgi/reprint/hlthaff.w5.97v1).
+
+Most healthcare professionals [work in silos](http://pmj.bmj.com/content/early/2014/01/07/postgradmedj-2012-131168.abstract) that are isolated from each other, so there is little effective team-work. This is especially true at the primary care level.
+
+The [Primary Healthcare Strategy](http://www.health.govt.nz/publication/primary-health-care-strategy) talks about primary healthcare teams, but the reality is there is little real interaction or co-operation except between GPs and practice nurses. Research has shown that health systems based on a strong [primary](http://www.commonwealthfund.org/usr_doc/starfield_milbank.pdf) healthcare system are more effective and efficient than those centred on specialty and tertiary care.
+
+The situation in secondary care is somewhat better, but is far from ideal. There is little real co-operation between primary (community) care and secondary (hospital) care. [Better understanding](http://www.ncbi.nlm.nih.gov/pubmed/18364754) of the respective differences in perceptions between primary and secondary care may assist the development of a more functional and unified health system.
+
+Another key problem is the language and culture of health services. Health has a language of its own and patients cannot be expected to be [health-care literate](http://www.nursingworld.org/mainmenucategories/anamarketplace/anaperiodicals/ojin/tableofcontents/vol142009/no3sept09/cultural-and-linguistic-barriers-.html).
+
+One of the [serious consequences](http://www.asms.org.nz/Site/News/Top_Story/18_Nov_2013.aspx) of system issues is the [growth of waiting lists](https://www.doctorsofbc.ca/files/waiting_too_long.pdf). Waiting lists are primarily a function of inefficiency and a lack of a whole-of-system or whole-of-government approach. Apart from personal pain, suffering and inconvenience, there are significant social and economic [costs](http://www.coe.int/t/dg3/health/waitinglistreport_en.asp) attached to waiting lists.
+
+Patient flow represents the ability of the healthcare system to serve patients quickly and efficiently as they [move through](http://ie.technion.ac.il/serveng/Lectures/Hall_Flows_Hospitals_chapter1text.pdf) stages of care. When the system works well, patients flow like a river, meaning that each stage is completed with minimal delay. When the system is broken, patients accumulate like a reservoir, as in the chronic delays experienced in many big city emergency departments, with the following impacts:
+
+- Waiting creates additional work **:** Patients must be monitored and attended to while waiting, thus, as queues become large, the workload increases and the capacity to treat patients deteriorates.
+- Productive waiting (for example, recovery) versus unproductive waiting (waiting for tests): In a hospital environment this can result in conflicting objectives in managing hospital beds, and in the community it can cause both patient and system delays.
+
+1.
+  1. 2.6. **Individual care** 
+
+[Chronic conditions](http://dhbrf.hrc.govt.nz/media/documents_abcc/Final_Draft_ABCc_Disease_Specific_report_15.10.09.pdf) are the leading cause of morbidity and mortality in New Zealand, causing more than 80 percent of all deaths and a [large healthcare burden](http://journal.nzma.org.nz/journal/124-1344/4908/content.pdf). Most chronic diseases are now accepted to be caused mostly by poor lifestyle choices, [poor nutritional habits](http://www.moh.govt.nz/notebook/nbbooks.nsf/0/a8d85bc5bad17610cc256d970072a0aa/%24FILE/nutritionandtheburdenofdisease.pdf) and lack of awareness and education within communities.
+
+All major and chronic diseases are on the rise in developed countries including New Zealand. The disease rates, especially obesity, cancer, coronary disease, diabetes, tooth decay, gum disease and other chronic ailments, are not just increasing in the previously identified "high risk" and aging population categories, but spreading to younger, more diverse population categories, across socio-economic levels.
+
+The continuous rise in medical care costs, surgical and rehabilitation costs, pharmaceutical dependence and its detrimental costs to society, institutionalised healthcare provision and government-funded injury programs (like ACC) will continue to be a burden.
+
+The social and economic costs (absence from work, family and personal life disruption, depression and related dependence) only add more burdens to this dilemma. Around 1,196,200 working age, non-students are estimated to contribute to one or more of the components of indirect costs. Evaluated at the average full-time pay rate, the [estimated](http://www.treasury.govt.nz/publications/research-policy/wp/2010/10-04) hours lost equate to $4.127 billion to $11.563 billion in 2004/05.
+
+Most people are unaware of and/or lack motivation and resources in managing the risk factors that contribute to and cause chronic disease. Without that personal engagement, regular monitoring, encouraging lifestyle and diet changes, and professional as well as community support, there will be no shift in the imminent healthcare crisis and its consequences.
+
+The World Health Organisation [says](http://whqlibdoc.who.int/publications/2003/9241545992.pdf) that increasing the effectiveness of adherence interventions (self-management support) may have a far greater impact on the health of the population than any improvement in specific medical treatments.
+
+[Cultural competence](http://www.health.govt.nz/system/files/documents/publications/pacific-cultural-competencies-may08-2.pdf) is the capacity of a health system to improve health and wellbeing by integrating cultural practices and concepts into health service delivery. Generally it is considered a behavioural approach and functions on the principle that behavioural changes can only be achieved first and foremost by changes in attitude.
+
+The capacity to affect attitudes and behaviours is influenced by many factors, including leadership in the field, access to information, goodwill, informed decision-making, a learning environment, best-quality practices, and organisational processes and procedures.
+
+Global trends in mobile technology, led by companies like Apple, are moving towards placing more control on personal health and monitoring in the hands of individuals. "Apple is working to incorporate a new built-in app dubbed [Healthbook](http://appleinsider.com/articles/14/01/31/rumor-apples-next-gen-ios-8-to-include-healthbook-app-for-comprehensive-health-monitoring) into its next iOS iteration, with the software able to track everything from food intake to glucose levels."
+
+Health related data is a part of the larger move towards a " [quantified self](http://quantifiedself.com/)". Also known as [lifelogging](http://en.wikipedia.org/wiki/Quantified_Self), it is self-monitoring and self-sensing based on data acquisition on various aspects of a person's daily life using consumer technology. This is a [rapidly growing area](http://blogs.wsj.com/venturecapital/2013/08/13/the-rise-of-the-quantified-self-in-health-care/) in healthcare tracking physical activity, caloric intake, sleep quality, posture, and other factors involved in personal well-being.
+
+Matching this trend is the growing Internet connectivity of machines and sensors in the house, the so-called [Internet of Things](http://www.theguardian.com/technology/internet-of-things). Just as home equipment and devices moved from mechanical to electrical, there is an expected boom in the near future of data and connected consumer equipment. With real-time sensors, data logging, and remote monitoring, healthcare could undergo a [transformation](http://www.theguardian.com/technology/2014/jun/08/internet-of-things-coming-together-tech-revolution).
+
+One small example: 70 percent of people would be willing to have a smart toilet [share their personal data](http://qz.com/158774/70-of-people-would-be-willing-to-have-a-smart-toilet-share-their-personal-data/) to monitor their health.
+
+New Zealand's penetration of such technology is easily achievable through our evident technological and innovative prowess. That can be enhanced when guided by government policy that unifies and simplifies the creation of systems, apps, methods and professional support and analysis of the data to provide better service and care to the population.
+
+At the same time, the government has a role to play in setting privacy standards and inter-operability standards, recognising that healthcare data in the future will cover from traditional and non-traditional sources.
+
+1.
+  1. 2.7. **Learning from other sectors** 
+
+As global healthcare [expenditure soars](http://intqhc.oxfordjournals.org/content/21/5/309.ful) and as systems are increasingly required to deliver better care to more people using fewer resources, the challenge to explore the promises of [lean](http://www.ihi.org/resources/Pages/IHIWhitePapers/GoingLeaninHealthCare.aspx) thinking is compelling.
+
+Patients see the [inefficiencies](http://www.aarp.org/health/medicare-insurance/info-11-2012/health-care-system-wastes-billions.html) firsthand and often find the healthcare system uncoordinated, opaque and stressful to navigate. Healthcare research in many countries has shown that there is [little planning](http://www.scotland.gov.uk/Resource/Doc/197953/0052905.pdf) in the key areas of patient flow, capacity planning, or resource allocation. [Information flow](http://www.wtec.org/or/hosts/PDF/OR-Report.pdf) between providers is neither seamless, nor integrated. Healthcare is delivered in silos with limited or no teamwork, or sharing of information. [Effective teamwork](http://www.who.int/patientsafety/education/curriculum/who_mc_topic-4.pdf) in healthcare delivery can have an immediate and positive impact on patient safety.
+
+Lean synchronisation aims to meet demand instantaneously, with high quality and no waste. This involves supplying products and services in synchronisation with the demand for them, using "lean" or "just-in-time" principles.
+
+The central idea is that if items flow without delay, throughput time is reduced and the negative effects of in-process inventory are avoided. The concept of a lean supply chain has been likened to an air-traffic control system in that it attempts to provide continuous, real-time visibility and control to all elements in the chain. This optimises throughput while maintaining high levels of safety and reliability.
+
+Despite        the obvious difference between healthcare and other industries, there remain lessons to be learned from outside the healthcare arena.
+
+In competitive industries, transparency is a well-known driver of choice and in the UK it has been suggested that transparency can be a powerful driver of accountability.
+
+Banking and healthcare information technology shares a variety of parallels. Automatic teller machines (ATM's) are to banking what electronic medical records are to healthcare. Medicine and aviation both suffer from human errors that lead to dangerous results. Improved communication and teamwork can dramatically reduce these errors.
+
+1. 3. **Examples of global leadership** 
+  1. 3.1. **E-health solutions** 
+
+**Ontario** in Canada has launched an [E-health initiative](http://www.ehealthontario.on.ca/en/ehrs) that is enabling physicians and healthcare providers to establish and maintain electronic health records (EHRs) for all of Ontario's 13 million residents.
+
+"Electronic healthcare brings all the old paper-and-film aspects of medical records and information – from X-ray images to your prescription history – into the digital world where it is easily received, stored and shared. That means a comprehensive electronic record of your medical history can be made readily available to doctors, specialists and other clinicians involved in your treatment and care."
+
+The information system falls into three categories:
+
+- Electronic health records: ** ** EHRs bring together individual information registered with healthcare providers (your family doctor, specialist, healthcare team) and the provincial healthcare plan and eventually EHRs will include data from hospital information systems, community care clinics and other providers as well. Electronic health records are having a positive impact on patient care across the province for patients, health professionals and the healthcare system. 
+- Electronic medical records:EMRs and EMR software are the computer software physicians use to collect, manage and store the EHR. The digital equivalent of the old paper files and charts that your doctor used to keep in an office cabinet. Now, details about the care you receive from a family doctor, specialist, nurse, dietician or other health provider is captured electronically using EMR software. This makes accurate, clear and concise information about your healthcare status available to all members of your healthcare team.
+- Personal health records:PHRs are the records that you access and maintain as a patient Ã¢ÂÂ your record of appointments, email correspondence with healthcare providers, information about medications and any interaction with online patient groups.
+
+1.
+  1. 3.2. **Electronic personal health records** 
+
+**Australia**  has launched the  [Personally Controlled Electronic Health Record](http://www.ehealth.gov.au/internet/ehealth/publishing.nsf/content/home) for all of its citizens. This e-Health record is a secure online summary of an individual's health information with the individual controlling both what goes into it and who is allowed to access it.
+
+In **France** , every man, woman and child is given a [green card](http://en.wikipedia.org/wiki/Carte_Vitale), called a _Carte Vitale_, the size of a credit card with an embedded chip. This card contains all medical records — every blood test, doctor visit, imaging result, patient history, everything. It is read by a small machine that is portable so that every office, facility, pharmacy, and even a nurse or doctor visiting a patient's home can read all information and add to it.
+
+**Catalonia** in Spain has a [Shared Electronic Health Record](http://www.wsis-award.org/pr/success-stories/730) based on a decentralised management model, connected via inter-operable systems using common standards. It allows doctors to access all the relevant information available on their patients, irrespective of the healthcare service or geographical location involved, helping to ensure continuity of healthcare, integrate information, and to avoid mistakes and the unnecessary repetition of examinations or procedures.
+
+1.
+  1. 3.3. **Funding issues** 
+
+In the **United Kingdom,** there had been extensive debate about the future funding of healthcare. This is relevant to New Zealand as the National Health Service (NHS) funds universal healthcare in a similar model to that used in New Zealand.
+
+The [King's Fund](http://www.kingsfund.org.uk/about-us), an independent charity working to improve health and healthcare in England, convened a [public debate](http://www.kingsfund.org.uk/sites/files/kf/field/field_publication_file/how-should-we-pay-for-health-care-in-future-kingsfund-apr13.pdf) in 2013 on how the NHS might be reformed. Its report said in the past 50 years, spending on the NHS in the United Kingdom had increased from 3.4 percent to 8.2 percent of gross domestic product (GDP). If the next 50 years followed the same trajectory, the UK could be spending nearly one-fifth of its entire GDP on the public provision of health and social care.
+
+"When presented with facts and clear information, participants started to understand the size of the funding challenge…Most accepted that the NHS is under pressure, but few accepted that this is on a scale to justify changing the fundamental principles on which the NHS is based."
+
+"The numbers are so large that it may be difficult for the public to engage with this issue in a meaningful way. People greatly value the system as it operates at present and are conservative about change."
+
+"Although we might not need to face these issues and dilemmas immediately, the NHS is currently facing the most challenging financial period in its history and it is therefore likely that at some point the fundamental principles that underpin the NHS will be challenged. Preparing the public for this debate and understanding how to communicate these issues will be vital if we are to engage them in that decision-making process."
+
+In **Australia** it has been argued that a dramatic shift in thinking about how healthcare is funded is required if government finances are not to be overwhelmed by increased demand for health services.
+
+A reported [published](http://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/pubs/BriefingBook44p/FundingHealthCare) by the Australian Parliament said that in recent years, a number of reform options had been discussed, examined and implemented. The  [National Health and Hospitals Reform Commission](http://www.health.gov.au/internet/nhhrc/publishing.nsf/content/nhhrc-report) ** ** (NHHRC) established by the Rudd Government recommended a number of reforms around hospitals, prevention and primary care. Some of these, such as the establishment of Medicare Locals had been implemented, and it appeared they have widespread support.
+
+"But health reform is not always easy. Both the [Pharmaceutical Benefits Scheme](http://www.pbs.gov.au/pbs/home)and [Medicare](http://www.medicareaustralia.gov.au/provider/medicare/index.jsp), which now have bipartisan support, faced considerable opposition when they were first introduced, and this persisted for some time."
+
+"A major dilemma for government is developing effective approaches while maintaining wide-spread support for reforms. There are a number of obstacles to achieving these aims: political lobbying from vested-interest groups, for example, is a problem, as a recent proposal to introduce a star food labelling system illustrates.
+
+"Recent  [controversy](http://parliamentflagpost.blogspot.com.au/2013/02/the-missing-billion-revisions-to-health.html) over hospital funding arrangements in Victoria illustrates how the issue of healthcare funding remains subject to bitter disputes between governments. Although a new hospital funding formula has been agreed in that state, it remains to be seen if this can operate without recourse to the frequent disputes which characterised previous arrangements.
+
+"These examples suggest that future reform efforts may face considerable obstacles. Yet unless political machinations are set aside, and vested interests overcome, genuine long-term reform of health funding may remain an elusive goal."
+
+1.
+  1. 3.4. **System issues** 
+
+A [comprehensive evaluation](http://www.orms-today.org/orms-6-06/patientflow.html) of the Los Angeles County/University of Southern California (LAC/USC) General Hospital revealed that as with many urban public hospitals, healthcare at LAC/USC is dominated by the flow of patients through its emergency department.
+
+It was observed that there were three major causes of queues in hospitals:
+
+- Idle capacity due to a failure to synchronise complementary resources (for example, ensuring that needed technicians, nurses, physicians, supplies, patients, etc are present at the same time to provide a needed service).
+- Inadequate communications to ensure downstream departments were prepared to receive patients from upstream departments and to ensure that all parties are prepared for foreseeable demand.
+- Inefficient processes that require more work than necessary or un-needed repetition of work. 
+
+[Flinders Medical Centre](https://www.mja.com.au/journal/2008/188/6/redesigning-care-flinders-medical-centre-clinical-process-redesign-using-lean)(FMC) in **Australia** has successfully applied [lean thinking](http://www.touchpointchange.co.uk/Lean%20Thinking%20Introduction%20TPC.pdf) to improve the flow of patients and reduce waiting times for treatment. The application of lean thinking at FMC involved the following steps:
+
+- Being clear about what it is that you "make" at the step or stages in which you are involved.
+- Identifying who your customers are Ã¢ÂÂ who uses what you make, and what they value. 
+- Identifying activity families or patient-care families and their value streams.
+- Improving flow.  
+- Identifying and reducing waste. 
+- Moving from "push" to "pull" processes. 
+- Acknowledging that process improvement must be continuous.
+
+The conclusion was that over a period of three years the number of serious safety events halved, despite a substantial increase in the numbers of patients seeking care at the hospital. Moreover, during the lean thinking journey the hospital moved from a financial deficit to a substantial operating surplus without adopting extreme measures such as shedding staff.
+
+1.
+  1. 3.5. **Individual care** 
+
+**Stanford University** [research](https://novoed.com/mhealth-2014-1/pitch_decks/1486) on an Elderly Health Monitoring App (EHMA), completed in 2014, is a mobile application that connects health professionals and caregivers towards improving the elderly health.
+
+In their presentation, they included a field study, an integral healthcare model for the elderly assisted through technology, and user interfaces of the application (non-functional prototype). There are also interviews with target users, health professionals and elderly people from four countries.
+
+The **British Government** and the National Health Service are [seeking](https://www.gov.uk/government/news/gps-to-prescribe-apps-for-patients--2) development of such interactive technology and apps so that people could soon be directed to free or cheap apps by their GPs to allow them to monitor and manage their health more effectively.
+
+In the US, the **Centers for Disease Control and Prevention** and the United Nations are recognising the heightened value of such apps for an [array](http://thenationshealth.aphapublications.org/content/41/8/1.3.full) of [public health issues](http://www.medscape.com/viewarticle/750855) and audiences.
+
+**Dr Lance O'Sullivan** , 2014 New Zealander of the Year, started and applied an advanced technology initiative called " [vMOKO](http://www.3news.co.nz/VMOKO-brings-health-care-to-remote-Far-North/tabid/817/articleID/344380/Default.aspx)" to deliver and improve access to healthcare for those living in remote areas like the far North of New Zealand.
+
+1.
+  1. 3.6. **Learning from other sectors** 
+
+In the **United Kingdom** , researchers have looked to the defence and commerce sectors to compare them to healthcare. In a paper entitled [_Simulation in health-care: lessons from other sectors_](http://link.springer.com/article/10.1007/s12351-010-0089-8#page-1), the authors compared the results of broad-range literature reviews over the period 1997–2006 on the application of simulation in three sectors: commerce, defence, and health-care.
+
+"The main purpose of these reviews is to see whether there are lessons to learn from the first two sectors to be applied in the health-care sector."
+
+"Results of our reviews show that, simulation has been commonly used in the three sectors; however, there is clear evidence of lack of consistency in the level of implementation. More specifically, healthcare lags behind the other two sectors, particularly in terms of stakeholder engagement and, consequently, in terms of implementation of simulation outcomes."
+
+1. 4. **Strategy proposals** 
+  1. 4.1. **Building an E-health environment** 
+
+The Internet Party will accelerate the current slow progress to create an E-health environment. Taking a holistic, whole-of-system approach, the healthcare system will be substantially improved by using information and communication technologies to enhance the quality and safety of health services. This includes better Internet for primary healthcare providers to reflect the increased use of networked and remote services.
+
+Patient-centred, shared care will better support high quality as well as efficient treatment in healthcare. Significant cost reductions are expected from avoiding multiple medical investigations and optimising workflows.
+
+The concept of individual-led healthcare will be specifically included in the above review, to increasingly include proactive care. Interrupted, uncoordinated health checks, surveys and treatments will be replaced by persistent health monitoring as well as targeted advice, education, and empowering support.
+
+1.
+  1. 4.2. **Electronic personal health records** 
+
+The Internet Party wants all New Zealanders to have an E-PHR that is owned and controlled by them. People can choose to share their E-PHR with others, including caregivers, family members and providers.
+
+The E-PHR will have data from many sources, conforming to nationally recognised inter-operability standards, and will provide a complete, up-to-date picture of an individual's health and medical history. It will include not only information from health professionals and institutions, but also information provided or entered by the individual.
+
+The E-PHR will take into account increasing individual-led consumer and smart home technologies. This requires inter-operability and standardisation of data from public and private sources.
+
+It also requires the creation of systems, apps, methods, and professional support and analysis of the data to provide better service and care to the population, both individually and collectively.
+
+Particular emphasis will be placed on reliability, security, privacy, control, transparency of access, and governance.
+
+1.
+  1. 4.3. **Funding and systems reform** 
+
+The Internet Party will initiate a review of how healthcare funding is spent with an aim to cut waiting lists. The review will take a whole-of-government approach focused on individual health needs, emphasise the principles of lean thinking used by other sectors, and eliminate waste. From this review will emerge new targets for funding, performance, and transparent public reporting. The review may also lead to efficiencies and better ways of ICT procurement.
