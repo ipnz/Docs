@@ -3,36 +3,36 @@
 **Table of Contents**
 
 1. **Problems Identified** 
-  1.1.Context
-  1.2.Increased transparency
-  1.3.Better government services
-  1.4.Increased participation
+  * 1.1. Context
+  * 1.2. Increased transparency
+  * 1.3. Better government services
+  * 1.4. Increased participation
 
 2. **Relevant Data/Research** 
-  2.1.Office of the Ombudsman
-  2.2.Better Public Services
-  2.3.Government ICT strategy
-  2.4.Government IT projects failure
-  2.5.Government services online
-  2.6.RealMe
-  2.7.Better services to businesses
-  2.8.Government procurement
-  2.9.Open data
-  2.10.Open source software
-  2.11.Declining voter participation, accessibility, and online voting
-  2.12.Referenda
+  * 2.1. Office of the Ombudsman
+  * 2.2. Better Public Services
+  * 2.3. Government ICT strategy
+  * 2.4. Government IT projects failure
+  * 2.5. Government services online
+  * 2.6. RealMe
+  * 2.7. Better services to businesses
+  * 2.8. Government procurement
+  * 2.9. Open data
+  * 2.10. Open source software
+  * 2.11. Declining voter participation, accessibility, and online voting
+  * 2.12. Referenda
 
 3. **Examples of Global Leadership** 
-  3.1.E-Estonia
-  3.2.UK digital strategy, cloud computing and open data
-  3.3.US States' expenditure transparency
-  3.4.E-government ranking
-  3.5.Switzerland and direct democracy
+  * 3.1. E-Estonia
+  * 3.2. UK digital strategy, cloud computing and open data
+  * 3.3. US States' expenditure transparency
+  * 3.4. E-government ranking
+  * 3.5. Switzerland and direct democracy
 
 4. **Policy Proposals** 
-  4.1.Increased transparency
-  4.2.Better government services
-  4.3.Increased participation
+  * 4.1. Increased transparency
+  * 4.2. Better government services
+  * 4.3. Increased participation
 
 ## Problems identified
 
@@ -52,7 +52,7 @@ The varying roles of Government (and the status of people in relation to that ro
 
 This policy considers both aspects of Government - the 'Government' as in the Executive (Cabinet and Ministers) as well as 'government' to mean the State Sector (public services).
 
- ### 1.2 Increased transparency
+### 1.2 Increased transparency
 
 Other than media announcements and adversarial Parliamentary oversight, there is little transparency or understanding of how Government works. There is even less about why a particular decision or regulation was introduced. Government expenditure is published in formats and ways that make it hard for people to get an insight into how it's being spent or if any particular interest groups or companies are being favoured.
 
@@ -66,7 +66,7 @@ Failures in government projects and security are increasingly apparent. The inte
 
 Government procurement remains myopically focused on upfront costs while the benefits of open standards and open source software remain untapped. Also untapped are opportunities to reduce the time and effort required by businesses, especially Small and Medium Enterprises, in complying with government's regulations, interactions, and reporting requirements.
 
- ### 1.4 Increased participation
+### 1.4 Increased participation
 
 There is a persistent downward trend in voting and civic participation. The lack of participation in the democratic process is most tangible amongst those who could potentially have the most to gain. Increasingly, people want a more granular say on laws and are unwilling to accept any Government having a mandate to do whatever it wants in between general elections.
 
@@ -90,7 +90,7 @@ The Banking Ombudsman Scheme only considers a complaint "if the Scheme Participa
 
 Another similar scheme is the [**Insurance & Savings Ombudsman**](http://www.iombudsman.org.nz/). It provides a free, "independent and impartial opinion on disputes" which is not binding on consumers. Before the Scheme can consider a complaint, the person needs to have used their financial service provider's internal dispute resolution process and reached the end of it without resolution.
 
- ### 2.2 Better Public Services
+### 2.2 Better Public Services
 
 [**According**](http://www.ssc.govt.nz/better-public-services) to the State Services Commission, "New Zealand's State sector faces increasing expectations for better public services in the context of prolonged financial constraints compounded by the global financial crisis. There is demand for improvements in addressing complex, long-term issues that affect New Zealanders."
 
