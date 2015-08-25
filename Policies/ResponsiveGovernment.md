@@ -1,47 +1,42 @@
 # Responsive Government
 
-
-
 **Table of Contents**
 
+1. **Problems Identified** 
+  1.1.Context
+  1.2.Increased transparency
+  1.3.Better government services
+  1.4.Increased participation
 
+2. **Relevant Data/Research** 
+  2.1.Office of the Ombudsman
+  2.2.Better Public Services
+  2.3.Government ICT strategy
+  2.4.Government IT projects failure
+  2.5.Government services online
+  2.6.RealMe
+  2.7.Better services to businesses
+  2.8.Government procurement
+  2.9.Open data
+  2.10.Open source software
+  2.11.Declining voter participation, accessibility, and online voting
+  2.12.Referenda
 
-1. 1. **Problems Identified** 
-  1. 1.1.Context
-  2. 1.2.Increased transparency
-  3. 1.3.Better government services
-  4. 1.4.Increased participation
+3. **Examples of Global Leadership** 
+  3.1.E-Estonia
+  3.2.UK digital strategy, cloud computing and open data
+  3.3.US States' expenditure transparency
+  3.4.E-government ranking
+  3.5.Switzerland and direct democracy
 
-1. 2. **Relevant Data/Research** 
-  1. 2.1.Office of the Ombudsman
-  2. 2.2.Better Public Services
-  3. 2.3.Government ICT strategy
-  4. 2.4.Government IT projects failure
-  5. 2.5.Government services online
-  6. 2.6.RealMe
-  7. 2.7.Better services to businesses
-  8. 2.8.Government procurement
-  9. 2.9.Open data
-  10. 2.10.Open source software
-  11. 2.11.Declining voter participation, accessibility, and online voting
-  12. 2.12.Referenda
+4. **Policy Proposals** 
+  4.1.Increased transparency
+  4.2.Better government services
+  4.3.Increased participation
 
-1. 3. **Examples of Global Leadership** 
-  1. 3.1.E-Estonia
-  2. 3.2.UK digital strategy, cloud computing and open data
-  3. 3.3.US States' expenditure transparency
-  4. 3.4.E-government ranking
-  5. 3.5.Switzerland and direct democracy
+## Problems identified
 
-1. 4. **Policy Proposals** 
-  1. 4.1.Increased transparency
-  2. 4.2.Better government services
-  3. 4.3.Increased participation
-
-
-
-1. 1. **Problems identified** 
-  1. **1.1****  Context**
+### 1.1 Context
 
 A Responsive Government is one that works for the people, not the other way around. 'Working for the people' has many dimensions- from trust in government to efficiency to customer focus to accountability.
 
@@ -57,15 +52,13 @@ The varying roles of Government (and the status of people in relation to that ro
 
 This policy considers both aspects of Government - the 'Government' as in the Executive (Cabinet and Ministers) as well as 'government' to mean the State Sector (public services).
 
-1.
-  1. **1.2**** Increased transparency**
+ ### 1.2 Increased transparency
 
 Other than media announcements and adversarial Parliamentary oversight, there is little transparency or understanding of how Government works. There is even less about why a particular decision or regulation was introduced. Government expenditure is published in formats and ways that make it hard for people to get an insight into how it's being spent or if any particular interest groups or companies are being favoured.
 
 Dealing with bureaucracies- including government bureaucracy- can be very frustrating, disempowering, and no way to seek redress or equitable outcomes.
 
-1.
-  1. **1.3**** Better government services**
+ ### 1.3 Better government services
 
 Government services are still primarily delivered based on silos with more focus on inward looking performance measures over customer satisfaction. 'Digital first' services are still an exception and are often simply online versions of legacy government processes. As measured by people's perceptions of government services, there has been no discernible improvement in recent years.
 
@@ -73,15 +66,15 @@ Failures in government projects and security are increasingly apparent. The inte
 
 Government procurement remains myopically focused on upfront costs while the benefits of open standards and open source software remain untapped. Also untapped are opportunities to reduce the time and effort required by businesses, especially Small and Medium Enterprises, in complying with government's regulations, interactions, and reporting requirements.
 
-1.
-  1. **1.4**** Increased participation**
+ ### 1.4 Increased participation
 
 There is a persistent downward trend in voting and civic participation. The lack of participation in the democratic process is most tangible amongst those who could potentially have the most to gain. Increasingly, people want a more granular say on laws and are unwilling to accept any Government having a mandate to do whatever it wants in between general elections.
 
 The standard government consultation process is fundamentally broken with often token efforts made too late to really improve or impact on decisions already made. The government is largely absent from where people and businesses are increasingly present and engaged.
 
-1. 2. **Relevant data/research** 
-  1. **2.1**** Office of the Ombudsman**
+## 2. Relevant data/research
+
+### 2.1 Office of the Ombudsman
 
 The [**first**](http://www.ombudsman.parliament.nz/about-us/history) New Zealand Ombudsman was appointed in 1962. New Zealand was the fourth country, after Sweden, Finland and Denmark, to establish the office of Ombudsman. Since then, several legislations have extended the Ombudsman's jurisdiction to local government and Crown entities. In 1983 the Ombudsman was given the function of investigating and reviewing complaints about decisions made by Ministers of the Crown and central government agencies on requests for information under the Official Information Act.
 
@@ -97,8 +90,7 @@ The Banking Ombudsman Scheme only considers a complaint "if the Scheme Participa
 
 Another similar scheme is the [**Insurance & Savings Ombudsman**](http://www.iombudsman.org.nz/). It provides a free, "independent and impartial opinion on disputes" which is not binding on consumers. Before the Scheme can consider a complaint, the person needs to have used their financial service provider's internal dispute resolution process and reached the end of it without resolution.
 
-1.
-  1. **2.2**** Better Public Services**
+ ### 2.2 Better Public Services
 
 [**According**](http://www.ssc.govt.nz/better-public-services) to the State Services Commission, "New Zealand's State sector faces increasing expectations for better public services in the context of prolonged financial constraints compounded by the global financial crisis. There is demand for improvements in addressing complex, long-term issues that affect New Zealanders."
 
@@ -122,8 +114,7 @@ Based on the [**latest quarterly update**](http://www.ssc.govt.nz/kiwis-count-up
 
 As an example of the lack of agility of public services in quickly adapting to unexpected circumstances, the Auditor General's [**report**](http://www.oag.govt.nz/2013/eqc) of October 2013 into the EQC response to the Canterbury earthquakes says, "Although efficiency is clearly important, this report is a timely reminder for EQC and others that being in the public service means serving the needs of people… I have recommended that EQC prioritise actions that will give homeowners more certainty and improve the consistency of its practices. I have also recommended, among other matters, that EQC continue monitoring project management costs and quality assurance data to ensure that costs and quality are appropriate."
 
-1.
-  1. **2.3**** Government ICT strategy**
+### 2.3 Government ICT strategy
 
 The Chief Executive of the Department of Internal Affairs is also the ICT Functional Leader for the State sector.  He has the title of Government Chief Information Officer (CIO). The Government CIO is responsible for:
 
@@ -154,8 +145,7 @@ One New Zealand lobby group has [**identified**](http://www.nztech.org.nz/Catego
 - Support New Zealand Industry by preferring New Zealand based suppliers, recognizing that our exporters rely on being able to say "We have sold this to our own government agencies" or "our proof point is our customer base in our home market."
 - Attract & Appoint experienced technology sector leaders to public sector senior management & governance teams to ensure technology is used strategically and implemented effectively.
 
-1.
-  1. **2.4**** Government IT projects failure**
+### 2.4 Government IT projects failure
 
 There have been several government IT projects that have failed, perhaps the most prominent recent one is Novopay. This is detailed in the Internet Party's Modern Schools policy. Failure is not limited to the government or New Zealand.
 
@@ -204,8 +194,7 @@ There are fears that future Government IT-enabled projects may fail if the lesso
 
 Another [**says**](http://www.techblog.co.nz/485-IRDTransformationProjectWhatshappening), "All research on IT project failure to date is very clear on one point: the larger the project, the more likely it will fail. And the larger mess it will likely make… the only way to make a success of a large project is to break it down into a series of smaller interdependent projects, each self-contained and able to succeed or fail without bringing the whole shebang to an end… Another key benefit of a series of smaller projects is that it's far less likely to close out the local industry."
 
-1.
-  1. **2.5**** Government services online**
+### 2.5 Government services online
 
 The "front door" is [**newzealand.govt.nz**](http://newzealand.govt.nz/) where "you can find information, images and resources from all New Zealand government agencies and government funded sites." It is a "thin" portal which provides an overview of a topic or service but links to source websites for detailed content.
 
@@ -223,8 +212,7 @@ According to the [**Kiwis Count Channels Report 2013**](http://www.ssc.govt.nz/k
 
 The top two factors that would encourage people to use more online services are also the two that have had large increases since the previous survey in 2009. 'Make it simple and user friendly' has increased over the three year period from 63% to 83% while the second, 'Ensure my privacy is protected', has gone from 48% to 64%. On the other hand, 'Have one website for all public services' has declined from 30% to 27%.
 
-1.
-  1. **2.6**** RealMe**
+### 2.6 RealMe
 
 [**RealMe**](https://www.realme.govt.nz/) does two jobs- a single login to multiple online services and, if a person upgrades to a verified RealMe account, it also works as the person's online ID. The online ID is a person's unique identity verified by four pieces of information- full name, date of birth, place of birth and gender. Setting up a verified RealMe account requires a photo taken at a participating PostShop and optionally adding a verified address.
 
@@ -238,8 +226,7 @@ RealMe, and igovt before it, has been criticised for being [**difficult to use**
 
 Despite its strict privacy architecture and governing legislation, some people still have [**privacy concerns**](http://techliberty.org.nz/is-realme-a-threat-to-our-liberty/) regarding RealMe as well as the complexity involved for organisations to integrate it with their legacy online systems. Currently there are there are over 1.5 million RealMe logins, and 17,000 people with a RealMe Verified account.
 
-1.
-  1. **2.7**** Better services to businesses**
+### 2.7 Better services to businesses
 
 The Better Public Services [**Result 9 programme**](http://www.mbie.govt.nz/what-we-do/better-public-services) is led by the Ministry of Business, Innovation and Employment and delivered in partnership with eight government agencies. The aim is to provide:
 
@@ -266,8 +253,7 @@ Some [**initiatives**](http://www.ssc.govt.nz/bps-interaction-with-govt#result9)
 - Significant improvements to the Companies Office website to enable users to obtain relevant information or complete compliance obligations immediately.
 - Launching Business.govt.nz's ONECheck tool that combines a company name, domain and trade mark search in one place online.
 
-1.
-  1. **2.8**** Government procurement**
+### 2.8 Government procurement
 
 One New Zealand lobby group has identified the following [**barriers**](http://www.nzrise.org.nz/assets/Uploads/Procurement/NZRise-submission-paper-final.pdf) in the government's procurement strategy and processes:
 
@@ -303,8 +289,7 @@ There are good [**examples**](http://www.citylab.com/tech/2014/07/how-barcelona-
 
 Philadelphia is an example of embedding the 'civic hacking' of one-off hackathons and apps challenges to a well structured solutions approach that includes bringing together "a diverse group of entrepreneurs whose varied backgrounds in technology or marketing or finance would complement each other."
 
-1.
-  1. **2.9**** Open data**
+### 2.9 Open data
 
 The New Zealand Government Open Access and Licensing framework ( [**NZGOAL**](http://ict.govt.nz/guidance-and-resources/open-government/nzgoal)), approved by Cabinet in July 2010, is government guidance for agencies to follow when releasing copyright works and non-copyright material for re-use by others. It is [**mandatory**](http://ict.govt.nz/assets/Uploads/Documents/SSCer%20NZGOAL%20letter%20to%20Public%20Service%20CEs.pdf) for the Public Service and non-Public Service departments to take it into account when releasing material for re-use by others.
 
@@ -316,8 +301,7 @@ The Declaration further states that, "Through this commitment New Zealand citize
 
 According to the [**2014 report**](http://ict.govt.nz/guidance-and-resources/open-government/declaration-open-and-transparent-government/2014-report-on-adoption-of-the-declaration/) on adoption of the Declaration, "Progress in 2014 has varied… Twelve departments (compared with ten in 2013 and six in 2012) are consistently releasing public data fully compliant with the Declaration."
 
-1.
-  1. **2.10**** Open source software**
+### 2.10 Open source software
 
 In one [**presentation**](http://www.linz.govt.nz/geospatial-office/blog/how-to-explain-the-business-benefits-of-open-source-for-government), the benefits for open source software to government are explained as:
 
@@ -331,8 +315,7 @@ In March 2006 the State Services Commission issued [**guidance**](http://www.ssc
 
 The guidance remains in force and is referenced by the [**Guidelines for the Treatment of Intellectual Property Rights in ICT Contracts**](http://ict.govt.nz/guidance-and-resources/open-government/guidelines-for-the-treatment-of-intellectual-property-rights-in-ict-contracts/) which sets out the government policy for State Services agencies to follow. This Guideline also specifies that, as a general rule, commercialisation of intellectual property should be carried out by the commercial sector and not government.
 
-1.
-  1. **2.11**** Declining voter participation, accessibility, and online voting**
+### 2.11 Declining voter participation, accessibility, and online voting
 
 According to [**official**](http://www.elections.org.nz/events/past-events/general-elections-1853-2011-dates-and-turnout) Electoral Commission statistics, there were 3.07 million registered voters for the 2011 General Elections with 74.2% casting their vote. This was down from 79.5% in 2008 and 80.9% in 2005.
 
@@ -373,8 +356,7 @@ A [**trial**](http://www.beehive.govt.nz/release/online-voting-be-trialled-2016-
 
 Public confidence and trust in elections would be undermined if there were technical or security problems with online voting. Robust regulations, extensive risk mitigation, security and audit measures are necessary to ensure reliability, accuracy and integrity of any online voting system."
 
-1.
-  1. **2.12**** Referenda**
+### 2.12 Referenda
 
 Referenda are widely considered a powerful tool to engage citizens directly in the democratic process, particularly in light of growing voter apathy and disenchantment with voting.
 
@@ -392,8 +374,9 @@ This makes successfully organising a referendum an enormous task that would gene
 
 Opinion is divided on whether or not Citizens Initiated Referenda should or should not be binding. For example, two legal academics have [**argued**](http://www.gaynz.com/articles/publish/31/article_8116.php) that they pose leading questions, do not propose effective solutions, and could be motivated by 'passion or political expediency'. Another has [**dismissed**](http://www.stephenfranks.co.nz/dump-citizen-initiated-referenda/) it "as no more useful than a well conducted opinion poll." Referenda gauge the view of the majority, and this could put [**minority interests at risk**](http://www.victoria.ac.nz/law/research/publications/vuwlr/prev-issues/pdf/vol-34-2003/issue-4/goschik.pdf). A binding Citizens' Initiated Referendum could be used to unfairly target the gay community or specific ethnic and religious groups, for example to halt Treaty of Waitangi claims. On the other side, some political parties have made binding referenda a core policy.
 
-1. 3. **Examples of global leadership** 
-  1. **3.1** [**E-Estonia**](http://e-estonia.com/)
+## 3. Examples of global leadership
+
+### 3.1 [E-Estonia](http://e-estonia.com/)
 
 Estonia has made headlines as being a global leader in e-governance. Since declaring Internet access a human right in 2000, Estonia has made massive investments in digital government services and Internet infrastructure in order to [**propel**](http://www.csmonitor.com/2003/0701/p07s01-woeu.html) Estonia to the digital age.
 
@@ -407,8 +390,7 @@ Estonia has implemented a secure e-voting system which allows Estonians to vote 
 
 An [**independent review**](https://estoniaevoting.org/) of Estonia's e-voting security found "staggering gaps in procedural and operational security, and the architecture of the system leaves it open to cyberattacks from foreign powers, such as Russia. These attacks could alter votes or leave election outcomes in dispute. We have confirmed these attacks in our lab — they are real threats. We urgently recommend that Estonia discontinue use of the system."
 
-1.
-  1. **3.2**** UK digital strategy, cloud computing and open data**
+### 3.2 UK digital strategy, cloud computing and open data
 
 Within the Cabinet Office (equivalent to our Department of Prime Minister and Cabinet) and the [**Efficiency and Reform Group**](https://www.gov.uk/government/organisations/efficiency-and-reform-group), [**Government Digital Service (GDS)**](https://www.gov.uk/government/organisations/government-digital-service) is leading the digital transformation of the UK Government.
 
@@ -445,8 +427,7 @@ The UK Government's G-Cloud was first announced as part of the government's ICT 
 
 One component is the [**CloudStore**](https://www.gov.uk/how-to-use-cloudstore) that is an online marketplace where suppliers offer their services to the public sector via the G-Cloud framework, which are agreements with suppliers that set out terms and conditions under which purchases ('call-offs') can be made throughout the term of the agreement.
 
-1.
-  1. **3.3**** US States' expenditure transparency**
+### 3.3 US States' expenditure transparency
 
 According to [**Following the Money 2014 How the 50 States Rate in Providing Online Access to Government Spending Data**](http://www.uspirg.org/reports/usp/following-money-2014), "Every year, state governments spend tens of billions of dollars through contracts for goods and services, subsidies to encourage economic development, and other expenditures. Accountability and public scrutiny are necessary to ensure that the public can trust that state funds are well spent."
 
@@ -454,8 +435,7 @@ According to [**Following the Money 2014 How the 50 States Rate in Providing Onl
 
 As an example, in 2011 the Texas Comptroller of Public Accounts set up [**Texas Transparency**](http://www.texastransparency.org/), a website that provides detailed information about state expenditure, including specific datasets regarding the spending on each department that can downloaded and re-used. The site also provides information about and links to transparency efforts and the state budget process.
 
-1.
-  1. **3.4**** E-government ranking**
+### 3.4 E-government ranking
 
 The 2014 United Nations E-Government Survey [**E-Government for the Future We Want**](http://unpan3.un.org/egovkb/Reports/UN-E-Government-Survey-2014) presents a "systematic assessment of the use and potential of information and communication technologies to transform the public sector by enhancing efficiency, effectiveness, transparency, accountability, access to public services and citizen participation in the 193 Member States of the United Nations, and at all levels of development."
 
@@ -463,8 +443,7 @@ New Zealand is [**ranked**](http://unpan3.un.org/egovkb/en-us/Data/Country-Infor
 
 A major thrust of the leading country, South Korea, is towards what it calls [**Government 3.0**](http://koreajoongangdaily.joins.com/news/article/article.aspx?aid=2973371). [**Elements**](http://www.i-policy.org/2013/10/south-korea-government-30-the-future-of-opening-sharing-communication-and-collaboration.html) of this [**policy**](http://www.slideshare.net/LenaGolubtsova2/government-3-copy) include proactive release of government data, two-way personalised services, and increasing channel diversity to include mobile.
 
-1.
-  1. **3.5**** Switzerland and direct democracy**
+### 3.5 Switzerland and direct democracy
 
 Switzerland is a rare example of a country with instruments of direct democracy at the level of the towns, cantons and federal state. The origins of Switzerland's [**modern system of Direct Democracy**](http://direct-democracy.geschichte-schweiz.ch/) lie in the experimental phase of democracy in the 19th century when Switzerland was surrounded by monarchies on the European continent that showed little to none enthusiasm for democracy.
 
@@ -478,8 +457,9 @@ There is a way to have a formalised method of opinion polling before a draft ref
 
 The German terms "Referendumsdrohung" [threat of referendum] and "mit Referendum drohen" [threaten to call for a referendum] cannot be found in dictionaries, but they are a critical component of understanding how direct democracy [**works in practice**](http://direct-democracy.geschichte-schweiz.ch/switzerlands-system-referendums.html) in Switzerland.
 
-1. 4. **Policy proposals** 
-  1. **4.1**** Increased transparency**
+## 4. Policy proposals
+
+### 4.1 Increased transparency
 
 **Open by default**
 
@@ -491,8 +471,7 @@ Along the lines of the UK Government, the Internet Party will require all State 
 
 The Auditor General will be required to annually assess data completeness, timeliness, quality, and accuracy of the data submitted by government organisations and their adherence to data standards.
 
-1.
-  1. **4.2**** Better government services** 
+### 4.2 Better government services
 
 **Technology-enabled government transformation**
 
@@ -554,8 +533,7 @@ In addition to efficiencies and cost savings from aggregating demand, the Intern
 
 The Internet Party will continue to support the government open data initiatives with a particular emphasis on agencies meeting the open data principles. Re-use of the data in useful services as well as obtaining actionable insights will be actively promoted. Non-government organisations and businesses will be encouraged to join in, adding in their own datasets based on open data principles.
 
-1.
-  1. **4.3**** Increased participation** 
+### 4.3 Increased participation
 
 **Democracy Portal**
 
