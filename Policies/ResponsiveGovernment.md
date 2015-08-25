@@ -58,7 +58,7 @@ Other than media announcements and adversarial Parliamentary oversight, there is
 
 Dealing with bureaucracies- including government bureaucracy- can be very frustrating, disempowering, and no way to seek redress or equitable outcomes.
 
- ### 1.3 Better government services
+### 1.3 Better government services
 
 Government services are still primarily delivered based on silos with more focus on inward looking performance measures over customer satisfaction. 'Digital first' services are still an exception and are often simply online versions of legacy government processes. As measured by people's perceptions of government services, there has been no discernible improvement in recent years.
 
