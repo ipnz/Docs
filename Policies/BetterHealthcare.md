@@ -1,15 +1,5 @@
 # Better Healthcare
 
-
-
-
-
-
-
-
-
-
-
 Table of contents
 
 1. 1.Problems/opportunities identified
@@ -43,10 +33,6 @@ Table of contents
   1. 4.1.Building an E-health environment
   2. 4.2.Electronic personal health records
   3. 4.3.Funding and systems reform
-
-
-
-
 
 1. 1. **Problems/opportunities identified** 
   1. 1.1. **E-health solutions** 
