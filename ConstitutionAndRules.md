@@ -1,3 +1,16 @@
+---
+layout: post
+title: INTERNET PARTY CONSTITUTION & RULES
+excerpt: "Constitution & Rules"
+modified: 2014-05-14
+tags: [Constitution, Rules]
+comments: true
+image:
+  feature: sample-image-5.jpg
+  credit: WeGraphics
+  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+---
+
 # INTERNET PARTY CONSTITUTION & RULES
 
 ## 1 DEFINITIONS
