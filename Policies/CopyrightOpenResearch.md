@@ -1,49 +1,58 @@
 # Copyright & Open Research
 
-
-
 **Table of Contents**
 
+1. Summary 
 
+2. Problems Identified 
+  
+  2.1 First principles review
+  
+  2.2 Copyright Act review
+  
+  2.3 Open research
 
-1. 1. **Summary** 
-2. 2. **Problems Identified** 
-  1. 2.1.First principles review
-  2. 2.2.Copyright Act review
-  3. 2.3.Open research
+3. Relevant Data/Research 
+  
+  3.1 Background
+  
+  3.2 Digital Millennium Copyright Act (DMCA)
+  
+  3.3 New Zealand Copyright Act
+  
+  3.4 Extent and reasons for infringement
+  
+  3.5 Copyright and Human Rights
+  
+  3.6 Copyright and Innovation
+  
+  3.7 Free Culture Movement
+  
+  3.8 Philosophy of Copyright
+  
+  3.9 Open Access to Research
 
-1. 3. **Relevant Data/Research** 
-  1. 3.1.Background
-  2. 3.2.Digital Millennium Copyright Act (DMCA)
-  3. 3.3.New Zealand Copyright Act
-  4. 3.4.Extent and reasons for infringement
-  5. 3.5.Copyright and Human Rights
-  6. 3.6.Copyright and Innovation
-  7. 3.7.Free Culture Movement
-  8. 3.8.Philosophy of Copyright
-  9. 3.9.Open Access to Research
+4. Examples of Global Leadership 
+  
+  4.1 Review of copyright laws globally
+  
+  4.2 Australian adoption of fair use
+  
+  4.3 European Commission Ten Pledges
+  
+  4.4 Aaron's Law
 
-1. 4. **Examples of Global Leadership** 
-  1. 4.1.Review of copyright laws globally
-  2. 4.2.Australian adoption of fair use
-  3. 4.3.European Commission Ten Pledges
-  4. 4.4.Aaron's Law
+5. Policy Proposals 
 
-1. 5. **Policy Proposals** 
+  5.1 First principles review
 
-5.1        First principles review
+  5.2 Update NZ copyright law
 
-5.2        Update NZ copyright law
+  5.3 Boost legal content availability
 
-5.3        Boost legal content availability
+  5.4 Mandate open research
 
-5.4        Mandate open research
-
-
-
-
-
-1. 1. **Summary** 
+## 1. Summary 
 
 Copyright policy now affects everyone- from students to businesses; from democracy to knowledge; from innovation to culture. The Internet and digital technologies are fundamentally questioning the very foundation and assumptions underlying copyright as we know it today, making a compelling case for a first principles review of copyright.
 
@@ -55,8 +64,9 @@ The Internet Party will focus on boosting the availability of legal content onli
 
 It will also mandate that all taxpayer-funded research be openly available, with the public freely able to access and reuse it, unless prohibited under any required ethical consent or approval.
 
-1. 2. **Problems identified** 
-  1. **2.1****  First principles review**
+## 2. Problems identified
+
+### 2.1 First principles review
 
 The broad principles on which the concepts of copyright are founded – shaped over several centuries of the printed word era - are overdue for reconsideration in the new digital information paradigm. Copyright has evolved into the institution we know today mainly as a result of the bargains between market interests and an asymmetric balancing of public interests against those of corporate interests.
 
@@ -64,8 +74,7 @@ Individual freedoms and human rights must now be balanced against copyright fram
 
 Copyright policy now affects everyone- from students to businesses; from democracy to knowledge; from innovation to culture. The Internet and digital technologies are fundamentally questioning the very foundation and assumptions underlying copyright as we know it today, making a compelling case for a first principles review of copyright.
 
-1.
-  1. **2.2**** NZ copyright law review**
+### 2.2 NZ copyright law review
 
 The Copyright Act is a print-oriented antiquity with expedient digital add-ons. Over the past six years, the only change has been the flawed "three strikes" amendment aimed at penalising peer-to-peer file sharing. Even the promised review of the law last year, five years after the 2008 amendments, has been quietly shelved in the shadow of the secretive Trans-Pacific Partnership Agreement negotiations.
 
@@ -77,13 +86,13 @@ While a first principles review can help paint a picture of the future state, th
 
 The legality of New Zealanders using technical means such as Virtual Private Networks and Domain Name System services to bypass geoblocking and access legal overseas content providers such as Netflix and Hulu Plus is unclear. Paying for such legal content from overseas may be illegal in New Zealand, in addition to considering the commercial terms a person enters into with the overseas business.
 
-1.
-  1. **2.3**** Open research**
+### 2.3 Open research
 
 Most publicly-funded research produced in New Zealand is not readily or freely available to the public. There are now worldwide moves and nascent New Zealand initiatives towards a new age of open knowledge based on open access to research outcomes. The legacy approach is deeply embedded into funding, recognition, and peer review of academic works as well as the business models of publishers and some professional organisations. This makes change complex and difficult.
 
-1. 3. **Relevant data/research** 
-  1. **3.1**** Background**
+## 3. Relevant data/research
+
+### 3.1 Background
 
 Since the explosive arrival of the digital age and the Internet in the 1990s, [**copyright**](http://www.copyright.org.nz/viewInfosheet.php?sheet=29) – a set of exclusive property rights given to owners in relation to their creations– has become an international battleground for lawyers, politicians, corporations, creators and consumers.
 
@@ -107,7 +116,7 @@ He said ifthe [**Trade-Related Aspects of Intellectual Property Rights**](http:/
 
 **"** Additionally, the balance of interest between users and copyright holders is almost completely changed. Distinctions between authors, distributors, consumers, and users of copyrighted works, which traditional copyright industries developed and encouraged and which copyright laws reflect, have been altered and blurred by the evolution of one part of the GII **-** the Internet."
 
-**3.2        Digital Millennium Copyright Act (DMCA)**
+### 3.2 Digital Millennium Copyright Act (DMCA)
 
 The [**DMCA**](http://en.wikipedia.org/wiki/Digital_Millennium_Copyright_Act) is a US copyright law that acted, and continues to act since coming into effect in 1998, to be a global example in setting a balance between the interests of copyright owners and users in the context of technological advances such as the Internet.
 
@@ -115,7 +124,7 @@ One innovation of the law was to provide exemption for Internet intermediaries f
 
 DMCA has been criticised on the grounds of being open to [**abuse**](http://www.tcf.org.nz/content/ebc0a1f5-6c04-48e5-9215-ef96d06898c0.cmr) by copyright owners and its general [**outlawing**](http://arstechnica.com/tech-policy/2013/05/members-of-congress-finally-introduce-serious-dmca-reform/) of circumventing technical protection measures even for lawful purposes.
 
-**3.3        New Zealand Copyright Act**
+### 3.3 New Zealand Copyright Act
 
 New Zealand's copyright legislation sprang from our traditional ties to British Commonwealth law, whose origins in this particular field date back to a 1710 British law called the [**Statute of Anne**](http://www.copyrighthistory.com/anne.html). This attempted to deal with creative ownership disputes in the burgeoning age of print. Then, as now, the main battleground was dominated by the owners of the means of publication, the printers, rather than the creators of content or those who consumed it.
 
@@ -127,7 +136,7 @@ One of the most significant amendments to the Copyright Act 1994 – the " [**th
 
 These concerns were misguided, according to Copyright Council consultant Carmen Vietri, who [**wrote**](http://www.copyright.org.nz/viewNews.php?news=498) that public concern about section 92A was fuelled by misguided and sensational publicity.
 
-A new version appeared three years later in September 2011, inserting Section 122A to U. This is commonly referred to as the 'three strikes' Act or ' [**Skynet**](http://en.wikipedia.org/wiki/Copyright_%28Infringing_File_Sharing%29_Amendment_Act_2011)' (a reference to the term used by a National Member of Parliament in the debates, often used to deride politicians for not 'getting' the Internet or copyright in a digital age).
+A new version appeared three years later in September 2011, inserting Section 122A to U. This is commonly referred to as the 'three strikes' Act or '[**Skynet**](http://en.wikipedia.org/wiki/Copyright_%28Infringing_File_Sharing%29_Amendment_Act_2011)' (a reference to the term used by a National Member of Parliament in the debates, often used to deride politicians for not 'getting' the Internet or copyright in a digital age).
 
 This law provides for a [**graduated response**](http://en.wikipedia.org/wiki/Graduated_response) scheme for peer-to-peer file sharing, with the copyright owner taking their case to the Copyright Tribunal upon giving a third notice of alleged infringement. The Copyright Tribunal can impose a maximum $15,000 penalty on the Internet subscriber via a 'fast track, low cost' process.
 
@@ -163,7 +172,7 @@ Copyright is one of the chapters of the [**Trans-Pacific Partnership Agreement**
 
 While the TPPA is still being negotiated, it has already [**delayed**](http://www.stuff.co.nz/national/politics/8937602/Copyright-law-holdup-linked-to-US-pressure) the promised review of the Copyright Act, due within five years of the 2008 amendments. Despite "significant public demand" for the review, a [**Cabinet paper**](http://www.med.govt.nz/business/intellectual-property/pdf-docs-library/copyright/cabinet-paper-delayed-review-copyright-act-1994.pdf) said it was found to be "impractical" to go ahead until the TPPA was concluded and "the outcome made public."
 
-**3.4        Extent and reasons for infringement**
+### 3.4 Extent and reasons for infringement
 
 Results from a recent [**HorizonPoll**](http://www.horizonpoll.co.nz/page/363/large-scale-) showed that 21% of New Zealanders say they have illegally downloaded content from the Internet at some time when they know they should have paid for it, while 35% said they download legally by paying for content. About 5.8% say they have used a "virtual tunnel", disguising their geographical location in order to buy content from overseas content providers, like Netflix, in the past week. This is the equivalent of 185,500 adults. Note that opinion is divided on whether accessing the US-based Netflix from New Zealand is [l](http://www.computerworld.co.nz/article/493576/circumventing_region-locking_access_netflix_may_illegal/) [**egal or not**](http://www.computerworld.co.nz/article/493576/circumventing_region-locking_access_netflix_may_illegal/).
 
@@ -175,7 +184,7 @@ While many people illegally download content online as they are [**unwilling or 
 
 In a [**survey**](http://www.stuff.co.nz/business/money/10145607/Spotlight-on-consumer-morality) of Australian attitudes and morality, "people regarded some illegal activities more acceptable than other things that could be considered dishonest." The survey found that "Illegally downloading TV shows from the internet for free, for personal consumption" was half way in terms of illegality between the least acceptable, "Using a stolen credit cards to order goods over the internet" and the most acceptable, "Creating a fake US iTunes account to access and pay for content not available in Australia."
 
-**3.5        Copyright and Human Rights**
+### 3.5 Copyright and Human Rights
 
 In the view of copyright scholars like Judge Harvey, current responses to Internet-driven change do not amount to sound law-making, and it is [**time for a fresh look**](http://theitcountreyjustice.wordpress.com/2013/03/01/collisions-in-the-digital-paradigm-information-rights-and-copy-rights/) at the very principles of copyright. "I contend that the digital paradigm is so revolutionary that it undermines some of the values and assumptions that underlie traditional copyright thinking."
 
@@ -207,7 +216,7 @@ This was partly why in the last few years he had become interested in the relati
 
 "Human rights law draws attention to a broader set of values: educational rights, environmental rights, the right to food, an adequate standard of health, indigenous peoples' rights – with which any decent intellectual property system, any decent society, must contend."
 
-**3.6        Copyright and Innovation**
+### 3.6 Copyright and Innovation
 
 One of the biggest critics of the heavy handed tactics adopted by copyright owners is Cory Doctorow. [**Writing**](http://www.theguardian.com/technology/blog/2013/mar/28/copyright-wars-internet) in the Guardian, he says "The copyright wars have eroded the internet's inherent resilience at a time when it is desperately needed… Laws provide for disconnecting whole families from the internet without due process because someone in the vicinity is accused of watching TV the wrong way... the entertainment industry can compile blacklists of sites they don't like and get court orders demanding that service providers block them without a hearing, much less a trial."
 
@@ -221,7 +230,7 @@ There are growing voices like Gary Shapiro in the US who call for the content an
 
 A study by Harvard Business School Professor Josh Lerner, titled " [**The Impact of Copyright Policy Changes in France and Germany on Venture Capital Investment in Cloud Computing Companies**](http://www.analysisgroup.com/uploadedFiles/News_and_Events/News/2012_EU_CloudComputing_Lerner.pdf)", finds a negative effect on venture capital investment in Europe after decisions imposing copyright liability on online services in France and Germany. The decline was equivalent to $113-156 million in traditional R&D investment.
 
-**3.7        Free Culture Movement**
+### 3.7 Free Culture Movement
 
 The [**free culture movement**](http://en.wikipedia.org/wiki/Free_culture_movement) and [**Copyleft**](http://en.wikipedia.org/wiki/Copyleft) are social movements that promote the freedom to modify and distribute creative works as freely as possible. They object to over-restrictive copyright laws. One of its best known leaders is [**Professor Lawrence Lessig**](http://en.wikipedia.org/wiki/Lawrence_Lessig). He says that "copyright is an obstacle to cultural production, knowledge sharing and technological innovation, and that private interests – as opposed to public good – determine law."
 
@@ -239,7 +248,7 @@ Further along the scale of opposition to copyright is the call for its complete 
 
 On the anarchist side, an example is the [**Church of Kopimism**](http://kopimismaustralia.net/) which describes itself as "a congregation of file sharers who believe that the internet is holy and the copying of information is a sacrament. Kopimixing is a particularly sacred kind of copying because it enhances and expands the existing wealth of information."
 
-**3.8        Philosophy of Copyright**
+### 3.8 Philosophy of Copyright
 
 The [**philosophy**](http://en.wikipedia.org/wiki/Philosophy_of_copyright#Justifications_for_copyright) of copyright looks at the purpose and justification for why copyright exists. There are many different approaches, both for copyright specifically as well as for the wider area of intellectual property.
 
@@ -255,7 +264,7 @@ Critics of copyright as a whole fall broadly into two categories: those who asse
 
 One [**paper**](http://www.legi-internet.ro/en/articole-drept-it/justification-of-copyright-in-the-information-society/the-justification-of-copyright-in-the-information-society-i.html)suggests that "copyright evolved to the institution we know today mainly as a result of the bargains between market interests and not because justification theories had a major role in shaping this area of law."
 
-**3.9        Open Access to Research**
+### 3.9 Open Access to Research
 
 Otago University has been a [**pioneer**](http://en.wikibooks.org/wiki/Open_Education_Practices:_A_User_Guide_for_Organisations/Intellectual_Property_Policy) in establishing a progressive policy around intellectual property in 2007, vesting [**ownership**](http://wikieducator.org/Otago_Polytechnic/Intellectual_property) in the creators, which prepared it for the open educational practices that would follow. The [**Otago University Research Archive**](http://otago.ourarchive.ac.nz/) provides "public access to the University of Otago quality research outputs."
 
@@ -298,9 +307,9 @@ Creative Commons notes ten benefits of open access to scholarly research outputs
 - Speed of research cycle is increased
 - Greater exposure of research, potentially leading to higher citation rates
 
-**4         Examples of global leadership**
+## 4 Examples of global leadership
 
-**4.1        Review of copyright laws globally**
+### 4.1 Review of copyright laws globally
 
 A need to adapt copyright law to the digital paradigm is well understood by many countries like the US, Britain, Australia and those in the European Union.
 
@@ -356,7 +365,7 @@ The Irish report said if its recommendations were implemented the position of ri
 
 **Canada:** An updated law, the [**Copyright Modernization Act**](http://laws-lois.justice.gc.ca/eng/annualstatutes/2012_20/FullText.html), was introduced in 2012 in an attempt to bring Canada into line with global reforms. Its preamble says copyright protection is enhanced when countries adopt coordinated approaches, based on internationally recognised norms. These were reflected in the [**World Intellectual Property Organization Copyright Treaty**](http://www.wipo.int/treaties/en/text.jsp?file_id=295166) and the [**World Intellectual Property Organization Performances and Phonograms Treaty**](http://www.wipo.int/treaties/en/text.jsp?file_id=295578), adopted in Geneva in 1996, but not wholly reflected in Canada's Copyright Act.
 
-**4.2        Australian adoption of "fair use"**
+### 4.2 Australian adoption of "fair use"
 
 The Australian Law Reform Commission in February, 2014, tabled [**Copyright and the Digital Economy**](http://www.alrc.gov.au/publications/copyright-report-122), the result of an 18-month Inquiry during which the Commission produced two consultation documents, undertook 109 consultations and received 870 submissions. The report contained 30 recommendations for reform, the key one recommending the introduction of a "fair use exception" to Australian copyright law.
 
@@ -370,7 +379,7 @@ The Australian Law Reform Commission in February, 2014, tabled [**Copyright and 
 
 "This is one of the strengths of fairness exceptions. Fair use is a versatile instrument, but it is not blunt."
 
-** 4.3        European Commission – Ten Pledges**
+### 4.3 European Commission – Ten Pledges
 
 The _Licences for Europe_ stakeholder dialogue launched by the European Commission in early 2013 resulted in a document called [**Ten Pledges to Bring More Content Online**](http://ec.europa.eu/internal_market/copyright/docs/licences-for-europe/131113_ten-pledges_en.pdf). It set out two parallel tracks of action - to complete its on-going effort to review and modernise the EU copyright legislative framework; and to facilitate practical industry-led solutions to issues on which rapid progress was deemed necessary and possible.
 
@@ -384,18 +393,18 @@ The Commission said by spring 2014 it would complete its on-going review of the 
 
 The 10 pledges are:
 
-1. 1.To advocate further development of cross-border portability of subscription services;
-2. 2.Improve availability of e-books across borders and across devices; 
-3. 3.Easier licensing for music; 
-4. 4.Easier access to print and images; 
-5. 5.Enabling the identification of creators' work and rights online; 
-6. 6.More active reader involvement in the online press; 
-7. 7.More heritage films online; 
-8. 8.Freeing up TV footage archives through digitisation; 
-9. 9.Improving identification and discoverability of audio-visual content online; and
-10. 10.Easier text and data mining of subscription-based material for non-commercial researchers.
+1. To advocate further development of cross-border portability of subscription services;
+2. Improve availability of e-books across borders and across devices; 
+3. Easier licensing for music; 
+4. Easier access to print and images; 
+5. Enabling the identification of creators' work and rights online; 
+6. More active reader involvement in the online press; 
+7. More heritage films online; 
+8. Freeing up TV footage archives through digitisation; 
+9. Improving identification and discoverability of audio-visual content online; and
+10. Easier text and data mining of subscription-based material for non-commercial researchers.
 
-**4.4        Aaron's Law**
+### 4.4 Aaron's Law
 
 The title comes from a US case involving Aaron Swartz, an "Internet innovator and activist" who killed himself in January 2013, becoming a cause celebre for those seeking open access to knowledge.
 
@@ -409,13 +418,13 @@ The proposed amendments would define "access without authorization" under the CF
 
 Notwithstanding this change, hack attacks such as phishing, injection of malware or keystroke loggers, denial-of-service attacks, and viruses would continue to be fully prosecutable under strong CFAA provisions that Aaron's Law did not modify.
 
-**5         Policy proposals**
+## 5 Policy proposals
 
-**5.1        First principles review**
+### 5.1 First principles review
 
 The Internet Party will call for Government to commission an independent, first principles review of copyright to guide future lawmaking. The review will be specifically tasked to take into account economic, technological and cultural perspectives in a digital age. It will be expected to consider human rights as well as the imperatives of New Zealand's digital economy and innovation. There will not be an _a priori_ assumption that copyright is the best or only or even necessary way to effectively promote creativity and new creative works.
 
-**5.2        Update NZ copyright law**
+### 5.2 Update NZ copyright law
 
 The Internet Party will publicly consult with all stakeholders on amending the Copyright Act 1994 and implement changes as a priority. A second round of amendments will likely be required after the first principles review. The amendments will align copyright more closely with the opportunities and challenges facing New Zealand in a digital age. This includes:
 
@@ -430,10 +439,10 @@ The Internet Party will call for Government to commission an independent, object
 
 Note that the party's policy position in relation to the Trans-Pacific Partnership Agreement, including copyright, is in its Independence policy.
 
-**5.3        Boost legal content availability**
+### 5.3 Boost legal content availability
 
 The Internet Party will focus on boosting the availability of legal content online for New Zealanders so that there are diverse options for getting it easily at reasonable cost, without delay, and in multiple formats. Towards this goal, discussions with local and overseas copyright owners and other interested parties will be initiated to identify and remove barriers. Innovative approaches will be encouraged, for example voluntary collective, blanket licensing via 'collecting societies' as songwriters did for radio broadcasting.
 
-**5.4        Mandate open research**
+### 5.4 Mandate open research
 
 The Internet Party will mandate that all taxpayer-funded research be open access with the public able to freely access and reuse it, unless prohibited under any required ethical consent or approval. There may be a period of transition and a Task Force will be created to support and accelerate implementation of the mandate. The Task Force will also examine and address issues related to funding, peer review, and evaluation of academics and academic works resulting from the mandate.

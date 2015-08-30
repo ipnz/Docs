@@ -1,50 +1,66 @@
 # Modern Schools
 
-
-
 **Table of Contents**
 
-1. 1. **Summary** 
-2. 2. **Problems Identified** 
-  1. 2.1.Capacity
-  2. 2.2.Pedagogical change
-  3. 2.3.Capability
-  4. 2.4.National Standards
-  5. 2.5.Novopay
+1. Summary 
 
-1. 3. **Relevant Data/Research** 
-  1. 3.1.Background
-  2. 3.2.Capacity
-  3. 3.3.Pedagogical change
-  4. 3.4.Capability
-  5. 3.5.National Standards
-  6. 3.6.Novopay 
+2. Problems Identified 
+  
+  2.1. Capacity
+  
+  2.2. Pedagogical change
+  
+  2.3. Capability
+  
+  2.4. National Standards
+  
+  2.5. Novopay
 
-1. 4. **Examples of Global Leadership** 
-  1. 4.1.ConnectED
-  2. 4.2.Europe 2020 1:1 learning initiatives study
-  3. 4.3.Project Red
-  4. 4.4.French ICT catchup initiative
-  5. 4.5.US mobile device use in schools
-  6. 4.6.Tablet use in European schools
-  7. 4.7.Equinox Blueprint: Learning 2030
-  8. 4.8.UK Department for Education
+3. Relevant Data/Research 
+  
+  3.1. Background
+  
+  3.2. Capacity
+  
+  3.3. Pedagogical change
+  
+  3.4. Capability
+  
+  3.5. National Standards
+  
+  3.6. Novopay 
 
-1. 5. **Policy Proposals** 
+4. Examples of Global Leadership 
+  
+  4.1. ConnectED
+  
+  4.2. Europe 2020 1:1 learning initiatives study
+  
+  4.3. Project Red
+  
+  4.4. French ICT catchup initiative
+  
+  4.5. US mobile device use in schools
+  
+  4.6. Tablet use in European schools
+  
+  4.7. Equinox Blueprint: Learning 2030
+  
+  4.8. UK Department for Education
 
-5.1        Steady Support
+5. Policy Proposals 
 
-5.2        Boost ICT in schools
+  5.1. Steady Support
 
-5.3        Step up capability development and pedagogical change
+  5.2. Boost ICT in schools
 
-5.4        Review National Standards
+  5.3. Step up capability development and pedagogical change
 
-5.5        Fix Novopay
+  5.4. Review National Standards
 
+  5.5. Fix Novopay
 
-
-1. 1. **Summary** 
+## 1. Summary 
 
 The Internet Party will continue to support current initiatives to give schools free, fast, and uncapped Internet connections, upgrading network cabling, and wireless connectivity by the end of 2016.
 
@@ -58,8 +74,9 @@ We will initiate a review of National Standards by experts, schools, teachers, a
 
 The Internet Party will immediately initiate a quick review of Novopay to confirm it is capable of delivering a stable and suitable payment system.
 
-1. 2. **Problems identified** 
-  1. **2.1****  Capacity**
+## 2. Problems identified
+ 
+### 2.1 Capacity
 
 School education is beginning to undergo a massive transformation because of the digital revolution.
 
@@ -77,8 +94,7 @@ Bring Your Own Device (BYOD) provides both opportunities and challenges. While p
 
 Social inequalities are further heightened by the lack of Internet access at home for about 200,000 school-aged children. This issue and the Internet Party's policy proposals in that regard are separately covered in the Cheaper, Universal Internet Policy.
 
-1.
-  1. **2.2**** Pedagogical change**
+### 2.2 Pedagogical change
 
 The school education model is [no longer suited to the digital age](http://www.nzcer.org.nz/system/files/science-2-0-and-school-science.pdf). It must be replaced with one designed for a different world, whose vastly improved accessibility to information and opportunities to share demands a [paradigm shift in educational pedagogies](http://elearning.tki.org.nz/Teaching/Pedagogy/Future-focused-learning-and-teaching).
 
@@ -86,8 +102,7 @@ This challenges us to think about how to deploy the resources for learning (teac
 
 While personalising learning-based approaches are being implemented in a limited way, in pockets and/or at the margins of the sector, we are not yet seeing the kinds of 'deep personalisation' [argued for by future-focused educationalists](http://www.educationcounts.govt.nz/publications/schooling/109306).
 
-1.
-  1. **2.3**** Capability**
+### 2.3 Capability
 
 Change in pedagogy means reversing traditional education logic of learning centred on the teacher. It will have to be built around the student, so 21st century education will need fully trained and confident teachers with access to external networks for collaboration, innovation and resource creation.
 
@@ -99,8 +114,7 @@ The ICT syllabus was overhauled and new standards introduced into the New Zealan
 
 Some schools have not yet been able to adapt to teaching at this more demanding level, limiting the number of students who could otherwise have benefitted from learning more aligned with a deeper understanding of digital technologies.
 
-1.
-  1. **2.4**** National Standards**
+### 2.4 National Standards
 
 National Standards set expectations about what students need to meet in reading, writing and mathematics in the first eight years at school. They were passed into law under urgency in 2008 within the first 100 days of the incoming National government. The standards were implemented at years 1 through to 8 in 2010.
 
@@ -110,15 +124,15 @@ National Standards threaten to destroy one of the great strengths of New Zealand
 
 According to some assessments, New Zealand is caught up in a global "audit culture" in education, centred on comparisons of student achievement data, which is affecting the culture of New Zealand primary schooling quickly.
 
-1.
-  1. **2.5**** Novopay**
+### 2.5 Novopay
 
 Novopay is the name of a new payroll system for paying 110,000 teaching and support staff at 2457 schools in New Zealand launched by the Government in 2012. It has been a debacle from the start and continues to perform poorly, with problems including some teachers not being paid on time and others being overpaid.
 
 The Government has spent $33 million trying to sort out the system and expects to spend a further $10 million by June 2014. Yet staff continued to be underpaid, overpaid and unpaid, and frustrated at the hours being spent fixing their problems.
 
-1. 3. **        **  **Relevant data/research** 
-  1. **3.1**** Background**
+## 3. Relevant data/research
+
+### 3.1 Background
 
 One indicator of the state of schooling in New Zealand is the Programme for International Student Assessment (PISA), undertaken every three years by the OECD. It measures the abilities of 15 year-olds in mathematics, science and reading to evaluate education systems worldwide.
 
@@ -141,10 +155,11 @@ The report notes: "The 15-year-olds assessed in the survey started school in 200
 
 "The system as it is arranged in New Zealand does not easily support the spread of good practices between schools, and direct interventions in schools that struggle with student achievement have not always been as effective as expected."
 
-1.
-  1. **3.2**** Capacity** 
+### 3.2 Capacity 
 
-**3.2.1        Digital transformation:** School education is beginning to undergo a massive transformation because of the digital revolution. The majority of New Zealand schools are set to get ultra-fast broadband (fibre) connections over the [next few years](http://www.med.govt.nz/sectors-industries/technology-communication/fast-broadband/education/toolkit). The remaining remote schools will have access to faster broadband using wireless technology.
+#### 3.2.1 Digital transformation:
+
+School education is beginning to undergo a massive transformation because of the digital revolution. The majority of New Zealand schools are set to get ultra-fast broadband (fibre) connections over the [next few years](http://www.med.govt.nz/sectors-industries/technology-communication/fast-broadband/education/toolkit). The remaining remote schools will have access to faster broadband using wireless technology.
 
 Britain's [Department of Education says](http://webarchive.nationalarchives.gov.uk/20130802141748/https://www.education.gov.uk/schools/teachingandlearning/curriculum/a00201823/digital-technology-in-schools): "Evidence links the use of technology to improvements in learning and outcomes for pupils. Schools with a well-developed vision for learning and which lead and manage their use of technology in support of this are more likely to reap benefits."
 
@@ -163,7 +178,9 @@ According to a key Ministry of Education [report](http://www.educationcounts.gov
 
 "Our analysis suggests that educational ICT development needs to be supported by all four strategies. The potential of new technologies to transform teaching and learning is heavily dependent on educators' abilities to see the affordances and capacities of ICT in relation to the underpinning themes for learning for the 21st century. It is further dependent on schools having the infrastructure, inspiration, capability and opportunities for innovation to achieve these kinds of teaching and learning."
 
-**3.2 2        Internet access:** The first step in reshaping school education is to ensure all schools have access to free, fast, uncapped Internet. Internet connections to all schools will be provided under various Government initiatives - UFB (Ultra-Fast Broadband), RBI (Rural Broadband Initiative) and the Remote Schools Broadband Initiative.
+#### 3.2 2 Internet access: 
+
+The first step in reshaping school education is to ensure all schools have access to free, fast, uncapped Internet. Internet connections to all schools will be provided under various Government initiatives - UFB (Ultra-Fast Broadband), RBI (Rural Broadband Initiative) and the Remote Schools Broadband Initiative.
 
 [According](http://www.med.govt.nz/sectors-industries/technology-communication/fast-broadband/education/toolkit) to the Ministry of Business, Innovation & Employment, "the broadband roll out will see 97.7 percent of New Zealand schools (representing 99.9 percent of students) receive access to ultra-fast broadband (capable of 100 megabits per second, or Mbps) by 30 June 2015. The remaining remote schools will have access to faster broadband (up to10 Mbps) via point-to-point wireless technology.
 
@@ -173,7 +190,9 @@ In addition to a physical connection, schools need Internet access. This will be
 
 The [N4L broadband deal](http://www.n4l.co.nz/managednetwork/connectionpackages/) includes some services – Internet connectivity, a managed router, web security, web filtering, email filtering, remote access for staff, optional firewall and real-time monitoring - but schools need to provide their own suitable internal ICT infrastructure.
 
-**3.2.3          ICT infrastructure:** The [School Network Upgrade Project (SNUP)](http://www.minedu.govt.nz/NZEducation/EducationPolicies/Schools/Initiatives/ICTInSchools/ICTInitiativesAndProgrammes/SNUP.aspx) aims to provide subsidised and managed "upgrades of data and electrical cabling for state and state-integrated schools".SNUP provides a fully-funded audit of the existing network infrastructure and upgrade design as well as subsidising network cabling. The option for [wireless connectivity](http://www.minedu.govt.nz/NZEducation/EducationPolicies/Schools/Initiatives/ICTInSchools/ICTInitiativesAndProgrammes/SNUP/WirelessConnectivity.aspx) was added for schools from June 2013.
+#### 3.2.3 ICT infrastructure
+
+The [School Network Upgrade Project (SNUP)](http://www.minedu.govt.nz/NZEducation/EducationPolicies/Schools/Initiatives/ICTInSchools/ICTInitiativesAndProgrammes/SNUP.aspx) aims to provide subsidised and managed "upgrades of data and electrical cabling for state and state-integrated schools".SNUP provides a fully-funded audit of the existing network infrastructure and upgrade design as well as subsidising network cabling. The option for [wireless connectivity](http://www.minedu.govt.nz/NZEducation/EducationPolicies/Schools/Initiatives/ICTInSchools/ICTInitiativesAndProgrammes/SNUP/WirelessConnectivity.aspx) was added for schools from June 2013.
 
 The number of schools upgraded depends on the extent and timing of government funding. According to the Ministry of Education's [Statement of Intent 2013-2018](http://www.minedu.govt.nz/theMinistry/PublicationsAndResources/StatementOfIntent/SOI2013.aspx), "the School Network Upgrade Project will complete the upgrading of all remaining schools and kura by 2016".
 
@@ -189,7 +208,9 @@ A periodic snapshot of ICT in schools is provided by the [ICT in Schools Survey]
 - On average, all schools spent approximately 11 percent of their total operations grant for 2010 on ICT-related expenditure. The majority of principals report that school management has the most influence in ICT expenditure decisions. 
 - The barriers that were most commonly identified by schools as limiting the use of ICT included: the cost of ICT equipment, the cost of upgrades, the speed of technological change, and technical support. 
 
-**3.2.4          Bring Your Own Device:** When schools were surveyed in 2010-2011, tablets and mobile devices, including those brought to school by students, were starting to have an impact. Labeled BYOD (Bring Your Own device) by educators, the notion of students and their families supplying the means of engaging in school digital education raises issues of both enhanced learning as well as societal inequality.
+#### 3.2.4 Bring Your Own Device
+
+When schools were surveyed in 2010-2011, tablets and mobile devices, including those brought to school by students, were starting to have an impact. Labeled BYOD (Bring Your Own device) by educators, the notion of students and their families supplying the means of engaging in school digital education raises issues of both enhanced learning as well as societal inequality.
 
 "Of course, BYOD also means that parents - instead of schools - may end up footing the bill for computing devices in the classroom." That's a concern to people like educator and author Gary Stager, who thinks that BYOD may be the "worst idea of the 21st century, because it 'enshrines inequality'".
 
@@ -205,16 +226,19 @@ A [BYOD Guide](http://cuebc.ca/cue/conference_documents/dell/AlbertaEducationBYO
 
 [Some principals](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=11191631) have called BYOD "inevitable" but are conscious of the cost and equity issues raised.
 
-**3.2.5          Costs for schools:** The New Zealand Council for Educational Research's [2014 report](http://www.nzcer.org.nz/system/files/NationalSurveyCover_2013_Web.jpg) shows that lack of school infrastructure is still a major problem: "… 60 percent of teachers reported that their students' use of ICT was limited because of insufficient or poor-quality equipment, or slow or unreliable access, and 38 percent because the school system broke down too often or the school lacked a technician to deal with problems.
+#### 3.2.5 Costs for schools
+
+The New Zealand Council for Educational Research's [2014 report](http://www.nzcer.org.nz/system/files/NationalSurveyCover_2013_Web.jpg) shows that lack of school infrastructure is still a major problem: "… 60 percent of teachers reported that their students' use of ICT was limited because of insufficient or poor-quality equipment, or slow or unreliable access, and 38 percent because the school system broke down too often or the school lacked a technician to deal with problems.
 
 "Thus to get the lift in e-learning sought by NZC [NZ Curriculum], the broadband rollout and the Network for Learning, it seems likely that schools will need to invest more in equipment and technical support, as well as ensuring that teachers' own knowledge and skills grow."
 
-**3.2.6          National Education Network:** Since 2008, REANNZ (Research and Education Advanced Network New Zealand Ltd, the Crown-owned company that owns and operates a high-speed, unrestricted broadband network known to many as KAREN) has been operating a trial of a National Education Network (NEN) for schools on behalf of the Ministry of Education.
+#### 3.2.6 National Education Network
+
+Since 2008, REANNZ (Research and Education Advanced Network New Zealand Ltd, the Crown-owned company that owns and operates a high-speed, unrestricted broadband network known to many as KAREN) has been operating a trial of a National Education Network (NEN) for schools on behalf of the Ministry of Education.
 
 NEN is a dedicated education network that connects schools directly to a range of service providers in New Zealand and internationally. Access to NEN gives schools at least a 100 Mb/s connection. There are [no usage-based charges or data caps](http://reannz.co.nz/membership/connecting-schools). In its latest [annual report](http://reannz.co.nz/sites/default/files/04423_reannz_annual_report_2013_www_fa.pdf), REANNZ said its members now include 130 schools.
 
-1.
-  1. **3.3**** Pedagogical change** 
+### 3.3 Pedagogical change 
 
 The word " [pedagogy](http://en.wikipedia.org/wiki/Pedagogy)" refers to the art and science of education. It originates from Greek words for "child" and "lead", and literally translated means "to lead the child". This is ironic, given that educationalists have been saying for some time the traditionally didactic approach to teaching – in which the teacher and textbooks are largely unchallengeable founts of all knowledge – is seriously threatened by the Internet and ICT.
 
@@ -238,12 +262,11 @@ In the research report Gilbert and others [write](http://www.educationcounts.gov
 
 "While personalising learning-based approaches are being implemented in a limited way, in pockets and/or at the margins of the sector, we are not yet seeing the kinds of 'deep personalisation' argued for by future-focused educationalists."
 
+### 3.4 Capability
 
+#### 3.4.1 Teaching practice
 
-1.
-  1. **3.4**** Capability** 
-
-**3.4.1        Teaching practice:** Educationalist and teacher Claire Amos [writes](http://www.teachingandelearning.com/2014/03/realising-future-of-nz-education-open.html?m=1) that New Zealand needs to address models of teaching practice: "As Scott McLeod highlights in his blog [Dangerously Irrelevant](http://dangerouslyirrelevant.org/) **,** three educational shifts are needed which will have the most impact on our students' future and their success within it.
+Educationalist and teacher Claire Amos [writes](http://www.teachingandelearning.com/2014/03/realising-future-of-nz-education-open.html?m=1) that New Zealand needs to address models of teaching practice: "As Scott McLeod highlights in his blog [Dangerously Irrelevant](http://dangerouslyirrelevant.org/) **,** three educational shifts are needed which will have the most impact on our students' future and their success within it.
 
 "There is a need to move from low level thinking such as recall and rote learning to high level thinking and complex problem solving. We must engage shift from analogue to digital (or I would actually argue 'blended') and as [Sugata Mitra](http://en.wikipedia.org/wiki/Sugata_Mitra) states, 'unlock the power of new technologies for increasingly self-directed education'.  Which leads us to the final shift - teacher centred to student centred. Critical thinking, digitally rich and increasing levels of self-direction will ensure we are developing learners who can survive in the knowledge age and flourish in the age of hyper-change."
 
@@ -251,7 +274,9 @@ This does not mean the teacher becomes redundant, says Amos. "Quite the opposite
 
 A recent [survey](http://www.nzcer.org.nz/research/publications/primary-and-intermediate-schools-2013)of New Zealand primary and intermediate schools found 38 per cent of teachers think limitations in making use of ICT being rolled out to schools are linked to their own lack of knowledge and skills. Dr Cathy Wylie, who co-authored a [report](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=11249462) on the survey for NZCER, said there is a risk that without official direction schools will waste expensive infrastructure.
 
-**3.4.2        Learning resources:** One of the Ministry of Education's most significant responses to the issue of teacher/student capabilities is the learning resources website, [Te Kete Ipurangi (TKI)](http://www.tki.org.nz/)- the "online knowledge basket". This offers information about the curriculums for primary and secondary education, learning material in a range of subjects, learning resources tailored for Maori and Pasifika students, material for disabled students, and guidance on e-learning.
+#### 3.4.2 Learning resources
+
+One of the Ministry of Education's most significant responses to the issue of teacher/student capabilities is the learning resources website, [Te Kete Ipurangi (TKI)](http://www.tki.org.nz/)- the "online knowledge basket". This offers information about the curriculums for primary and secondary education, learning material in a range of subjects, learning resources tailored for Maori and Pasifika students, material for disabled students, and guidance on e-learning.
 
 The TKI website lists [strategies](http://elearning.tki.org.nz/Teaching/Pedagogy/Future-focused-learning-and-teaching) educators need to consider in embracing 21st century education. These include:
 
@@ -272,7 +297,9 @@ A relatively new government initiative from the Network for Learning is [Pond](h
 
 Currently being used by "Pioneer Educator" - teachers who are recognised by their peers as having an innovative and engaging use of technology in the classroom - all teachers are [expected to have access](http://techday.com/educate/news/pioneer-educators-dive-into-n4ls-pond/184033/) by the end of the year.
 
-**3.4.3        Trialling new ideas:** Many ideas are being tested in New Zealand. For example, educators are watching progress at the [**Hobsonville Point Schools**](http://www.hobsonvillepoint.school.nz/) in Auckland, which are new primary and secondary schools taking modern approaches to meet the need for change in teacher practice.
+#### 3.4.3 Trialling new ideas
+
+Many ideas are being tested in New Zealand. For example, educators are watching progress at the [**Hobsonville Point Schools**](http://www.hobsonvillepoint.school.nz/) in Auckland, which are new primary and secondary schools taking modern approaches to meet the need for change in teacher practice.
 
 Claire Amos, a teacher there, [writes](http://www.teachingandelearning.com/2014/03/realising-future-of-nz-education-open.html?m=1)that they are looking at delivering secondary education "in increasingly authentic and engaging ways, offering up a programme that addresses a desire to develop both personal and academic excellence through a mixture of specialised learning (in both integrated and single subject modules), learning hubs, project learning and a generous serving of MyTime.
 
@@ -290,13 +317,17 @@ The article in _Education Review_ described the [**Greater Christchurch Schools 
 
 "With video conferencing now integral to GCSN curriculum delivery methodologies, the network has evolved in line with technology improvements… The Christchurch earthquakes have opened up a number of learning opportunities and the chance to connect GCSN schools with fascinated students and teachers from around the world."
 
-**3.4.4          Net safety:** With fast Internet and modern ICT infrastructure being extended to some of our most vulnerable citizens, school-aged children, Internet safety and digital citizenship are crucial issues. In that sphere, independent non-profit organisation, [**NetSafe**](http://www.netsafe.org.nz/about-netsafe/), plays a leading role in promoting "confident, safe, and responsible use of online technologies".
+#### 3.4.4 Net safety
+
+With fast Internet and modern ICT infrastructure being extended to some of our most vulnerable citizens, school-aged children, Internet safety and digital citizenship are crucial issues. In that sphere, independent non-profit organisation, [**NetSafe**](http://www.netsafe.org.nz/about-netsafe/), plays a leading role in promoting "confident, safe, and responsible use of online technologies".
 
 NetSafe is a multi-stakeholder partnership that represents a range of perspectives from New Zealand's cyber-safety community. Its partners come from a range of sectors including the Government, education, law, industry, parents and caregivers, and children and young people.
 
 Founded in 1998, its recent projects include the creation of a  [National Cyber Bullying Taskforce,](http://www.cyberbullying.org.nz/taskforce/) involvement with  [the government's new Cyber Security Strategy,](http://www.med.govt.nz/templates/MultipageDocumentTOC ____ 46009.aspx)reactive and proactive  [work with New Zealand schools](http://www.mylgp.org.nz/) and community groups, advice and support for thousands of Kiwi consumers targeted by cold-calling scammers, and development of  [consumer advice around smartphone security](http://smartphones.netsafe.org.nz/).
 
-**3.4.5        Digital Technologies:** In response to industry and academic concerns led by the Institute of IT Professionals (then NZCS), a new curriculum was created for senior high school students studying for level 1 to 3 NCEA qualifications. The ICT syllabus was overhauled and new standards introduced into New Zealand secondary schools in 2011-2013.
+#### 3.4.5 Digital Technologies
+
+In response to industry and academic concerns led by the Institute of IT Professionals (then NZCS), a new curriculum was created for senior high school students studying for level 1 to 3 NCEA qualifications. The ICT syllabus was overhauled and new standards introduced into New Zealand secondary schools in 2011-2013.
 
 Earlier courses, focused on basic skills, were [considered](http://www.stuff.co.nz/national/education/8192896/Major-flaw-spurs-call-for-IT-course-review)a "bum class" for students wanting to pick up easy NCEA credits.  The new curriculum, which focuses on computer programming and web design, is much more advanced.  When launched, the new courses were called "too hard for many students and teachers".
 
@@ -304,11 +335,15 @@ However, an IT expert [found](http://www.techblog.co.nz/406-NewICTinSchoolsMount
 
 A significant step was setting up the [New Zealand Association for Computing, Digital and Information Technology Teachers (NZACDITT)](http://nzacditt.org.nz/), an association to create a community of IT teachers. The association is a place to share resources, communicate, and speak with one voice to get the subject area recognised and supported.
 
-**3.5       **  **National Standards**
+### 3.5 National Standards
 
-**3.5.1        Background:** In December 2008, the Education (National Standards) Amendment Bill was passed into law under urgency within the first 100 days of the incoming National government. The standards were implemented at years 1 through to 8 in 2010. Broadly, the standards have been introduced as a tool to address persistent disparities in New Zealand's education system, and improve reporting mechanisms to parents/caregivers. National Standards set expectations about what students need to meet in reading, writing and mathematics in the first eight years at school.
+#### 3.5.1 Background
 
-**3.5.2        Criticism:** National Standards have been subject to controversy from the start. Broadly, the [criticism](http://policyprojects.ac.nz/teleaandrews/)have been across political, theoretical, and implementation dimensions. Besides the rush in which they were introduced, one [opposition view](http://thestandard.org.nz/why-new-zealands-educational-standards-are-crashing/) of National Standards is the concern that "at the same time [the Government] cut funding for the literacy and numeracy projects despite their effectiveness".
+In December 2008, the Education (National Standards) Amendment Bill was passed into law under urgency within the first 100 days of the incoming National government. The standards were implemented at years 1 through to 8 in 2010. Broadly, the standards have been introduced as a tool to address persistent disparities in New Zealand's education system, and improve reporting mechanisms to parents/caregivers. National Standards set expectations about what students need to meet in reading, writing and mathematics in the first eight years at school.
+
+#### 3.5.2 Criticism
+
+National Standards have been subject to controversy from the start. Broadly, the [criticism](http://policyprojects.ac.nz/teleaandrews/)have been across political, theoretical, and implementation dimensions. Besides the rush in which they were introduced, one [opposition view](http://thestandard.org.nz/why-new-zealands-educational-standards-are-crashing/) of National Standards is the concern that "at the same time [the Government] cut funding for the literacy and numeracy projects despite their effectiveness".
 
 National Standards have been criticised by education expert by John Hattie, the person who is said to have inspired them in the first place. Hattie "supports the concept of standards-based learning but not the system the Government has introduced."
 
@@ -326,7 +361,7 @@ The report concludes: "The key message of this final RAINS report is that despit
 
 "In our view the National Standards approach needs to be significantly overhauled in a way that reduces the potential for damage, while leaving in place some of the more positive features around engaging with the curriculum that RAINS teachers and principals have identified."
 
-**3.6       **  **Novopay**
+### 3.6 Novopay
 
 [Novopay](http://www.novopay.govt.nz/default.aspx)is the name of a new payroll system for paying 110,000 teaching and support staff at 2457 schools in New Zealand launched by the Government in 2012. It has been a debacle from the start and continues to perform poorly, with problems including some teachers not being paid on time and others being overpaid.
 
@@ -336,9 +371,9 @@ New Zealand Educational Institute spokesman Andrew Casidy said in March that sta
 
 Novopay problems [continue](http://www.stuff.co.nz/marlborough-express/news/10042523/Novopay-troubles-just-won-t-go-away)to be reported in the press, such as: "Teachers in Marlborough are still not being paid correctly almost two years after the Novopay debacle began." The Ministry of Education purchased the system for $182 million over 10 years, with an initial $40 million outlay. Since Novopay started there have been 17,374 overpayments worth $18.3 million but the Ministry of Education still has to recover $8.9 million in overpayments.
 
-**4        **  **Examples of global leadership**
+## 4 Examples of global leadership
 
-**4.1       **  **ConnectED**
+### 4.1 ConnectED
 
 In the US, President Obama has launched a drive called ConnectED to lift digital education in schools, calling on the Federal Communications Commission to build high-speed digital connections to America's schools and libraries, with the aim of giving 99 percent of American students the benefit from technological advances in teaching and learning.
 
@@ -346,7 +381,7 @@ In the US, President Obama has launched a drive called ConnectED to lift digital
 
 An investment of $2 billion over the next two years to connect more than 20 million students is expected. In addition, private sector companies have committed over $1 billion.
 
-**4.2        **  **Europe 2020 1:1 learning initiatives study**
+### 4.2  Europe 2020 1:1 learning initiatives study
 
 A 2013 European Union study, "Overview and Analysis of 1:1 Learning Initiatives for Education and Training in Europe", presented 31 recent 1:1 initiatives involving about 47,000 schools and 17,500,000 students in primary and/or secondary education across 19 European countries.
 
@@ -374,7 +409,7 @@ Based on the evidence of the analysis of 1:1 initiatives, the literature review,
 - research should be more qualitative, formative, and competence- and outcome-based; 
 - research should involve teachers in action-based research and also observations in real classroom settings.
 
-**4.3        **  **Project Red**
+### 4.3 Project Red
 
 US semi-conductor chip maker Intel is behind a long-term project to take ICT into US school education, one of its main initiatives being a programme called Project Red.
 
@@ -394,7 +429,7 @@ Research used to set up the project examined learning practice in nearly 1000 US
 - students use search engines daily;
 - principals are trained in teacher buy-in, best practices, and technology-transformed learning.
 
-**4.4        **  **French ICT catchup initiative**
+### 4.4 French ICT catchup initiative
 
 A report commissioned by the French government in 2011 discovered its education system was behind European neighbours in terms of both equipment and usage of ICTE (Information and communication technologies in Education).
 
@@ -428,7 +463,7 @@ In order to catch up with the rest of Europe, the French government has made a n
 - clarify legal issues such as royalties and data protection;
 - and apply international standards for equipment inter-operability.
 
-**4.5       **  **Tablet use in European schools**
+### 4.5 Tablet use in European schools
 
 The main phase of the Acer-European Schoolnet Educational Netbook Pilot started in the beginning of the 2010-2011 school year and ran until the end of the school year. The Netbook Pilot involved 124 schools in six countries and had a total of 245 classes of learners equipped with netbooks.
 
@@ -436,7 +471,7 @@ Three different evaluations were conducted: the ﬁrst one targeted parents of t
 
 "By far, the most important trend regarding the learner appears to be motivational: 71% of all respondents (students, teachers and parents) agreed that the use of netbooks for school related activities had a positive impact on learners' motivation in school and learning. Where teachers (80%) and parents (75%) agreed on netbooks' positive impact, students themselves were more reserved in their statements (58%).
 
-**4.6             **  **Equinox Blueprint: Learning 2030**
+### 4.6 Equinox Blueprint: Learning 2030
 
 The educationalists who gathered at Canada's Waterloo University in 2013 (see **3.3** above) proposed seven ways to transform education:
 
@@ -448,8 +483,7 @@ The educationalists who gathered at Canada's Waterloo University in 2013 (see **
 - Ensure that all groups Ã¢ÂÂ teachers, parents, governments and students Ã¢ÂÂ have a seat at the table when building the framework for learning.
 - Empower students and teachers to experiment with new ideas in an environment where they can fail safely and develop confidence to take risks.
 
-1.
-  1. 4.7 **   **  **UK Department for Education** 
+#### 4.7 UK Department for Education
 
 Confronting the same issues, the UK Department of Education proposed the following strategies:
 
@@ -460,15 +494,19 @@ Confronting the same issues, the UK Department of Education proposed the followi
 - Deliver an ICT curriculum that engages pupils and equips them with the skills and knowledge needed for further study and the 21st century workplace.
 - Manage technology infrastructure and services professionally, offering access to tools and resources anywhere, anytime and achieving best value when purchasing technology.
 
-**5        **  **Policy proposals**
+## 5 Policy proposals
 
-**5.1       **  **Steady support:** The Internet Party will continue to support current initiatives to give schools free, fast and uncapped Internet connections, upgrading network cabling and wireless connectivity. We will ensure that there is effective oversight so that the work is complete by the end of 2016, is delivering high quality outputs to budget, and is responsive to feedback.
+### 5.1 Steady support
+
+The Internet Party will continue to support current initiatives to give schools free, fast and uncapped Internet connections, upgrading network cabling and wireless connectivity. We will ensure that there is effective oversight so that the work is complete by the end of 2016, is delivering high quality outputs to budget, and is responsive to feedback.
 
         The Internet Party will support schools and teachers to further develop formal and informal external networks for collaboration, innovation and resource creation.
 
-**5.2       **  **Boost ICT in schools:** The Internet Party believes that schools need financial assistance beyond the regular operational funding in making a step-change to prepare for the digital transformation of schooling underway.
+### 5.2 Boost ICT in schools
 
-**       ** This includes further professional development for teachers, upgrades to ICT equipment, creating learning spaces, and better technical support.
+The Internet Party believes that schools need financial assistance beyond the regular operational funding in making a step-change to prepare for the digital transformation of schooling underway.
+
+This includes further professional development for teachers, upgrades to ICT equipment, creating learning spaces, and better technical support.
 
         The Internet Party will triple the amount of annual ICT funding to state and state-integrated schools. This will be an additional government expenditure of about $75 million per year.
 
@@ -476,9 +514,11 @@ Confronting the same issues, the UK Department of Education proposed the followi
 
         By way of comparison, $359 million will be spent over four years on providing the four new teaching and leadership roles in schools.
 
-**5.3       **  **Step up capability development and pedagogical change:** The Internet Party will support resources, systems and capabilities for teachers and educators to evolve pedagogical change, taking New Zealand schooling into the future, making it student-centred, and accommodating the individuality of the "knowledge age".
+### 5.3 Step up capability development and pedagogical change
 
-**       ** We will promote leadership and vision from principals and school boards of trustees, as well as government policy that gives high priority to supporting education professionals to adapt quickly to the digital learning environment.
+The Internet Party will support resources, systems and capabilities for teachers and educators to evolve pedagogical change, taking New Zealand schooling into the future, making it student-centred, and accommodating the individuality of the "knowledge age".
+
+We will promote leadership and vision from principals and school boards of trustees, as well as government policy that gives high priority to supporting education professionals to adapt quickly to the digital learning environment.
 
         The Internet Party will review Government strategies and plans for teachers' professional learning to support the effective use of digital technology in schools with a view to step it up.
 
@@ -486,12 +526,16 @@ Confronting the same issues, the UK Department of Education proposed the followi
 
         Ideas will also be invited from experts and professional bodies on ways to increase literacy of computer science related knowledge and competencies, as well as increase research into ICT-related areas.
 
-**5.4       **  **Review National Standards** : The Internet Party will initiate a review of National Standards by experts, schools, teachers, and parents/caregivers with the aim of modifying or scrapping them.
+### 5.4 Review National Standards
 
-**       ** Greater recognition will be given to the value of detailed student data, getting to know learners' interests and needs, and trialling new strategies. The emphasis will be on getting agreement on what needs to be measured to provide students with adequate feedback on their progress and data-led learning needs, as well as how the measurement/feedback systems need to be implemented.
+The Internet Party will initiate a review of National Standards by experts, schools, teachers, and parents/caregivers with the aim of modifying or scrapping them.
+
+Greater recognition will be given to the value of detailed student data, getting to know learners' interests and needs, and trialling new strategies. The emphasis will be on getting agreement on what needs to be measured to provide students with adequate feedback on their progress and data-led learning needs, as well as how the measurement/feedback systems need to be implemented.
 
         The Internet Party will consult with educators, schools and teachers to consider whether new national literacy and numeracy development strategies for years 1 to 8 are required. These will be implemented as a priority, ensuring buy-in from teachers and parents/caregivers.
 
-**5.5       **  **Fix Novopay** : The Internet Party will immediately initiate a quick review of Novopay to confirm it is capable of delivering a stable and suitable payment system. It will then rapidly fix the immediate problems, as well as ensure steps to ensure its long-term capabilities.
+### 5.5 Fix Novopay
 
-**       ** Independent reviews by a range of experts will provide recommendations on the changes needed to the way Government plans, designs, manages, governs, procures, tests and rolls out major IT projects.
+The Internet Party will immediately initiate a quick review of Novopay to confirm it is capable of delivering a stable and suitable payment system. It will then rapidly fix the immediate problems, as well as ensure steps to ensure its long-term capabilities.
+
+Independent reviews by a range of experts will provide recommendations on the changes needed to the way Government plans, designs, manages, governs, procures, tests and rolls out major IT projects.

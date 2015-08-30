@@ -1,86 +1,102 @@
 # Environment
 
-
-
 **Table of Contents**
 
+1. Problems Identified 
+  
+  1.1. Clean energy and green technology
+  
+  1.2. Minerals exploitation
+  
+  1.3. Smart technology
+  
+  1.4. Green data centres
+  
+  1.5. Ewaste
+  
+  1.6. Natural environment
+  
+  1.7. Carbon pricing
 
+2. Relevant Data/Research 
+  
+  2.1. Clean energy and green technology
+  
+  2.2. Minerals exploitation
+  
+  2.3. Smart technology
+  
+  2.4. Green data centres
+  
+  2.5. Ewaste
+  
+  2.6. Natural environment
+  
+  2.7. Carbon pricing
 
-1. 1. **Problems Identified** 
-  1. 1.1.Clean energy and green technology
-  2. 1.2.Minerals exploitation
-  3. 1.3.Smart technology
-  4. 1.4.Green data centres
-  5. 1.5.Ewaste
-  6. 1.6.Natural environment
-  7. 1.7.Carbon pricing
+3. Examples of Global Leadership 
+  
+  3.1. Clean energy and green technology
+  
+  3.2. Minerals exploitation
+  
+  3.3. Smart cities
+  
+  3.4. Green data centres
+  
+  3.5. Ewaste
+  
+  3.6. Natural environment
+  
+  3.7. Carbon pricing
 
-1. 2. **Relevant Data/Research** 
-  1. 2.1.Clean energy and green technology
-  2. 2.2.Minerals exploitation
-  3. 2.3.Smart technology
-  4. 2.4.Green data centres
-  5. 2.5.Ewaste
-  6. 2.6.Natural environment
-  7. 2.7.Carbon pricing
+4. Policy Proposals 
+  
+  4.1. Boost clean energy and green technology
+  
+  4.2. Minimise harm from resource extraction
+  
+  4.3. Develop smart cities, homes and transport
+  
+  4.4. Set up a green data centre
+  
+  4.5. Tackle ewaste
+  
+  4.6. Enhance environmental protection
+  
+  4.7. Carbon pricing
 
-1. 3. **Examples of Global Leadership** 
-  1. 3.1.Clean energy and green technology
-  2. 3.2.Minerals exploitation
-  3. 3.3.Smart cities
-  4. 3.4.Green data centres
-  5. 3.5.Ewaste
-  6. 3.6.Natural environment
-  7. 3.7.Carbon pricing
-
-1. 4. **Policy Proposals** 
-  1. 4.1.Boost clean energy and green technology
-  2. 4.2.Minimise harm from resource extraction
-  3. 4.3.Develop smart cities, homes and transport
-  4. 4.4.Set up a green data centre
-  5. 4.5.Tackle ewaste
-  6. 4.6.Enhance environmental protection
-  7. 4.7.Carbon pricing
-
-
-
-
-
-1. 1. **Problems Identified** 
-  1. **1.1**** Clean energy and green technology                ** 
+## 1. Problems Identified
+ 
+### 1.1 Clean energy and green technology 
 
 There is both an immediate need as well as significant opportunity for New Zealand to shift focus from finite fossil fuels to renewable energy sources and green technologies. Currently there is a lack of vision, leadership, and long-term commitment to benefit from the global shift to green energy and technologies. Potential export revenues and jobs lie untapped.
 
 Co-ordinated efforts are required for a "whole-economy" transformation. There is now an urgent need to plan a gradual and economically sustainable strategy for weaning the country off fossil fuels. There is a wide range of new energy generating technologies that need to be assessed and costed to determine their applicability to New Zealand.
 
-1.
-  1. **1.2**** Minerals exploitation**
+### 1.2 Minerals exploitation
 
 Uncertainty surrounds some of the techniques and processes being used to accelerate the extraction of hydrocarbons and other minerals from New Zealand's on- and off-shore environments. These include deep-sea oil exploration, hydraulic fracturing (fracking), land-farming of hydrocarbon waste, undersea mining, deep-well injection of wastes, and onshore mining of minerals.
 
 The democratic right to protest against offshore oil exploration has been curtailed by the Government. It has also made offshore drilling resource consent applications non-notifiable (not requiring public announcements and giving people the right to object or put forward their views).
 
-1.
-  1. **1.3**** Smart technology**
+### 1.3 Smart technology
 
 The development of smart cities has insufficient focus and priority. They continue to be seen as "nice to have" side projects rather than being at the heart of a city's future. The recreation of Christchurch presents an opportunity to build a globally leading smart city.
 
 Smart homes are slow to emerge with issues related to standards, regulations, interoperability and privacy. Little leadership or guidance exists to build smart home networks, in particular greenfield developments. New Zealand faces mid- to long-term transport problems because of an over-emphasis on roads, the decline of rail, and a lack of government interest in modern urban public transport systems.
 
-1.
-  1. **1.4**** Green data centres**
+### 1.4 Green data centres
 
 Energy consumption by the Internet industry is increasingly coming under scrutiny. With New Zealand's moderate climate and renewable energy sources, there is an opportunity to build world-class green data centres and attract major global Internet companies. Proaction is required to attract the first such company and then support the development of an Internet business ecosystem around green data centres.
 
-1.
-  1. **1.5**** E-waste**
+### 1.5 E-waste
 
 New Zealand has successfully made sporadic and one-off efforts to promote recycling and responsible disposal of electrical and electronic waste, such as TV Takeback and e-Day. However, the country has fallen behind others in developing a long-term, sustainable solution.
 
 The Ministry for the Environment is consulting on whether it should intervene to make it compulsory for parties involved to create a product stewardship scheme. Community groups are generally viewing this as positive but want earlier action.
 
-1.
-  1. **1.6**** Natural environment**
+### 1.6 Natural environment
 
 Biodiversity is under threat in New Zealand, especially in the country's conservation estate. The role of the Department of Conservation has been compromised by cutbacks and a market-led philosophy.
 
@@ -90,12 +106,13 @@ Not enough is known about the extent and potential of our marine fishery. Despit
 
 Maui's Dolphins are critically endangered, which means there is a high risk of it becoming extinct in the near future. As few as 55 individuals over one year of age remain. While they need to be protected from harmful fishing practices and risky marine mining activities to ensure their survival, over 3000 square kilometres of the marine reserve that the Maui's dolphin calls home is to be opened up for oil exploration.
 
-**1.7       Carbon pricing**
+### 1.7 Carbon pricing
 
 Atmospheric carbon dioxide and other greenhouse gases like methane are at the highest levels they have been for 650,000 years. The planet is warming because these gases trap the sun's heat, resulting in climate change. New Zealand has so far responded mainly through the use of an economic instrument - the Emissions Trading Scheme - which has been watered down to the point of making no difference.
 
-1. 2. **Relevant data/research** 
-  1. **2.1**** Clean energy and green technology**
+## 2. Relevant data/research
+ 
+### 2.1 Clean energy and green technology
 
 More than a third of the total energy consumed in New Zealand – including electricity, heat and transport fuels – already comes from renewable sources. More than 70% of all electricity is generated by renewable energy, mainly hydro-electricity and geothermal power.
 
@@ -115,14 +132,11 @@ Examples of green technology include those affecting energy (the development of 
 
 New Zealand's Green Growth Advisory Group [**concluded**](http://www.med.govt.nz/sectors-industries/environment/pdf-docs-library/Greening%20New%20Zealands%20Growth.pdf) in 2011 the country needs a "whole-economy approach" to greener growth, which would come from "many and various shifts within and between sectors towards greener products, services, technologies, practices and markets. Innovation involving knowledge and technology is critical to greening the growth of every sector…"
 
-1.
-  1. **2.2**** Minerals exploitation**
+### 2.2 Minerals exploitation
 
 Some of the most intense [**public debates**](http://climatejusticetaranaki.wordpress.com/)concern various oil exploration and processing practices- including hydraulic fracturing (fracking), deep-sea drilling, land-farming and deep-well injection– and seabed mining for iron ore and other metals. Deep-sea drilling off the coast holds inherent risks, and New Zealand has limited resources to combat a major blowout and oil spill. International markets are sensitive about the risk of burying oil drilling wastes on farmland. Oil industry wastes continue to be pumped under pressure into underground formations without anyone knowing for sure how safe the practice is and how much the geology can take.
 
-1.
-  1.
-    1. **2.2.1****         Fracking**
+#### 2.2.1 Fracking
 
 In March, 2012, Parliamentary Commissioner for the Environment Jan Wright announced that as a result of many requests to her office she would conduct an inquiry into hydraulic fracturing (fracking). A year later, her [**report**](http://www.pce.parliament.nz/assets/Uploads/Fracking-interim-web.pdf) of 77 pages canvassed the issue here and overseas and concluded there was no evidence fracking had so far contaminated New Zealand's underground freshwater reservoirs. She said the environmental risks associated with fracking could be managed effectively provided, to quote the Royal Society of London, "operational best practices are implemented and enforced through regulation".
 
@@ -136,9 +150,7 @@ While fracking had been mainly confined to Taranaki, where that had been no appa
 
 She said regional councils outside Taranaki were ill-prepared to deal with oil exploration growth and a national plan was needed, as well as clearer and more consistent guidelines for regional councils. Her report includes a number of recommendations to that purpose.
 
-1.
-  1.
-    1. **2.2.2****         Land-farming**
+#### 2.2.2 Land-farming
 
 This refers to an oil industry technique that uses land to treat some of the hydrocarbon wastes derived from the industry's exploration activities, the outcome being the conversion of marginal grazing land into productive pasture. It has been [**controversial**](http://climatejusticetaranaki.wordpress.com/2013/05/14/btw-breach-toxic-waste-consents/)in Taranaki after some of the 30-odd farms were found to be breaching resource consent conditions, and the province was going to be a dumping place for wastes from oil exploration elsewhere in the country.
 
@@ -146,25 +158,19 @@ In 2013, in an effort to calm international market [**concerns**](http://www.stu
 
 The commissioner said in her June report that a related process called mix-bury-cover used in Taranaki was not safe and there was urgent need for regulations to be put in place. The Taranaki Regional Council [**announced on July 3**](http://www.stuff.co.nz/business/farming/dairy/10230583/Group-to-address-stock-grazing-on-oil-waste) it had set up an investigative group to look for solutions.
 
-1.
-  1.
-    1. **2.2.3****         Undersea mining**
+### 2.2.3 Undersea mining
 
 A six-year [**study**](http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&objectid=10829768) by GNS science reported in 2012 that there could be tens of billions of dollars-worth of minerals to be found offshore. An example of how this will be exploited is Wellington-based Trans-Tasman Resources, which wanted to mine about 66 square kilometres of seabed in relatively shallow water in New Zealand's Exclusive Economic Zone, between 22km and 36km offshore from the South Taranaki coastal town of Patea.
 
 The company was [**granted**](http://www.scoop.co.nz/stories/BU1405/S00068/ironsands-miner-gets-mining-permit-as-epa-hearings-continue.htm) a mining permit by the New Zealand Petroleum & Minerals arm of the Ministry of Business, Innovation and Employment, but was [**denied consent**](http://www.odt.co.nz/news/business/306643/all-eyes-next-epa-mining-decision) by the Environmental Protection Authority which said, "the major reason was uncertainty around the scope and significance of the potential adverse environmental effects, and those on existing interests, such as the fishing interests and iwi."
 
-1.
-  1.
-    1. **2.2.4****         Deep-well injection**
+#### 2.2.4 Deep-well injection
 
 This technique was developed prior to 1930 by US oil companies as a way of getting rid of fluid wastes from oil drilling operations. They pumped the wastes down into dry wells under pressure and filled porous rock formations underground. Later the wells were sealed with concrete. However, some [**leaked**](http://www.propublica.org/article/injection-wells-the-poison-beneath-us) into nearby abandoned wells and wastes returned to the surface, sometimes on farmland.
 
 Oil companies in Taranaki have been using deep-well injections since about 1975, and have so far pumped about 35 million cubic metres of wastes down about 1500 metres into a dozen or so wells. None has leaked and no freshwater aquifers have been affected, but the regulatory body, Taranaki Regional Council is [**unable to say**](http://www.trc.govt.nz/assets/Publications/guidelines-procedures-and-publications/resource-management-act/GNS-DWI-2013.PDF) what the geology's long-term capacity might be. Overseas research has recently [**raised concerns**](http://science.time.com/2013/07/12/deep-disposal-wells-from-oil-and-gas-drilling-linked-to-earthquakes/#ixzz2YzeV0Yxw) about the impact of earthquakes.
 
-1.
-  1.
-    1. **2.2.5****         Deep-sea oil drilling**
+#### 2.2.5 Deep-sea oil drilling
 
 In May, 2013, the Government established new protocols for deep-sea oil exploration in much deeper offshore marine environments than before. They are part of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act (the EEZ Act), whose purpose is to promote the sustainable management of the natural resources of the EEZ and continental shelf. The Exclusive Economic Zone is the area of sea, seabed and subsoil from 12 to 200 nautical miles offshore.
 
@@ -174,9 +180,9 @@ Greenpeace published a [**report**](http://oilspillmap.org.nz/) estimating the e
 
 The Government moved to curtail protests against offshore oil drilling by amending the Crown Minerals Act whose Section 101B is entitled "Interfering with structure or operation in offshore area". It has also made offshore drilling resource consent applications [**non-notifiable**](http://www.stuff.co.nz/national/politics/9771417/Law-will-hit-deep-sea-drilling-protesters) (not requiring public announcements and giving people the right to object). The same lack of public warning also applies to land-based resource consent applications made by oil companies to Taranaki Regional Council, meaning people have no opportunity to submit or object.
 
-1.
-  1. **2.3**** Smart technology**
-    1. **2.3.1****         Smart cities**
+### 2.3 Smart technology
+
+#### 2.3.1 Smart cities
 
 The concept of the smart city has emerged over two decades. It is built around the [**idea**](http://ideas.repec.org/p/dgr/vuarem/2009-48.html) that future success of urban communities will depend not only on a city's infrastructure (physical capital), but also "the availability and quality of knowledge communication and social infrastructure - human and social capital".
 
@@ -194,9 +200,7 @@ The company has given Christchurch one of its Smarter Cities Challenge grants an
 
 Auckland drivers could benefit from greater funding to improve the city's aged and under-managed traffic light management system.
 
-1.
-  1.
-    1. **2.3.2****         Smart homes** 
+#### 2.3.2 Smart homes 
 
 These use fast broadband, wifi, computer systems, sensors and meters to monitor, direct and make more efficient a range of household functions such as energy generation, lighting, heating, ventilation, air conditioning, home entertainment, remote access for tradespeople, support for the disabled and elderly, security, lighting, watering indoor plants, and feeding pets.
 
@@ -212,9 +216,7 @@ The meters record more regular and accurate electricity consumption information 
 
 Other [**benefits**](http://www.ea.govt.nz/search/?q=smart+meters&s=&order=&cf=&ct=&dp=&action_search=Search) will flow to over time as new tariffs, products, appliances and opportunities can be made available with smart meter technology. Some [**controversy**](http://www.huffingtonpost.com/david-h-bailey/smart-meters-dumb-science_b_2768405.html) surrounds use of the meters.
 
-1.
-  1.
-    1. **2.3.3****         Smart transport**
+#### 2.3.3 Smart transport
 
 Issues facing New Zealand's transport systems are acknowledged by the government department responsible for finding solutions, the NZ Land Transport Agency. In a [**website outline**](http://www.nzta.govt.nz/planning/nltp-2012-2015/issues.html) last updated in August, 2012, the agency notes the demand for transport is expected to increase in terms of absolute quantity and "modal choice", although the location of demand will vary.
 
@@ -230,8 +232,7 @@ Auckland drivers could benefit from greater funding to improve the city's aged a
 
 In 2010, the Government announced it would allow bigger trucks to use New Zealand roads, a development that drew criticism from lobby groups such as The Campaign for better Transport. Its website [**said**](http://www.bettertransport.org.nz/campaigns/say-no-to-bigger-trucks/) the proposal to introduce bigger and heavier trucks onto New Zealand roads was flawed because insufficient information had been provided to explain the economic justification; larger trucks would lead to significantly more wear and tear on roads, probably meaning increased road-user charges; trucking would compete more directly with government-owned rail for bulk goods transport; there would be safety issues for other drivers; and environmental effects would include greater CO2 emissions, more particulate matter pollution and more noise pollution.
 
-1.
-  1. **2.4**** Green data centres**
+### 2.4 Green data centres
 
 Massive data centres operated by companies like Google, Facebook, Apple and Amazon consume large amounts of electricity for functions like cooling. Greenpeace [**says**](http://www.greenpeace.org/international/en/news/Blogs/makingwaves/click-clean/blog/48830/) a single one can require as much energy as a medium-sized city. If cloud computing were a country, it would rank [**sixth**](http://time.com/46777/your-data-is-dirty-the-carbon-price-of-cloud-computing/) in the world because of how much electricity it uses. Most of it is generated with [**fossil fuels**](http://www.scientificamerican.com/podcast/episode/apple-plans-a-cleaner-cloud-12-03-08/).
 
@@ -239,8 +240,7 @@ The amount of data shuttling around the world is expected to triple in the next 
 
 Over the next 15 years, the majority of data centre [**growth**](http://searchdatacenter.techtarget.com/feature/Pros-and-cons-of-international-data-center-locations) will occur outside the US, [**says**](http://www.greendatacenternews.org/articles/share/710332/) Scott Noteboom, a former data centre executive at Apple and Yahoo! At the opening of IBM's modern data centre in Auckland in 2011, NZICT CEO Brett O'Riley [**said**](http://www-03.ibm.com/press/nz/en/pressrelease/34600.wss) ready access to renewable energy from a variety of natural resources presented significant opportunities to the New Zealand data centre and data storage market.
 
-1.
-  1. **2.5**** E-waste**
+### 2.5 E-waste
 
 [**Electronic waste**](http://en.wikipedia.org/wiki/Electronic_waste) or e-waste is discarded electrical and electronic devices such as computers, televisions, and refrigerators. All electronic scrap components, may contain contaminants such as lead, cadmium, beryllium, or brominated flame retardants. Recycling and disposal of e-waste may involve significant risk to workers and communities. Great care must be taken to avoid unsafe exposure in recycling operations and leaking of materials such as heavy metals from landfills and incinerator ashes.
 
@@ -262,9 +262,9 @@ The Ministry for the Environment is [**consulting**](https://www.mfe.govt.nz/iss
 
 Community groups are [**generally viewing**](http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&objectid=11259172) this as positive but want earlier action. Councils of the Wellington region have previously [**called**](http://www.scoop.co.nz/stories/PO1305/S00067/ewaste-product-stewardship-receives-region-wide-support.htm) for a national product stewardship approach for e-waste. This was unanimously endorsed by LGNZ annual Conference in July 2013.
 
-1.
-  1. **2.6**** Natural environment**
-    1. **2.6.1****         Biodiversity**
+### 2.6 Natural environment
+
+#### 2.6.1 Biodiversity
 
 [**Biodiversity**](http://www.biodiversity.govt.nz/picture/doing/nzbs/glossary.html#biodiversity) means the variability among living organisms from all sources. It is under threat in New Zealand. [**According**](https://www.mfe.govt.nz/issues/biodiversity/) to the Ministry for the Environment, [**climate change**](https://www.mfe.govt.nz/issues/climate/index.html) will inevitably impact on biodiversity.  "A number of biological changes have already been observed globally including shifts in the range of some species, and earlier timing of leaf-unfolding, bird migration and egg-laying in some species."
 
@@ -272,9 +272,7 @@ Community groups are [**generally viewing**](http://www.nzherald.co.nz/business/
 
 New Zealand's farming, forestry and horticulture depend on the resources and services provided by biological systems and protecting the natural resources and the introduced species on which these industries are based, from pests, weeds and diseases is important to New Zealand.
 
-1.
-  1.
-    1. **2.6.2****         Conservation estate**
+#### 2.6.2 Conservation estate
 
 New Zealand's [**conservation estate**](http://en.wikipedia.org/wiki/Department_of_Conservation_(New_Zealand)) covers nearly a third of the country's land area- 30% or about 8 million hectares of native forests, tussock lands, alpine areas, wetlands, dune lands, estuaries, lakes and islands, national forests, maritime parks, marine reserves, nearly 4000 reserves, river margins, some coastline, and many offshore islands.
 
@@ -282,9 +280,7 @@ All of the land under its control is protected for either conservation, ecologic
 
 Much of it is under the care of the Department of Conservation, which has been [**compromised**](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10873954) by cutbacks and a market-led philosophy. The department's restructuring and staff sinking-lid policy have seriously diminished its front-line capability, [**according**](http://www.stuff.co.nz/the-press/news/8546008/The-true-cost-of-DOC-budget-cuts) to environmentalists.
 
-1.
-  1.
-    1. **2.6.3****         Water quality**
+#### 2.6.3 Water quality
 
 Abundance of freshwater and a rich marine environment are two of the country's biggest assets, but both are at risk from pollution and reckless use. This is a [**direct threat**](http://www.scoop.co.nz/stories/PA1105/S00191/bbc-questions-nzs-100-pure-brand.htm) to the hugely successful tourism and marketing brand, 100% Pure, which has been questioned by overseas media in the light of scientific evidence from environmental academics.
 
@@ -298,15 +294,11 @@ The Ministry for the Environment has been announcing [**national water quality s
 
 It is up to councils to pursue more detailed measures and progress is uneven. Only Taranaki – which has 10 percent of the dairy industry's cows - has a region-wide riparian exclusion and planting programme that is well advanced.
 
-1.
-  1.
-    1. **2.6.4****         Marine fisheries**
+#### 2.6.4 Marine fisheries
 
 While OECD data shows only about 10% of our marine fish species are threatened (compared with the global average of 28%) and although most fish stocks have not been reduced to the same extent as in fisheries like the North Sea, the South Australian Shelf and the Newfoundland-Labrador Shelf, there is ever-present pressure to increase annual takes. Dr Matthew Dunn, principal scientist at the National Institute of Water and Atmospheric Research (NIWA), [**says**](http://www.sciencemediacentre.co.nz/2012/11/15/green-growth-opportunities-for-nz-report-experts-respond/) more needs to be known about smaller fish stocks to find the actual extent of the New Zealand fishery.
 
-1.
-  1.
-    1. **2.6.5****         Maui's Dolphins**
+#### 2.6.5 Maui's Dolphins
 
 [**According**](http://www.doc.govt.nz/conservation/native-animals/marine-mammals/dolphins/mauis-dolphin/) to the Department of Conservation, "Maui's dolphins are a sub-species of Hector's dolphins, the world's smallest dolphin. They are found on the west coast of the North Island of New Zealand and nowhere else in the world. It is one of the world's rarest dolphins."
 
@@ -320,13 +312,11 @@ Over 3000 square kilometers of the marine reserve that the Maui's dolphin calls 
 
 The risk of Maui's Dolphins going extinct is not just theoretical. For example, in 2006 [**experts found**](http://news.nationalgeographic.com/news/2006/12/061214-dolphin-extinct.html) that the rare Chinese river dolphin " [**baiji**](http://en.wikipedia.org/wiki/Baiji)" had gone functionally extinct.
 
-1.
-  1.
-    1. **2.6.6****         Pest control**
+#### 2.6.6 Pest control
 
 While the Government claims success for the aerial spreading of toxic 1080 bait to kill possums, too little focus and funding is placed on finding more-targeted methods that do the job but offer better protection for wild birds and animals. Lobby groups [**say**](http://www.safe.org.nz/Campaigns/Ban-1080/) "the use of 1080 poisoning as the main weapon in the war against animals regarded as 'pests' is an extremely cruel practice".
 
-**2.7           Carbon pricing**
+### 2.7 Carbon pricing
 
 A [**carbon price**](http://www.ipcc.ch/publications_and_data/ar4/wg3/en/annex1-ensglossary-a-d.html)is the amount that must be paid for the emission of 1 tonne of carbon dioxide into the atmosphere. Such payments usually take the form of a [**carbon tax**](http://en.wikipedia.org/wiki/Carbon_price) or the cost of purchasing emission allowances in a cap-and-trade system.
 
@@ -344,9 +334,11 @@ Greenpeace NZ [**says**](http://www.greenpeace.org/new-zealand/en/reports/The-Fu
 
 "Earlier the Government repealed the 'thermal ban' clause of the ETS legislation, which restricted new thermal electricity generation. It halted the introduction of a vehicle fuel economy standard that would have lowered the **carbon** dioxide emissions from our vehicles. It also repealed a very modest biofuel sales obligation."
 
-1. 3. **Examples of Global Leadership** 
-  1. **3.1**** Clean energy and green technology**
-    1. **3.1.1****         Wind**
+## 3. Examples of Global Leadership
+ 
+### 3.1 Clean energy and green technology
+
+#### 3.1.1 Wind
 
 Denmark is the world's leading [**wind turbine**](http://cleantechnica.com/2012/09/28/danish-renewable-energy-generation-wind-energy-generation-percentage/) developer, especially for offshore locations, already generating an average 28 percent of its electricity from windmills, and aiming to lift that to 40 percent.
 
@@ -354,9 +346,7 @@ On November 3, 2013, wind power production in Denmark [**exceeded**](http://ener
 
 The Danes plan to store excess electricity partly as heat by running electric heating systems when power is cheap. Eventually, it could also be stored chemically, such as via electrolysis to produce green hydrogen. At that point, the heat and transport sectors could theoretically also be served with excess green power.
 
-1.
-  1.
-    1. **3.1.2****         Solar**
+#### 3.1.2 Solar
 
 There are numerous examples of leadership in the use of solar energy, not the least Germany after it decided to close its nuclear power stations following the Japan earthquake. However, although solar energy offers vast potential and costs are dropping rapidly to match those of conventional generation, some exponent countries offer cautionary tales.
 
@@ -366,17 +356,13 @@ Spain was similarly [**lauded**](http://www.nytimes.com/2014/01/06/world/europe/
 
 Sun-drenched Australia has [**better prospects**](http://www.abc.net.au/news/2014-04-08/solar-company-reconsiders-investment-in-australia/5373664), but future commitment may stall temporarily. Multinational solar panel maker First Solar- the company building the southern hemisphere's largest solar plant, a $450 million installation in New South Wales big enough to power 50,000 homes - says it is reconsidering investment in Australia because of uncertainty about the government's Renewable Energy Target.
 
-1.
-  1.
-    1. **3.1.3****         Hydrothermal power**
+#### 3.1.3 Hydrothermal power
 
 US company Marshall Hydrothermal [**says**](https://www.youtube.com/watch?v=F6-_UTU_bJ0) it is providing the world with the first and only patented solution to unlock the potential from deep-sea hydrothermal vents. Its website says the Marshall Hydrothermal Recovery System (MHRS) can deliver base-load electrical power, millions of gallons of desalinated water, and extensive mineral/metal/resource mining capability.
 
 A study of submarine hydrothermal vents (hot springs) began in 1977 near the Galapagos Islands. New Zealand's GNS science says [**hydrothermal vents**](http://www.gns.cri.nz/Home/Learning/Science-Topics/Ocean-Floor/Undersea-New-Zealand/Hydrothermal-Vents)– whose hot emissions the Marshall system harnesses- are commonly found near volcanically active places, areas where tectonic plates are moving apart, ocean basins, and hotspots. Locally, many hydrothermal vents have been found along the Kermadec Arc associated with active [**submarine volcanoes**](http://www.gns.cri.nz/Home/Learning/Science-Topics/Ocean-Floor/Undersea-New-Zealand/Submarine-Volcanoes).
 
-1.
-  1.
-    1. **3.1.4****         Green building**
+#### 3.1.4 Green building
 
 Cape Town's V&A Waterfront, a 400,000 square metre mixed-use development that sees 23 million visitors per year, is demonstrating measurable results from its $3.5 million green building [**retrofit**](http://www.worldgbc.org/activities/business-case/case-studies/case-study-exemplary-any-measure) that began in 2008 and took place gradually over three years.
 
@@ -384,9 +370,9 @@ Major energy saving initiatives were added over time and included installation o
 
 The project also introduced water conserving and waste management initiatives, with annual savings of $70,000 and $110,000, respectively. The development can now demonstrate a 17% drop in energy costs and savings of nearly three-quarters of a billion dollars a year.
 
-1.
-  1. **3.2**** Minerals exploitation**
-    1. **3.2.1****         French fracking ban**
+### 3.2 Minerals exploitation
+
+#### 3.2.1 French fracking ban
 
 France's constitutional court last year upheld a 2011 ban on hydraulic fracturing, ruling French law against the energy-exploration technique is a valid means of protecting the environment. The court [**said**](http://www.bloomberg.com/news/2013-10-11/fracking-ban-upheld-by-french-court-as-constitutional.html) the 2011 law "conforms to the constitution" and is not "disproportionate".
 
@@ -394,9 +380,7 @@ A Dallas-based oil explorer complained to the court that the law was unfair and 
 
 French president Francois Hollande has said France would not allow exploration of shale energy even as the country seeks to reduce its reliance on nuclear energy and keep down costs for consumers.
 
-1.
-  1.
-    1. **3.2.2****         Alternatives to deep-well injection**
+#### 3.2.2 Alternatives to deep-well injection
 
 Not all the liquid being re-injected into underground formations in New Zealand has to go there – some could be made into stock and drinking water, thus reducing the massive volume of fluids being pumped into geology that may one day be affected by earthquakes and fault shifts.
 
@@ -406,9 +390,9 @@ This is being explored in The Netherlands, where a [**2013 report**](http://doc.
 
 The fresh-brackish interface in the source aquifer is stabilised by simultaneous abstraction of the fresh and brackish parts. After desalination, the abstracted brackish water provides an additional source for drinking water. To demonstrate the feasibility of this concept a pilot study was set up and showed that "brackish groundwater provides an excellent, additional source for drinking water".
 
-1.
-  1. **3.3**** Smart cities**
-    1. **3.3.1****         Best internet city -**[**Seoul**](http://www.ubmfuturecities.com/document.asp?doc_id=%20525595&page_number=2)
+### 3.3 Smart cities
+
+#### 3.3.1 Best internet city - [Seoul](http://www.ubmfuturecities.com/document.asp?doc_id=%20525595&page_number=2)
 
 Internet speeds: The city's mean Internet throughput is 41.4 Mb/s, according to net measurement company Ookla. Another firm, Akamai, reports that South Korea has the highest average rate of Internet speed in the world at 14.2 Mb/s, and that a full 50 percent of all connections in South Korea are over 10 Mb/s. Compare that against the global average of 3.1 Mb/s.
 
@@ -416,9 +400,7 @@ WiFi:  The government is aggressively building out WiFi nationwide, planning for
 
 Innovation: Though Korean laws have been criticised for hindering start-ups, at least one investor thinks Seoul is unstoppable. Bernard Moon, founder of SparkLabs, a start-up accelerator, said in a recent interview with The Wall Street Journal: "Seoul is unique because entrepreneurship is growing and also because it has trendsetter technologies. It's such a hotbed of urban entrepreneurship."
 
-1.
-  1.
-    1. **3.3.2****         Best**[**urban sustainability cities**](http://www.smartplanet.com/blog/bulletin/top-10-cities-leading-in-urban-sustainability/)
+#### 3.3.2 Best [urban sustainability cities](http://www.smartplanet.com/blog/bulletin/top-10-cities-leading-in-urban-sustainability/)
 
 _Bogota, Colombia - Urban Transportation_
 
@@ -448,9 +430,9 @@ _Tokyo - Finance and Economic Development_
 
 Tokyo launched the world's first urban cap-and-trade programme in 2010, requiring carbon emission reductions from large commercial, government and industrial buildings through on-site energy efficiency measures or participation in the emissions trading scheme. Tokyo set the cap at 6 percent for the first compliance period of fiscal years 2010 to 2014. In its first year, the participating 1159 facilities reduced emissions by 13 percent. Reports submitted at the end of November 2012 bring the second-year total to an overall 23 percent emissions reduction below the base-year (2000) emissions.
 
-1.
-  1. **3.4**** Green data centres**
-    1. **3.4.1****         Sutton, UK** 
+### 3.4 Green data centres
+
+#### 3.4.1 Sutton, UK 
 
 Plans have been [**approved**](http://www.greendatacenternews.org/articles/share/712673/) to build on a 16 hectare campus in Sutton, Cambridgeshire, creating 65,000 square metres of data halls. The north Cambridge site will target global enterprises, local "silicon fen" technology giants and small-to-medium businesses.
 
@@ -462,9 +444,7 @@ Local atmospheric conditions are described as "a temperate maritime climate". Th
 
 Cambridge is home to a variety of global technology companies, including ARM, Microsoft Research, Napp Pharmaceutical, The Wellcome Trust & Sanger Institute, University of Cambridge and the new global HQ for Astra Zeneca.
 
-1.
-  1.
-    1. **3.4.2****         Dublin**
+#### 3.4.2 Dublin
 
 Google is planning to [**expand**](http://www.google.co.nz/about/datacenters/inside/locations/dublin/)its data centre footprint in Dublin with a new $200 million facility, reinforcing the city's status as a key hub for the world's cloud computing infrastructure. The giant search company may invest up to $300 million in the project, creating up to 300 construction jobs over a year or more and up to 60 new full-time jobs once it is operational.
 
@@ -472,8 +452,7 @@ In December, Microsoft [**announced**](http://www.irishtimes.com/business/sector
 
 Dublin is unique amongst major European data centre hubs in that its appeal is based on climate, rather than connectivity. While the thriving data centre communities in London, Amsterdam and Frankfurt are built atop network intersections in key business cities, Dublin has become one of the world's favoured locations for free cooling – the use of fresh air to cool servers. It is a prime example of how free cooling is giving rise to clusters of energy-efficient facilities in cool climates.
 
-1.
-  1. **3.5**** E-waste**
+### 3.5 E-waste
 
 [**Many countries**](http://en.wikipedia.org/wiki/Electronic_waste_by_country) have government or private or collaborative efforts to tackle e-waste on a sustainable basis. The [**Basel Convention**](http://en.wikipedia.org/wiki/Basel_Convention), an international treaty, is designed to reduce the movements of hazardous waste between nations, and specifically to prevent transfer of hazardous waste from developed to less developed countries.
 
@@ -489,9 +468,9 @@ The state set global precedents by introducing an advance recovery fee funding i
 
 Notably, the Waste Electrical and Electronic Equipment Directive ( [**WEEE Directive**](http://en.wikipedia.org/wiki/Waste_Electrical_and_Electronic_Equipment_Directive)) has been transposed in national laws in all member countries of the European Union. The symbol adopted by the European Council to represent waste electrical and electronic equipment comprises a crossed out wheelie bin with a single black line underneath the symbol.
 
-1.
-  1. **3.6**** Natural environment**
-    1. **3.6.1****         Public/private French water quality project**
+### 3.6 Natural environment
+
+#### 3.6.1 Public/private French water quality project
 
 In the early 1980s, Vittel, a subsidiary of Nestlé Waters and a world leader in natural mineral water, was faced with the increasing rate of nitrates and pesticides level in an important artesian spring in the Vittel catchment in Lorraine in north-eastern France. The increased nitrate and pesticides rates were caused by leaching of fertiliser and pesticides from the maize fields, overstocking, and poor management of animal waste.
 
@@ -503,9 +482,7 @@ In return, farmers were provided with a long-term incentive package that include
 
 The primary reasons for the success of the programme were not financial. The attention given to the complex interactions between technical, economic, social, legal, geographic, sociological and political issues (land market, debt cycle, labour constraints, future of farm family, role of farmers unions) was key to understanding farmers' livelihood strategies.
 
-1.
-  1.
-    1. **3.6.2****         Global fisheries management study**
+#### 3.6.2 Global fisheries management study
 
 In 2012, an international task force of marine experts published a [**study**](http://www.oceanconservationscience.org/foragefish/files/Little%20Fish,%20Big%20Impact.pdf) on the state of the ocean forage fish population and made comprehensive recommendations on how such fisheries can be saved.
 
@@ -513,15 +490,13 @@ In 2012, an international task force of marine experts published a [**study**](h
 
 "It is clear from this compilation and synthesis that the management of forage fish needs to be much more cautious than standard past management guidance and practice, given the tremendous implications of forage fishing for the integrity of marine ecosystems."
 
-1.
-  1.
-    1. **3.6.3****         Taranaki riparian exclusion programme**
+#### 3.6.3 Taranaki riparian exclusion programme
 
 One of the world's [**leading projects**](https://www.mfe.govt.nz/withyou/awards/green-ribbon-winners-2013.html) to combat nutrient runoff into waterways has been developed in Taranaki by the regional council. The riparian exclusion programme is New Zealand's biggest environmental enhancement planting scheme on privately owned land. In 2013 it won the "Caring for our water" section of the Ministry for the Environment the annual Green Ribbon Awards.
 
 The Environment Minister said the council placed high importance on monitoring the impact of this initiative, which generates information that can be used to educate the public about river water quality in the region. "Council land management officers identify fencing and planting requirements, estimate the cost of the work, and develop a programme for implementation." By June 2012, the council had worked with farmers to prepare nearly 2500 riparian management plans and nearly three-quarters of all waterways were protected.
 
-**3.7           Carbon pricing**
+### 3.7 Carbon pricing
 
 **The Trillion Tonne Communiqué** is a [**global call to arms**](http://www.climatecommuniques.com/Trillion-Tonne-Communique.aspx) promoted by the Prince of Wales's Corporate Leaders Groupand comes from "businesses who take the science of climate change seriously and are demanding a proactive policy response".
 
@@ -535,8 +510,9 @@ In 2012, the Prince of Wales's Corporate Leaders Group released [**The Carbon Pr
 
 "The Carbon Price Communiqué is open for [**sign-up**](http://www.climatecommuniques.com/#sthash.Crq168rb.dpuf) alongside The Trillion Tonne Communiqué as a clear and transparent price on carbon emissions remains one of the main building blocks of a cost-effective, pro-business policy framework for climate change."
 
-1. 4. **Policy Proposals** 
-  1. **4.1**** Boost clean energy and green technology**
+## 4. Policy Proposals
+ 
+### 4.1 Boost clean energy and green technology
 
 **100% renewable generation by 2025** : The Internet Party will adopt the goal of 100% of electricity generated from renewable sources by 2025. This will create jobs, economic resilience, strengthen our green reputation, and form a foundation for greater investment in green technologies. As a first step, the Internet Party will appoint a multi-disciplinary expert panel to build the economic case and strategic blueprint to achieve the 2025 goal.
 
@@ -544,8 +520,7 @@ In 2012, the Prince of Wales's Corporate Leaders Group released [**The Carbon Pr
 
 **Direct resource extraction income into green energy research:** The Internet Party will set up a transparent system which directs a proportion of government income from resource extraction into a contestable fund. The fund will promote research and development of new, renewed and alternative green energy using decentralised generation from wind, solar, hydrothermal, marine, geothermal, hydro and other sources.
 
-1.
-  1. **4.2**** Minimise harm from resource extraction**
+### 4.2 Minimise harm from resource extraction
 
 **Moratorium on risky extraction and waste disposal:**  There will be an immediate moratorium on hydraulic fracturing, land-farming, deep-sea exploration, undersea mining and deep-well injection until the recommendations of the Commissioner for the Environment about these environmentally risky extraction industry processes are debated publicly and acted on by Parliament. The objective is to achieve a social mandate for processes that are safe, properly consented and monitored, and to ensure modern and environment-friendly methods – if they are available - are given greater priority as emphasis on fossil fuels is phased down.
 
@@ -553,8 +528,7 @@ In 2012, the Prince of Wales's Corporate Leaders Group released [**The Carbon Pr
 
 **Restore public rights to protest and object:** Section 100B of the Crown Minerals Act will be repealed to restore those concerned about the environmental dangers of offshore oil drilling the democratic right to protest. Transparency will be guaranteed in government and local government permit and resource consent application processes to ensure the public have a right to know what is being proposed and to make submissions. Such applications must be publicly notified, a reasonable period allowed for submissions, and public hearings before independent commissioners held where necessary.
 
-1.
-  1. **4.3**** Develop smart cities, homes and transport**
+### 4.3 Develop smart cities, homes and transport
 
 **Smart cities:** The Internet Party will direct a part of the already committed central government funding of re-creating Christchurch to make it a world leading smart city. This will be done in collaboration with local government bodies and the people of Christchurch.
 
@@ -566,8 +540,7 @@ The Internet Party will encourage and work with other city councils in New Zeala
 
 **Smart transport:** The country's land transport plan will be reviewed, with a primary objective being the encouragement and prioritisation of public transport, cycling and walking. Ways to enable people to work more from home with the use of modern communications and information technology will be encouraged and barriers addressed. The Internet Party will give priority to restoring New Zealand's rail system so that there is less pressure on roads from large trucks. Auckland's traffic control system will be reviewed. A light rail system will be built from Auckland Airport to the city centre.
 
-1.
-  1. **4.4**** Set up a green data centre**
+### 4.4 Set up a green data centre
 
 Inspired by the success of Dublin, the Internet Party will develop a futuristic, global-scale, green data centre in New Zealand using a public-private partnership model. The data centre will use 100% renewable energy. The Internet Party will attract and negotiate terms with one leading global Internet company to use that green data centre.
 
@@ -575,13 +548,11 @@ Conditions for a thriving Internet business ecosystem to develop around the gree
 
 The green data centre policy requires success of other Internet Party policies including an additional submarine cable, stronger data protection laws, and a public undertaking that the government will not use secret interception capability orders.
 
-1.
-  1. **4.5**** Tackle ewaste**
+### 4.5 Tackle ewaste
 
 The Internet Party supports an accelerated introduction of a compulsory product stewardship scheme for electronic and electrical equipment under the Waste Minimisation Act. A level playing field is essential to ensure that all importers of such goods are required to contribute to a product stewardship scheme. During the period of time it takes for a compulsory product stewardship scheme to become operative, the Internet Party supports government-backed free "ewaste days" for collecting and disposing of ewaste responsibly.
 
-1.
-  1. **4.6**** Enhance environmental protection**
+### 4.6 Enhance environmental protection
 
 The Internet Party will work with, and support, like-minded parties to develop common policies and approaches in protecting New Zealand's environment.
 
@@ -599,8 +570,7 @@ The Internet Party will advance the following views:
 
 **Pest control:** Step up efforts to find methods that are more safe, effective and sustainable than the use of 1080 poison aerial drops to control the possum population.
 
-1.
-  1. **4.7**** Carbon Pricing**
+### 4.7 Carbon Pricing
 
 New Zealand urgently needs a strategy to achieve a net zero emissions economy. The Internet Party supports the Green Party's call for a 100% reduction in net greenhouse gas emissions from 1990 levels within New Zealand by 2050, with a two-yearly review of progress towards these national targets and technology incentives so the country can be kept up with the latest developments in science and technology. We also support the call for an international agreement that aims to reduce greenhouse gas concentrations to a safe level of less than 350 parts per million as soon as possible.
 
