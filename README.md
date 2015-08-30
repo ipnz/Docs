@@ -1,15 +1,17 @@
 # Welcome to the Internet Party NZ Policies 
 
 This Git repository contains all Internet Party NZ policies in
-[Markdown format](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+[Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) format.
 
-### Basic Tools
+### Tools
 
-* A basic Word doc to [markdown converter](http://word-to-markdown.herokuapp.com/) was used to convert docs.
-* Editors with Markdown view
-  * [MarkdownPad](http://www.markdownpad.com/) - Windows only
-  * [Visual Studio Code](https://code.visualstudio.com/) - Linux, Mac and Windows
-
-If you would like to contribute to the policy documents please contact the party secretary.
+* Atlassian [Sourcetree](https://www.sourcetreeapp.com/) - Excellent GUI for accessing Git repositories - Linux, Mac and Windows
+  * Want to know more about [Git?](http://git-scm.com/)
+* Online Word docx to [markdown converter](http://word-to-markdown.herokuapp.com/). Thanks to @benbalter
+* Editors with Markdown preview
+  * [MarkdownPad](http://www.markdownpad.com/) - Windows only - Free for personal use
+  * Microsoft's [Visual Studio Code](https://code.visualstudio.com/) - Linux, Mac and Windows
+  
+*Thanks to the above software makers for making their software free*
 
 Visit the [Internet Party website](https://internet.org.nz)
