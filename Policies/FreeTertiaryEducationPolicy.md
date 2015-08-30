@@ -1,8 +1,8 @@
-**Free Tertiary Education Policy**
+# Free Tertiary Education Policy
 
 **Internet MANA**
 
-**Summary**
+## Summary
 
 **If Free Tertiary Education was a higher priority than tax cuts and a priority for new spending, we could deliver it immediately. Internet MANA will deliver free education, protect academic freedom, and foster diverse areas of study. We will deliver:**
 
@@ -12,10 +12,9 @@
 - Set up a brand new summer jobs programme for students
 - Develop a comprehensive loan forgiveness programme for those with existing debt
 
-**Overview**
+## Overview
 
-| **Why Internet MANA is making Free Tertiary Education a priority** |
-| --- |
+**Why Internet MANA is making Free Tertiary Education a priority**
 
 _The government's objective broadly expressed, is that every person, whatever his level of academic ability, whether he be rich or poor, whether he live in town or country, has a right, as a citizen, to a free education of the kind for which he is best fitted, and to the fullest extent of his powers._
 
@@ -43,32 +42,39 @@ To fully-fund course fees, introduce a universal student allowance, and progress
 
 **Internet MANA will:**
 
-| **The elements of Free Tertiary Education** |
-| --- |
+**The elements of Free Tertiary Education**
 
 **No fees**
 
-1. 1.No fees for study in public tertiary institutions: universities, polytechs and wananga.
-2. 2.No fees in Maori Private Training Establishments [PTEs] that are providing quality courses where wananga are not present, as a Treaty partnership responsibility of the Crown. 
-3. 3.Immediate review of the funding of private tertiary institutions with the intention of removing fees for institutions which are meeting needs for educationally disadvantaged groups/providing training in skill shortage areas and are not in competition with public providers.
+1. No fees for study in public tertiary institutions: universities, polytechs and wananga.
+
+2. No fees in Maori Private Training Establishments [PTEs] that are providing quality courses where wananga are not present, as a Treaty partnership responsibility of the Crown. 
+
+3. Immediate review of the funding of private tertiary institutions with the intention of removing fees for institutions which are meeting needs for educationally disadvantaged groups/providing training in skill shortage areas and are not in competition with public providers.
 
 **Universal student allowance, Training Incentive Allowance and summer work**
 
-1. 4.Removal of the parental income test for the student allowance and review the level of the student allowance and access to add-on allowances to eliminate student hardship.
-2. 5.Restore the student allowances for post-graduate students.
-3. 6.Include the student allowance rate in comprehensive review of the level of welfare payments (which will include exploration of a change to the tax/welfare system based on concept of a Universal Basic Income see our Eliminating Poverty policy).
-4. 7.Reinstate the Training Incentive Allowance
-5. 8.Set up a brand new summer jobs programme for students, including opportunities to gain experience in the industries and services that students are interested in entering and allowing them to offer their developing knowledge and skills to communities.
+4. Removal of the parental income test for the student allowance and review the level of the student allowance and access to add-on allowances to eliminate student hardship.
+
+5. Restore the student allowances for post-graduate students.
+
+6. Include the student allowance rate in comprehensive review of the level of welfare payments (which will include exploration of a change to the tax/welfare system based on concept of a Universal Basic Income see our Eliminating Poverty policy).
+
+7. Reinstate the Training Incentive Allowance
+
+8. Set up a brand new summer jobs programme for students, including opportunities to gain experience in the industries and services that students are interested in entering and allowing them to offer their developing knowledge and skills to communities.
 
 **Reducing the existing debt burden**
 
-1. 9.No interest on existing loans.
-2. 10.Increase the threshold for the commencement of repayments.
-3. 11.Debt repayment by the Government on behalf of borrowers on parental leave under the Parental Leave and Employment Protection Act at their average rate of repayment for the 12 months prior to taking leave.
-4. 12.Develop a comprehensive loan forgiveness programme starting in 2016 for those with existing debt. 
+9. No interest on existing loans.
 
-| **The cost of Free Tertiary Education** |
-| --- |
+10. Increase the threshold for the commencement of repayments.
+
+11. Debt repayment by the Government on behalf of borrowers on parental leave under the Parental Leave and Employment Protection Act at their average rate of repayment for the 12 months prior to taking leave.
+
+12. Develop a comprehensive loan forgiveness programme starting in 2016 for those with existing debt. 
+
+**The cost of Free Tertiary Education**
 
 No fees - $568 million. Timing: Immediate
 
@@ -78,8 +84,7 @@ Summer job programme – funded as part of the Right to Work policy. Timing: Nex
 
 Increase in repayment threshold for existing loans, repay debt for workers on parental leave and debt write-off plan. Timing: A phased in plan from 2015 from a variety of funding sources.
 
-| **Funding free tertiary education** |
-| --- |
+**Funding free tertiary education**
 
 National's 2010 tax cuts robbed New Zealand of the opportunity to restore free tertiary education. Those tax cuts alone could have restored fee-free education, a universal student allowance and a longer term debt write-off programme. All of this could have been funded from the Government revenue lost.
 
@@ -93,8 +98,7 @@ The Greens have proposed funding a 1% company tax cut and tax cuts for those ear
 
 **It is clear that if Free Tertiary Education was treated as a higher priority than tax cuts, and made one of the priorities for new spending, we could deliver it immediately.**
 
-| **Delivering Free Tertiary Education will depend on the Internet MANA Party Vote and negotiations with other parties.** |
-| --- |
+**Delivering Free Tertiary Education will depend on the Internet MANA Party Vote and negotiations with other parties.**
 
 The only way to make Free Tertiary Education a priority will be to party vote Internet MANA. No other parties have made this a top-level priority.
 
