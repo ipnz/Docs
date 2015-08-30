@@ -271,7 +271,7 @@ The information system falls into three categories:
 
 - Electronic health records: ** ** EHRs bring together individual information registered with healthcare providers (your family doctor, specialist, healthcare team) and the provincial healthcare plan and eventually EHRs will include data from hospital information systems, community care clinics and other providers as well. Electronic health records are having a positive impact on patient care across the province for patients, health professionals and the healthcare system. 
 - Electronic medical records:EMRs and EMR software are the computer software physicians use to collect, manage and store the EHR. The digital equivalent of the old paper files and charts that your doctor used to keep in an office cabinet. Now, details about the care you receive from a family doctor, specialist, nurse, dietician or other health provider is captured electronically using EMR software. This makes accurate, clear and concise information about your healthcare status available to all members of your healthcare team.
-- Personal health records:PHRs are the records that you access and maintain as a patient Ã¢ÂÂ your record of appointments, email correspondence with healthcare providers, information about medications and any interaction with online patient groups.
+- Personal health records:PHRs are the records that you access and maintain as a patient your record of appointments, email correspondence with healthcare providers, information about medications and any interaction with online patient groups.
 
 1.
   1. 3.2. **Electronic personal health records** 
@@ -321,7 +321,7 @@ It was observed that there were three major causes of queues in hospitals:
 [Flinders Medical Centre](https://www.mja.com.au/journal/2008/188/6/redesigning-care-flinders-medical-centre-clinical-process-redesign-using-lean)(FMC) in **Australia** has successfully applied [lean thinking](http://www.touchpointchange.co.uk/Lean%20Thinking%20Introduction%20TPC.pdf) to improve the flow of patients and reduce waiting times for treatment. The application of lean thinking at FMC involved the following steps:
 
 - Being clear about what it is that you "make" at the step or stages in which you are involved.
-- Identifying who your customers are Ã¢ÂÂ who uses what you make, and what they value. 
+- Identifying who your customers are who uses what you make, and what they value. 
 - Identifying activity families or patient-care families and their value streams.
 - Improving flow.  
 - Identifying and reducing waste. 

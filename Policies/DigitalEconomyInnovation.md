@@ -40,9 +40,9 @@ Table of contents
 1. 3.Global leadership
 
 1.
-  1. 1.18.Finland Ã¢ÂÂ from trees to Nokia
-  2. 1.19.South Korea Ã¢ÂÂ global ICT leader
-  3. 1.20. Israel Ã¢ÂÂ Start-up nation
+  1. 1.18.Finland from trees to Nokia
+  2. 1.19.South Korea global ICT leader
+  3. 1.20. Israel Start-up nation
   4. 1.21.Garage innovation: QB3 Garage@Berkeley
   5. 1.22.Cambridge Science Park
 
@@ -504,7 +504,7 @@ Furthermore, the cluster around Nokia led to a significant increase in privately
 The focus on innovation requires Finland's government to be forward thinking. The Finnish Parliament currently has a cross-party Committee for the Future, which is tasked with assessing and conducting dialogues on future problems facing the country. Innovation policy needs to have long term strategic perspective.
 
 1.
-  1. **3.2.**** South Korea Ã¢ÂÂ Global ICT leader**
+  1. **3.2.**** South Korea Global ICT leader**
 
 South Korea is a country that has also undergone a dramatic transformation in the past decades from being one of the world's poorest countries in the 1960's to its current status as one of the world's largest digital economies. Korea is now one of the leading IT nations in the world– marked by its ascent to the top of the United Nations ICT Development Index.
 
@@ -525,7 +525,7 @@ One of the major success stories of South Korea's digital economy has been the d
 Thanks also to a quality education system South Korea is a nation of educated and tech savvy people, who are willing to spend money on technology products and, in the process, lead technological development.
 
 1.
-  1. **3.3.**** Israel Ã¢ÂÂ the "Start-up nation"**
+  1. **3.3.**** Israel the "Start-up nation"**
 
 Israel has attracted global recognition as a ' [Start-up Nation'](http://startupnationbook.com/) due to its high concentration of start-ups – second in the world only to Silicon Valley. Start-ups in Israel attract more venture capital per person than any other country, despite being located in a small country with a population of 7 million and with no natural resources.
 

@@ -281,12 +281,12 @@ One of the Ministry of Education's most significant responses to the issue of te
 The TKI website lists [strategies](http://elearning.tki.org.nz/Teaching/Pedagogy/Future-focused-learning-and-teaching) educators need to consider in embracing 21st century education. These include:
 
 - personalising learning - teachers using technologies to build the school curriculum around the learner and more flexibly to meet learners' needs; 
-- building an inclusive learning environment - using technologies to engage learners, family/whÃÂnau, and communities in co-shaping education to address students' needs, strengths, interests and aspirations;
+- building an inclusive learning environment - using technologies to engage learners, family/whanau, and communities in co-shaping education to address students' needs, strengths, interests and aspirations;
 - providing access to anywhere, anytime learning; 
 - supporting assessment and evaluation processes so that these are dynamic and responsive to information about students; 
-- developing a school curriculum that uses knowledge to develop learning capacity Ã¢ÂÂ using technologies to enable students to create and use new knowledge to solve problems and find solutions to challenges as they arise on a "just-in-time" basis;
-- rethinking learners' and teachers' roles Ã¢ÂÂ creating a "knowledge-building" learning environment where learners and teachers work together;
-- building a culture of continuous learning for teachers and school leaders Ã¢ÂÂ finding technology-related opportunities to participate in and build professional learning;
+- developing a school curriculum that uses knowledge to develop learning capacity using technologies to enable students to create and use new knowledge to solve problems and find solutions to challenges as they arise on a "just-in-time" basis;
+- rethinking learners' and teachers' roles creating a "knowledge-building" learning environment where learners and teachers work together;
+- building a culture of continuous learning for teachers and school leaders finding technology-related opportunities to participate in and build professional learning;
 - and developing new kinds of partnerships and relationships facilitated by new technologies.
 
 A relatively new government initiative from the Network for Learning is [Pond](https://www.pond.co.nz/). This is [described](http://www.n4l.co.nz/pond/)as "a central hub for digital discovery and participation, where educational resources can be accessed and shared more easily and effectively.
@@ -454,7 +454,7 @@ A year later, another report entitled "Learning in the digital age'' focused on 
 In order to catch up with the rest of Europe, the French government has made a number of detailed recommendations:
 
 - a digital education policy: nationwide coordination, by setting up a digital division within the Ministry of Education;
-- governance for demand in the state school sector: a central purchasing unit, special offers, eg: tablets for Ã¢ÂÂ¬100;
+- governance for demand in the state school sector: a central purchasing unit, special offers, eg: tablets for $100;
 - resources: access to both paid and free resources via a nationwide portal;
 - working closely with the industry to establish standards for training and exporting;
 - basic and further training for teaching staff;
@@ -475,12 +475,12 @@ Three different evaluations were conducted: the ﬁrst one targeted parents of t
 
 The educationalists who gathered at Canada's Waterloo University in 2013 (see **3.3** above) proposed seven ways to transform education:
 
-- Change the focus from rote learning Ã¢ÂÂ the memorisation of specific facts and figures Ã¢ÂÂ to the development of lifelong learners who are able to think critically and solve problems.
+- Change the focus from rote learning the memorisation of specific facts and figures to the development of lifelong learners who are able to think critically and solve problems.
 - Encourage learning through cross-disciplinary and collaborative projects that are relevant and useful to their community.
 - Create an environment where students work in fluid groupings that combine students of different ages, different abilities and different interests.
 - Shift the role of the teacher from "chalk-and-talk" orators to curators of learning, helping students grow their knowledge and skills.
 - Measure learning progress using qualitative assessments of a student's skills and competencies, rather than using high-stakes examinations.
-- Ensure that all groups Ã¢ÂÂ teachers, parents, governments and students Ã¢ÂÂ have a seat at the table when building the framework for learning.
+- Ensure that all groups teachers, parents, governments and students have a seat at the table when building the framework for learning.
 - Empower students and teachers to experiment with new ideas in an environment where they can fail safely and develop confidence to take risks.
 
 #### 4.7 UK Department for Education

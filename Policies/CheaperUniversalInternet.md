@@ -126,7 +126,7 @@ Since then, Chorus has taken on the monopoly of copper lines, while the single i
 
 The lack of competition as a key reason is confirmed by the two reasons put forward in the InternetNZ paper by Internet Service Providers (ISPs) for the existence of data caps:
 
-- To prevent a "tragedy of the commons" Ã¢ÂÂ that is, a few heavy users dominating the use of a fixed, low level of bandwidth resources to the detriment of other users.                 
+- To prevent a "tragedy of the commons" that is, a few heavy users dominating the use of a fixed, low level of bandwidth resources to the detriment of other users.                 
 - To segment the market by offering a better product to consumers who are willing to pay more, which maximises ISP income while providing for entry-level plans that are attractive to consumers who might otherwise not have broadband.
 
 Data caps are by far the predominant differentiator in competitive market offerings. There is little, if any, competition based on other parameters of Internet access such as connection speed or latency or nature of customer service.
@@ -199,7 +199,7 @@ According to the report Household Use of Information and Communication Technolog
 
 - Four out of five New Zealand homes had access to the Internet. With about 1.7 million homes and 1.3 million connected, this implies 400,000 homes had no Internet connection (census data in 2013 calculated this as 421,152 households38). The main reason remains a lack of interest. However, this figure is steadily declining, while concern over cost has increased, deterring more than a third of households from getting connected. An estimated 200,000 households in 2012 were not accessing the Internet due to costs being too high or a lack of confidence, knowledge or skills. Further, some 69,000 households with more than 200,000 school-aged children were without access to the Internet.
 
-- Two-thirds of rural households had a broadband connection. Conversely, one-third of rural households in 2012 did not.
+- Two-thirds of rural households had a broadband connection. Conversely, one-third of rural households in 2012 did not.
 
 #### 3.2.3. Rural-urban, income divides
 
@@ -283,7 +283,7 @@ Rather than a single, "one size fits all" national programme, this will be achie
 
 **Internet for all:** The Internet Party is committed to supporting Internet access for all New Zealanders unable to afford it or lacking the necessary confidence, knowledge or skills. This is estimated at 200,000 households, of which 69,000 households have school-aged children. Accordingly, two paths will be followed:
 
-- Significantly step up the Computers in Homes programme so that all households with school-age children opting for support to obtain Internet access at home and training will be covered within five years.
+- Significantly step up the Computers in Homes programme so that all households with school-age children opting for support to obtain Internet access at home and training will be covered within five years.
 
 - Expand public Internet access facilities by encouraging and supporting schools, libraries (Aotearoa People's Network Kaharoa), marae, councils, and community centres. This will be funded by a mix of local business sponsorship and direct government support.
 
