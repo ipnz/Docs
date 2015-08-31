@@ -5,79 +5,11 @@ excerpt: "Environment"
 modified: 2014-05-14
 tags: [Environment]
 comments: true
-image:
-  feature: sample-image-5.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
+{% include _toc.html %}
+
 # Environment
-
-**Table of Contents**
-
-1. Problems Identified 
-  
-  1.1. Clean energy and green technology
-  
-  1.2. Minerals exploitation
-  
-  1.3. Smart technology
-  
-  1.4. Green data centres
-  
-  1.5. Ewaste
-  
-  1.6. Natural environment
-  
-  1.7. Carbon pricing
-
-2. Relevant Data/Research 
-  
-  2.1. Clean energy and green technology
-  
-  2.2. Minerals exploitation
-  
-  2.3. Smart technology
-  
-  2.4. Green data centres
-  
-  2.5. Ewaste
-  
-  2.6. Natural environment
-  
-  2.7. Carbon pricing
-
-3. Examples of Global Leadership 
-  
-  3.1. Clean energy and green technology
-  
-  3.2. Minerals exploitation
-  
-  3.3. Smart cities
-  
-  3.4. Green data centres
-  
-  3.5. Ewaste
-  
-  3.6. Natural environment
-  
-  3.7. Carbon pricing
-
-4. Policy Proposals 
-  
-  4.1. Boost clean energy and green technology
-  
-  4.2. Minimise harm from resource extraction
-  
-  4.3. Develop smart cities, homes and transport
-  
-  4.4. Set up a green data centre
-  
-  4.5. Tackle ewaste
-  
-  4.6. Enhance environmental protection
-  
-  4.7. Carbon pricing
 
 ## 1. Problems Identified
  

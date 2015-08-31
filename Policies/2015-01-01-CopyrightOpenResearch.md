@@ -5,65 +5,11 @@ excerpt: "Copyright & Open Research"
 modified: 2014-05-14
 tags: [Copyright & Open Research]
 comments: true
-image:
-  feature: sample-image-5.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
+{% include _toc.html %}
+
 # Copyright & Open Research
-
-**Table of Contents**
-
-1. Summary 
-
-2. Problems Identified 
-  
-  2.1 First principles review
-  
-  2.2 Copyright Act review
-  
-  2.3 Open research
-
-3. Relevant Data/Research 
-  
-  3.1 Background
-  
-  3.2 Digital Millennium Copyright Act (DMCA)
-  
-  3.3 New Zealand Copyright Act
-  
-  3.4 Extent and reasons for infringement
-  
-  3.5 Copyright and Human Rights
-  
-  3.6 Copyright and Innovation
-  
-  3.7 Free Culture Movement
-  
-  3.8 Philosophy of Copyright
-  
-  3.9 Open Access to Research
-
-4. Examples of Global Leadership 
-  
-  4.1 Review of copyright laws globally
-  
-  4.2 Australian adoption of fair use
-  
-  4.3 European Commission Ten Pledges
-  
-  4.4 Aaron's Law
-
-5. Policy Proposals 
-
-  5.1 First principles review
-
-  5.2 Update NZ copyright law
-
-  5.3 Boost legal content availability
-
-  5.4 Mandate open research
 
 ## 1. Summary 
 

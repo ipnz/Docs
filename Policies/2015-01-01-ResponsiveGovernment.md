@@ -5,71 +5,11 @@ excerpt: "Responsive Government"
 modified: 2014-05-14
 tags: [Responsive Government]
 comments: true
-image:
-  feature: sample-image-5.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
+{% include _toc.html %}
+
 # Responsive Government
-
-**Table of Contents**
-
-1. Problems Identified 
-
-   1.1. Context
-   
-   1.2. Increased transparency
-   
-   1.3. Better government services
-   
-   1.4. Increased participation
-
-2. Relevant Data/Research 
-   
-   2.1. Office of the Ombudsman
-   
-   2.2. Better Public Services
-   
-   2.3. Government ICT strategy
-   
-   2.4. Government IT projects failure
-   
-   2.5. Government services online
-   
-   2.6. RealMe
-   
-   2.7. Better services to businesses
-   
-   2.8. Government procurement
-   
-   2.9. Open data
-   
-   2.10. Open source software
-   
-   2.11. Declining voter participation, accessibility, and online voting
-   
-   2.12. Referenda
-
-3. Examples of Global Leadership 
-   
-   3.1. E-Estonia
-   
-   3.2. UK digital strategy, cloud computing and open data
-   
-   3.3. US States' expenditure transparency
-   
-   3.4. E-government ranking
-   
-   3.5. Switzerland and direct democracy
-
-4. Policy Proposals 
-   
-   4.1. Increased transparency
-   
-   4.2. Better government services
-   
-   4.3. Increased participation
 
 ## Problems identified
 

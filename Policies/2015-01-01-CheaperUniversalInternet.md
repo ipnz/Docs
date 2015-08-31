@@ -5,71 +5,11 @@ excerpt: "Cheaper, Universal Internet"
 modified: 2014-05-14
 tags: [Cheaper, Universal Internet]
 comments: true
-image:
-  feature: sample-image-5.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
+{% include _toc.html %}
+
 # Cheaper, Universal Internet
-
-**TABLE OF CONTENTS**
-
-1. Summary
-
-2. Problems Identified 
-
-  2.1. High cost of Internet Access
-  
-  2.2. Universal access
-  
-  2.3. Low expectations
-  
-  2.4. Net neutrality
-
-3. Relevant Data / Research 
-
-  **3.1. Cheaper internet**
-  
-    3.1.1. Faster, pervasive Internet boosts economic growth
-    
-    3.1.2. Low level of data caps
-  
-    3.1.3. Cost of Internet access
-    
-    3.1.4. Internet speeds
-  
-    3.1.5. International bandwidth monopoly
-  
-    3.1.6. UFB, RBI coverage area
-  
-  **3.2. Universal access**
-    
-    3.2.1. Positive social impact of expanding Internet access
-    
-    3.2.2. Internet Penetration
-    
-    3.2.3. Rural-urban, income divides
-    
-    3.2.4. Internet access as a human right
-
-4. Examples of Global Leadership 
-
-  4.1. South Korea
-  
-  4.2. Macao & Israel
-  
-  4.3. Malaysia
-  
-  4.4. Romania
-  
-  4.5. BARN, United Kingdom
-
-5. Policy proposals
-  
-  5.1. Reduce Internet costs by 50%
-  
-  5.2. Universal access
 
 ## 1. SUMMARY
 

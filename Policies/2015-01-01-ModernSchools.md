@@ -5,73 +5,11 @@ excerpt: "Modern Schools"
 modified: 2014-05-14
 tags: [Modern Schools]
 comments: true
-image:
-  feature: sample-image-5.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
+{% include _toc.html %}
+
 # Modern Schools
-
-**Table of Contents**
-
-1. Summary 
-
-2. Problems Identified 
-  
-  2.1. Capacity
-  
-  2.2. Pedagogical change
-  
-  2.3. Capability
-  
-  2.4. National Standards
-  
-  2.5. Novopay
-
-3. Relevant Data/Research 
-  
-  3.1. Background
-  
-  3.2. Capacity
-  
-  3.3. Pedagogical change
-  
-  3.4. Capability
-  
-  3.5. National Standards
-  
-  3.6. Novopay 
-
-4. Examples of Global Leadership 
-  
-  4.1. ConnectED
-  
-  4.2. Europe 2020 1:1 learning initiatives study
-  
-  4.3. Project Red
-  
-  4.4. French ICT catchup initiative
-  
-  4.5. US mobile device use in schools
-  
-  4.6. Tablet use in European schools
-  
-  4.7. Equinox Blueprint: Learning 2030
-  
-  4.8. UK Department for Education
-
-5. Policy Proposals 
-
-  5.1. Steady Support
-
-  5.2. Boost ICT in schools
-
-  5.3. Step up capability development and pedagogical change
-
-  5.4. Review National Standards
-
-  5.5. Fix Novopay
 
 ## 1. Summary 
 

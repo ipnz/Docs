@@ -5,67 +5,11 @@ excerpt: "Better Healthcare"
 modified: 2014-05-14
 tags: [Better Healthcare]
 comments: true
-image:
-  feature: sample-image-5.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
+{% include _toc.html %}
+
 # Better Healthcare
-
-Table of contents
-
-1. Problems/opportunities identified
-
-  1.1. E-health solutions
-  
-  1.2. Electronic personal health records
-  
-  1.3. Funding issues
-  
-  1.4. System issues
-  
-  1.5. Individual care
-  
-  1.6. Learning from other sectors
-
-2. Relevant information
-  
-  2.1. Context
-  
-  2.2. E-health solutions
-  
-  2.3. Electronic personal health records
-  
-  2.4. Funding issues
-  
-  2.5. System issues 
-  
-  2.6. Individual care
-  
-  2.7. Learning from other sectors
-
-3. Global leadership
-  
-  3.1. E-health solutions
-  
-  3.2. Electronic personal health records
-  
-  3.3. Funding issues
-  
-  3.4. System issues
-  
-  3.5. Individual care
-  
-  3.6. Learning from other sectors
-
-4. Strategy proposals
-  
-  4.1. Building an E-health environment
-  
-  4.2. Electronic personal health records
-  
-  4.3. Funding and systems reform
 
 ## 1. Problems/opportunities identified
 

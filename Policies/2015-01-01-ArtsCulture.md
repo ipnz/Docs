@@ -5,10 +5,6 @@ excerpt: "Arts & Culture Policy Position"
 modified: 2014-05-14
 tags: [Arts & Culture Policy Position]
 comments: true
-image:
-  feature: sample-image-5.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
 # Arts & Culture Policy Position

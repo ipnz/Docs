@@ -5,85 +5,11 @@ excerpt: "Digital Economy & Innovation"
 modified: 2014-05-14
 tags: [Digital Economy & Innovation]
 comments: true
-image:
-  feature: sample-image-5.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
+{% include _toc.html %}
+
 # Digital Economy & Innovation
-
-Table of contents
-
-1. Problems/opportunities identified
-
-  1.1. A prosperous country in the Digital Age
-  
-  1.2. New Zealand's economy
-  
-  1.3. Lack of innovation
-  
-  1.4. Inadequate investment in research and development
-  
-  1.5. Widening gap in knowledge and skills
-  
-  1.6. Start-ups
-  
-  1.7. The Digital Economy transformation framework
-
-2. Relevant information/data
-
-  2.1. The Digital Economy
-  
-  2.2. New Zealand's economic context
-  
-  2.3. New Zealand's current economic trajectory
-  
-  2.4. Changing course to a digital future
-  
-  2.5. The whole economy is increasing digital
-  
-  2.6. Need for more innovation
-  
-  2.7. Inadequate investment in research and development
-  
-  2.8. 15.Widening gap in knowledge and skills
-  
-  2.9. Start-ups
-  
-  2.10. Global ranking and comparisons
-
-3. Global leadership
-
-  3.1. Finland from trees to Nokia
-  
-  3.2. South Korea global ICT leader
-  
-  3.3. Israel Start-up nation
-  
-  3.4. Garage innovation: QB3 Garage@Berkeley
-  
-  3.5. Cambridge Science Park
-
-4. Policy proposals
-
-  4.1. Leadership and Vision
-  
-  4.2. New Zealand as the world's start-up incubator
-  
-  4.3. OECD average Research & Development investment
-  
-  4.4. Innovation hubs
-  
-  4.5. Plugging the skills gap
-  
-  4.6. A 'whole of economy' transformation
-  
-  4.7. Attracting global businesses to set up in New Zealand
-  
-  4.8. Fibre technologies and products test-bed
-  
-  4.9. Other policies
 
 ## 1. Problems/opportunities identified
 

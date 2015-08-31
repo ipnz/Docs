@@ -5,65 +5,11 @@ excerpt: "Independence"
 modified: 2014-05-14
 tags: [Independence]
 comments: true
-image:
-  feature: sample-image-5.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
+{% include _toc.html %}
+
 # Independence
-
-**Table of Contents**
-
-1. Summary
-
-2. Problems Identified
-
-  2.1 Trans-Pacific Partnership Agreement 
-  
-  2.2 Five Eyes and GCSB 
-  
-  2.3 Foreign Account Tax Compliance Act 
-
-3. Relevant Data/Research
-
-  3.1 Importance of Independence
-
-  3.2 Trans-Pacific Partnership Agreement
-
-    3.2.1 Background
-
-    3.2.2 Not just a trade agreement
-
-    3.2.3 Secrecy and ratification
-
-    3.2.4 TPP impact
-
-    3.2.5 Trade in Services Agreement (TISA
-
-  3.3 Five Eyes and GCS
-
-    3.3.1 Background
-
-    3.3.2 Role and Activities of the GCS
-
-    3.3.3 NSA's Influence on New Zealand's laws
-
-  3.4 Foreign Account Tax Compliance Act
-
-    3.4.1 Background
-
-    3.4.2 New Zealanders Included within FATCA
-
-    3.4.3 Other Impacts of FATCA
-
-4. Policy Proposals
-
-  4.1 Trans-Pacific Partnership Agreement
-
-  4.2 Five Eyes and GCSB
-
-  4.3 Foreign Account Tax Compliance Act
 
 ## 1. Summary 
 

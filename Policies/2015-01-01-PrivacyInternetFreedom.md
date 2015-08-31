@@ -5,93 +5,11 @@ excerpt: "Privacy and Internet Freedom"
 modified: 2014-05-14
 tags: [Privacy and Internet Freedom]
 comments: true
-image:
-  feature: sample-image-5.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
+{% include _toc.html %}
+
 # Privacy and Internet Freedom
-
-**TABLE OF CONTENTS**
-
-1. Summary 
-
-2. Problems Identified 
-  
-  2.1. GCSB's role and powers
-  
-  2.2. Inadequate protection of rights
-  
-  2.3. Inadequate Internet freedom
-  
-  2.4. Inadequate implementation of Privacy Act changes
-
-3. Relevant Data / Research 
-  
-  3.1. Surveillance of New Zealand digital communication
-    
-    3.1.1. Unlawful activities of the GCSB
-    
-    3.1.2. Lack of public trust in the GCSB
-    
-    3.1.3. NSA surveillance of NZ Internet traffic
-    
-    3.1.4. NZ participation in the global surveillance apparatus
-    
-    3.1.5. Metadata is personal
-    
-    3.1.6. Mass surveillance is ineffective
-    
-    3.1.7. Impact on innovation and jobs
-  
-  3.2. Inadequate protection of rights
-    
-    3.2.1. Bill of Rights Act is weak and ineffective
-  
-  3.3. Internet freedom
-    
-    3.3.1. Assessment of New Zealanders' Internet freedom
-  
-  3.4. Privacy
-    
-    3.4.1. Privacy as a human right
-
-4. Examples of Global Leadership 
-  
-  4.1. Against surveillance of digital communications
-    
-    4.1.1. International Principles on the Application of Human Rights to Communications Surveillance
-    
-    4.1.2. EU parliamentary inquiry into mass surveillance
-    
-    4.1.3. ECJ ruling on EU Data Retention Program
-  
-  4.2. Protecting rights
-    
-    4.2.1. Canadian Charter of Rights and Freedoms
-    
-    4.2.2. The charter of human rights and principles of the Internet
-    
-    4.2.3. Brazil's Marco Civil
-    
-    4.2.4. Sir Tim Berners-Lee
-  
-  4.3. Internet freedom
-    
-    4.3.1. The Icelandic Modern Media Initiative
-    
-    4.3.2. NETmundial
-
-5. Policy proposals 
-  
-  5.1. Review surveillance laws
-  
-  5.2. Strengthen human rights protection
-  
-  5.3. Strengthen Internet freedom
-  
-  5.4. Implement Privacy Act reform
 
 ## 1. SUMMARY
 
