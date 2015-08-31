@@ -7,8 +7,6 @@ tags: [Free Tertiary Education Policy]
 comments: true
 ---
 
-# Free Tertiary Education Policy
-
 **Internet MANA**
 
 ## Summary

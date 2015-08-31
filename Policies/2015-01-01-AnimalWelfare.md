@@ -7,8 +7,6 @@ tags: [Animal Welfare Policy]
 comments: true
 ---
 
-# Animal Welfare Policy
-
 The Internet Party recognises the decades of scientific evidence, undertaken around the world, which proves animals are sentient beings (that animals can feel pain and distress). This concept of sentience (and the acceptance of) has also been recognised by many governments around the world. In order to be one of the global leaders in animal welfare therefore, New Zealand must ensure that this concept of sentience becomes an important foundation for the development of its protection policy for all animals – companion, production, wild and exotic.
 
 **The Internet Party will:**

@@ -7,7 +7,7 @@ tags: [Constitution & Rules]
 comments: true
 ---
 
-# Constitution & Rules
+{% include _toc.html %}
 
 ## 1 DEFINITIONS
 

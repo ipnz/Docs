@@ -7,8 +7,6 @@ tags: [Christchurch Rebuild Policy]
 comments: true
 ---
 
-# Christchurch Rebuild Policy
-
 The third year after the major Canterbury earthquakes and significant aftershocks still sees members of the community repairing and reconstructing their city, homes and lives, and continuing their psychological recovery.
 
 For Christchurch to move on, its people must have something to look forward to, rather than constant reminders of the disaster - like battles with the Earthquake Commission (EQC), living in wrecked houses waiting for decisions, or dealing with shoddy repairs.

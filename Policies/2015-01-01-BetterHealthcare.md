@@ -9,8 +9,6 @@ comments: true
 
 {% include _toc.html %}
 
-# Better Healthcare
-
 ## 1. Problems/opportunities identified
 
 ### 1.1. E-health solutions 

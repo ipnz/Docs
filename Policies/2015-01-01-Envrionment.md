@@ -9,8 +9,6 @@ comments: true
 
 {% include _toc.html %}
 
-# Environment
-
 ## 1. Problems Identified
  
 ### 1.1 Clean energy and green technology 

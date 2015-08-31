@@ -7,8 +7,6 @@ tags: [Criminal Justice Policy Position]
 comments: true
 ---
 
-# Criminal Justice Policy Position
-
 The Internet Party believes in a fair, restorative, balanced and solution-focused system of justice for New Zealand.
 
 **The Internet Party will:**

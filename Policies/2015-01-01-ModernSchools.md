@@ -9,8 +9,6 @@ comments: true
 
 {% include _toc.html %}
 
-# Modern Schools
-
 ## 1. Summary 
 
 The Internet Party will continue to support current initiatives to give schools free, fast, and uncapped Internet connections, upgrading network cabling, and wireless connectivity by the end of 2016.

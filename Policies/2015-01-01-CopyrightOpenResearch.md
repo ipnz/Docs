@@ -9,8 +9,6 @@ comments: true
 
 {% include _toc.html %}
 
-# Copyright & Open Research
-
 ## 1. Summary 
 
 Copyright policy now affects everyone- from students to businesses; from democracy to knowledge; from innovation to culture. The Internet and digital technologies are fundamentally questioning the very foundation and assumptions underlying copyright as we know it today, making a compelling case for a first principles review of copyright.

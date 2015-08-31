@@ -9,8 +9,6 @@ comments: true
 
 {% include _toc.html %}
 
-# Responsive Government
-
 ## Problems identified
 
 ### 1.1 Context

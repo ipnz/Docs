@@ -9,8 +9,6 @@ comments: true
 
 {% include _toc.html %}
 
-# Cheaper, Universal Internet
-
 ## 1. SUMMARY
 
 The Internet has become one of the most important communications technologies available in our society. It is a place where we not only accesses information and opportunities, but also where we access basic rights, exercise our freedoms, and realise our potential.

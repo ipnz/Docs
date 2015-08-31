@@ -9,8 +9,6 @@ comments: true
 
 {% include _toc.html %}
 
-# Digital Economy & Innovation
-
 ## 1. Problems/opportunities identified
 
 ### 1.1. A prosperous country in the Digital Age
