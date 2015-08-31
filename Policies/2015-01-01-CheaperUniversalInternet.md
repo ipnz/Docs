@@ -1,4 +1,17 @@
-# CHEAPER, UNIVERSAL INTERNET
+---
+layout: post
+title: Cheaper, Universal Internet
+excerpt: "Cheaper, Universal Internet"
+modified: 2014-05-14
+tags: [Cheaper, Universal Internet]
+comments: true
+image:
+  feature: sample-image-5.jpg
+  credit: WeGraphics
+  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+---
+
+# Cheaper, Universal Internet
 
 **TABLE OF CONTENTS**
 

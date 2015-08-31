@@ -1,3 +1,16 @@
+---
+layout: post
+title: Arts & Culture Policy Position
+excerpt: "Arts & Culture Policy Position"
+modified: 2014-05-14
+tags: [Arts & Culture Policy Position]
+comments: true
+image:
+  feature: sample-image-5.jpg
+  credit: WeGraphics
+  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+---
+
 # Arts & Culture Policy Position
 
 The Internet Party supports innovative initiatives and the use of digital technologies that will enhance New Zealand's art sector and strengthen our culture.

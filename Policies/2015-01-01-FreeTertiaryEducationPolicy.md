@@ -1,3 +1,16 @@
+---
+layout: post
+title: Free Tertiary Education Policy
+excerpt: "Free Tertiary Education Policy"
+modified: 2014-05-14
+tags: [Free Tertiary Education Policy]
+comments: true
+image:
+  feature: sample-image-5.jpg
+  credit: WeGraphics
+  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+---
+
 # Free Tertiary Education Policy
 
 **Internet MANA**

@@ -1,3 +1,16 @@
+---
+layout: post
+title: Copyright & Open Research
+excerpt: "Copyright & Open Research"
+modified: 2014-05-14
+tags: [Copyright & Open Research]
+comments: true
+image:
+  feature: sample-image-5.jpg
+  credit: WeGraphics
+  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+---
+
 # Copyright & Open Research
 
 **Table of Contents**

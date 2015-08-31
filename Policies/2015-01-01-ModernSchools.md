@@ -1,3 +1,16 @@
+---
+layout: post
+title: Modern Schools
+excerpt: "Modern Schools"
+modified: 2014-05-14
+tags: [Modern Schools]
+comments: true
+image:
+  feature: sample-image-5.jpg
+  credit: WeGraphics
+  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+---
+
 # Modern Schools
 
 **Table of Contents**

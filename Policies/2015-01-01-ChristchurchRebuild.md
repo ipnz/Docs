@@ -1,3 +1,16 @@
+---
+layout: post
+title: Christchurch Rebuild Policy
+excerpt: "Christchurch Rebuild Policy"
+modified: 2014-05-14
+tags: [Christchurch Rebuild Policy]
+comments: true
+image:
+  feature: sample-image-5.jpg
+  credit: WeGraphics
+  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+---
+
 # Christchurch Rebuild Policy
 
 The third year after the major Canterbury earthquakes and significant aftershocks still sees members of the community repairing and reconstructing their city, homes and lives, and continuing their psychological recovery.

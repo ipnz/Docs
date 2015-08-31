@@ -1,4 +1,17 @@
-PRIVACY AND INTERNET FREEDOM
+---
+layout: post
+title: Privacy and Internet Freedom
+excerpt: "Privacy and Internet Freedom"
+modified: 2014-05-14
+tags: [Privacy and Internet Freedom]
+comments: true
+image:
+  feature: sample-image-5.jpg
+  credit: WeGraphics
+  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+---
+
+# Privacy and Internet Freedom
 
 **TABLE OF CONTENTS**
 

@@ -1,3 +1,16 @@
+---
+layout: post
+title: Better Healthcare
+excerpt: "Better Healthcare"
+modified: 2014-05-14
+tags: [Better Healthcare]
+comments: true
+image:
+  feature: sample-image-5.jpg
+  credit: WeGraphics
+  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+---
+
 # Better Healthcare
 
 Table of contents
