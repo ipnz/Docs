@@ -3,6 +3,7 @@ layout: post
 title: Free Tertiary Education Policy
 excerpt: "Free Tertiary Education Policy"
 modified: 2014-05-14
+category: policy
 tags: [Free Tertiary Education Policy]
 comments: true
 ---

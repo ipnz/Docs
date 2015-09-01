@@ -2,6 +2,7 @@
 layout: post
 title: Animal Welfare Policy
 excerpt: "Animal Welfare Policy"
+category: policy
 modified: 2014-05-14
 tags: [Animal Welfare Policy]
 comments: true

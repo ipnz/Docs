@@ -3,6 +3,7 @@ layout: post
 title: Responsive Government
 excerpt: "Responsive Government"
 modified: 2014-05-14
+category: policy
 tags: [Responsive Government]
 comments: true
 ---

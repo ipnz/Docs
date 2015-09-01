@@ -3,6 +3,7 @@ layout: post
 title: Dolphins Policy
 excerpt: "Dolphins Policy"
 modified: 2014-05-14
+category: policy
 tags: [Dolphins Policy]
 comments: true
 ---

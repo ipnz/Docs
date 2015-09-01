@@ -2,6 +2,7 @@
 layout: post
 title: Christchurch Rebuild Policy
 excerpt: "Christchurch Rebuild Policy"
+category: policy
 modified: 2014-05-14
 tags: [Christchurch Rebuild Policy]
 comments: true

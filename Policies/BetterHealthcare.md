@@ -2,6 +2,7 @@
 layout: post
 title: Better Healthcare
 excerpt: "Better Healthcare"
+category: policy
 modified: 2014-05-14
 tags: [Better Healthcare]
 comments: true

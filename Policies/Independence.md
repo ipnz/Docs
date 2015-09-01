@@ -3,6 +3,7 @@ layout: post
 title: Independence
 excerpt: "Independence"
 modified: 2014-05-14
+category: policy
 tags: [Independence]
 comments: true
 ---

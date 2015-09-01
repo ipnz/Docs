@@ -2,6 +2,7 @@
 layout: post
 title: Cannabis Policy
 excerpt: "Cannabis Policy"
+category: policy
 modified: 2014-05-14
 tags: [Cannabis Policy]
 comments: true

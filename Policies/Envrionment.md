@@ -3,6 +3,7 @@ layout: post
 title: Environment
 excerpt: "Environment"
 modified: 2014-05-14
+category: policy
 tags: [Environment]
 comments: true
 ---

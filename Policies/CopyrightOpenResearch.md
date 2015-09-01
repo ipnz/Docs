@@ -2,6 +2,7 @@
 layout: post
 title: Copyright & Open Research
 excerpt: "Copyright & Open Research"
+category: policy
 modified: 2014-05-14
 tags: [Copyright & Open Research]
 comments: true

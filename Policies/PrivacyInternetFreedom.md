@@ -3,6 +3,7 @@ layout: post
 title: Privacy and Internet Freedom
 excerpt: "Privacy and Internet Freedom"
 modified: 2014-05-14
+category: policy
 tags: [Privacy and Internet Freedom]
 comments: true
 ---
