@@ -2,9 +2,9 @@
 layout: post
 title: Better Healthcare
 excerpt: "Better Healthcare"
-category: policy
-modified: 2014-05-14
-tags: [Better Healthcare]
+category: policies
+date: 2015-01-01 00:00
+tags: [Healthcare]
 comments: true
 ---
 

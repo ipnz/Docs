@@ -2,9 +2,9 @@
 layout: post
 title: Cannabis Policy
 excerpt: "Cannabis Policy"
-category: policy
-modified: 2014-05-14
-tags: [Cannabis Policy]
+category: policies
+date: 2015-01-01 00:00
+tags: [Healthcare, Cannabis]
 comments: true
 ---
 

@@ -2,9 +2,9 @@
 layout: post
 title: Christchurch Rebuild Policy
 excerpt: "Christchurch Rebuild Policy"
-category: policy
-modified: 2014-05-14
-tags: [Christchurch Rebuild Policy]
+category: policies
+date: 2015-01-01 00:00
+tags: [Housing]
 comments: true
 ---
 

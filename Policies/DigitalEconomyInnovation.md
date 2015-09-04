@@ -2,9 +2,9 @@
 layout: post
 title: Digital Economy & Innovation
 excerpt: "Digital Economy & Innovation"
-category: policy
-modified: 2014-05-14
-tags: [Digital Economy & Innovation]
+category: policies
+date: 2015-01-01 00:00
+tags: [Digital Economy, Innovation]
 comments: true
 ---
 

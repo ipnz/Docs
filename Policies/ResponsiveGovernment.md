@@ -2,8 +2,8 @@
 layout: post
 title: Responsive Government
 excerpt: "Responsive Government"
-modified: 2014-05-14
-category: policy
+category: policies
+date: 2015-01-01 00:00
 tags: [Responsive Government]
 comments: true
 ---

@@ -2,7 +2,8 @@
 layout: post
 title: Constitution & Rules
 excerpt: "Constitution & Rules"
-modified: 2014-05-14
+category: rules
+date: 2015-01-01 00:00
 tags: [Constitution & Rules]
 comments: true
 ---

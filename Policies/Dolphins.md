@@ -2,9 +2,9 @@
 layout: post
 title: Dolphins Policy
 excerpt: "Dolphins Policy"
-modified: 2014-05-14
-category: policy
-tags: [Dolphins Policy]
+category: policies
+date: 2015-01-01 00:00
+tags: [Animal]
 comments: true
 ---
 

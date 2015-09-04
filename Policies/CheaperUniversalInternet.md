@@ -2,9 +2,9 @@
 layout: post
 title: Cheaper, Universal Internet
 excerpt: "Cheaper, Universal Internet"
-category: policy
-modified: 2014-05-14
-tags: [Cheaper, Universal Internet]
+category: policies
+date: 2015-01-01 00:00
+tags: [Internet]
 comments: true
 ---
 

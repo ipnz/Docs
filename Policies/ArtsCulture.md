@@ -2,9 +2,9 @@
 layout: post
 title: Arts & Culture Policy Position
 excerpt: "Arts & Culture Policy Position"
-category: policy
-modified: 2014-05-14
-tags: [Arts & Culture Policy Position]
+category: policies
+date: 2015-01-01 00:00
+tags: [Arts & Culture]
 comments: true
 ---
 

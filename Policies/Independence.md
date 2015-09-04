@@ -2,8 +2,8 @@
 layout: post
 title: Independence
 excerpt: "Independence"
-modified: 2014-05-14
-category: policy
+category: policies
+date: 2015-01-01 00:00
 tags: [Independence]
 comments: true
 ---

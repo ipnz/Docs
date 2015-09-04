@@ -2,9 +2,9 @@
 layout: post
 title: Criminal Justice Policy Position
 excerpt: "Criminal Justice Policy Position"
-category: policy
-modified: 2014-05-14
-tags: [Criminal Justice Policy Position]
+category: policies
+date: 2015-01-01 00:00
+tags: [Criminal Justice]
 comments: true
 ---
 

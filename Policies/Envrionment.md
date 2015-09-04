@@ -2,8 +2,8 @@
 layout: post
 title: Environment
 excerpt: "Environment"
-modified: 2014-05-14
-category: policy
+category: policies
+date: 2015-01-01 00:00
 tags: [Environment]
 comments: true
 ---
