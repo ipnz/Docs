@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cheaper, Universal Internet
-excerpt: "Cheaper, Universal Internet"
+excerpt: "New Zealanders are paying too much for access to the Internet relative to other costs of living"
 category: policies
 date: 2015-01-01 00:00
 tags: [Internet]

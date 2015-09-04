@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Independence
-excerpt: "Independence"
+excerpt: "Independence is the ability of New Zealanders to democratically exercise sovereign control and make decisions without undue influence over all aspects of the country- political, legal, regulatory, economic, social, and foreign affairs. Over the last few years, there have been a number of challenges to New Zealand's independence- the Trans-Pacific Partnership Agreement, Five Eyes intelligence sharing, and the Foreign Tax Account Compliance Act"
 category: policies
 date: 2015-01-01 00:00
 tags: [Independence]

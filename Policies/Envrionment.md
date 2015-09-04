@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Environment
-excerpt: "Environment"
+excerpt: "There is both an immediate need as well as significant opportunity for New Zealand to shift focus from finite fossil fuels to renewable energy sources and green technologies. Currently there is a lack of vision, leadership, and long-term commitment to benefit from the global shift to green energy and technologies. Potential export revenues and jobs lie untapped"
 category: policies
 date: 2015-01-01 00:00
 tags: [Environment]

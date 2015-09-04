@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Modern Schools
-excerpt: "Modern Schools"
+excerpt: "We will help schools and teachers develop external networks for collaboration, innovation and resource creation"
 category: policies
 date: 2015-01-01 00:00
 tags: [Education]

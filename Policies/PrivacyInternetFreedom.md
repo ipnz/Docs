@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Privacy and Internet Freedom
-excerpt: "Privacy and Internet Freedom"
+excerpt: "Privacy and Internet freedom are at risk in New Zealand from mass surveillance by the Government and its allies. The Internet Party will remove the legal basis for mass surveillance, and review intelligence co-operation agreements"
 category: policies
 date: 2015-01-01 00:00
 tags: [Privacy, Internet Freedom]

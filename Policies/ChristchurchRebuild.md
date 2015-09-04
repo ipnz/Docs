@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Christchurch Rebuild Policy
-excerpt: "Christchurch Rebuild Policy"
+excerpt: "For Christchurch to move on, its people must have something to look forward to, rather than constant reminders of the disaster "
 category: policies
 date: 2015-01-01 00:00
 tags: [Housing]

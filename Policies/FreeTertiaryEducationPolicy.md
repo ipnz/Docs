@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Free Tertiary Education Policy
-excerpt: "Free Tertiary Education Policy"
+excerpt: "No fees for study in public tertiary institutions. Universal student allowance. Restore the student allowances for post-graduate students and the Training Incentive Allowance"
 category: policies
 date: 2015-01-01 00:00
 tags: [Education]

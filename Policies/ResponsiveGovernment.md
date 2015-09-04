@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Responsive Government
-excerpt: "Responsive Government"
+excerpt: "A Responsive Government is one that works for the people, not the other way around. 'Working for the people' has many dimensions- from trust in government to efficiency to customer focus to accountability"
 category: policies
 date: 2015-01-01 00:00
 tags: [Responsive Government]

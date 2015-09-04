@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Animal Welfare Policy
-excerpt: "Animal Welfare Policy"
+excerpt: "Animal cruelty should not be tolerated for economic practicality or impact"
 category: policies
 date: 2015-01-01 00:00
 tags: [Animal]

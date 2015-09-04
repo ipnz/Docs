@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dolphins Policy
-excerpt: "Dolphins Policy"
+excerpt: "New Zealand's rarest dolphins, Hector's and Māui, face extinction from the use of gill nets and trawl nets and the expansion of off-shore mineral exploration and mining"
 category: policies
 date: 2015-01-01 00:00
 tags: [Animal]

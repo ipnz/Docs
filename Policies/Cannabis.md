@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cannabis Policy
-excerpt: "Cannabis Policy"
+excerpt: "Immediately legalise medical use of cannabis and set up a licensing system to regulate and administer the cultivation of natural cannabis for medical use"
 category: policies
 date: 2015-01-01 00:00
 tags: [Healthcare, Cannabis]

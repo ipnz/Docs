@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Copyright & Open Research
-excerpt: "Copyright & Open Research"
+excerpt: "The Copyright Act is a print-oriented antiquity with expedient digital add-ons"
 category: policies
 date: 2015-01-01 00:00
 tags: [Copyright, Open Research]

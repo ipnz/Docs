@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Better Healthcare
-excerpt: "Better Healthcare"
+excerpt: "Health information systems need to change to support new models of healthcare"
 category: policies
 date: 2015-01-01 00:00
 tags: [Healthcare]

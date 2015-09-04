@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Arts & Culture Policy Position
-excerpt: "Arts & Culture Policy Position"
+excerpt: "Encourage the use of digital technologies that open new pathways to arts participation, education and engagement, and support initiatives that enhance Maori culture both domestically and internationally"
 category: policies
 date: 2015-01-01 00:00
 tags: [Arts & Culture]
