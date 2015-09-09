@@ -5,8 +5,10 @@ This Git repository contains all Internet Party NZ policies in
 
 ### Tools
 
-* Atlassian [Sourcetree](https://www.sourcetreeapp.com/) - Excellent GUI for accessing Git repositories - Linux, Mac and Windows
-  * Want to know more about [Git?](http://git-scm.com/)
+* Learn about [Git](http://git-scm.com/)
+* Tools to access Git repositories  
+  * [Github desktop](https://desktop.github.com/) - Integrates with Github natively on Mac and Windows 
+  * Atlassian [Sourcetree](https://www.sourcetreeapp.com/) - Another excellent GUI for accessing Git repositories - Linux, Mac and Windows
 * Online Word docx to [markdown converter](http://word-to-markdown.herokuapp.com/). Thanks to @benbalter
 * Editors with Markdown preview
   * [MarkdownPad](http://www.markdownpad.com/) - Windows only - Free for personal use
