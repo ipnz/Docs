@@ -130,7 +130,7 @@ resident in New Zealand or not, who:
 
 4.5.1.1 Is 14 years old or over; and
 
-4.5.1.2 Has paid a fee for membership of no less than $0.99 (99 New Zealand Cents) upon
+4.5.1.2 Has paid a fee for membership of no less than $10.00 (ten dollars New Zealand) upon
 application for General membership; and
 
 4.5.1.3 Accepts and abides by the rules and objectives of the Internet Party; and
@@ -146,7 +146,7 @@ provided for in these rules.
 
 4.5.3.2 Accepts and abides by the rules and objectives of the Internet Party; and
 
-4.5.3.3 Has paid a fee for membership of no less than $0.99 (99 New Zealand cents) upon
+4.5.3.3 Has paid a fee for membership of no less than $10.00 (10 dollars New Zealand) upon
 application for Full membership; and
 
 4.5.3.4 Is a qualified elector under the Electoral Act 1993; and
