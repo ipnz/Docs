@@ -3,6 +3,16 @@
 This Git repository contains all Internet Party NZ policies in
 [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) format.
 
+### Github pages
+
+[Github-pages](https://pages.github.com/) allows free static websites to be created using markdown and [Jekyll](http://jekyllrb.com/). Custom domain names can also be configured at no cost (domain registratioin fee not included).
+
+The docs folder contains all the Jekyll files including the IPNZ's policy documents and posts. 
+
+Policy documents specifically are located in the docs/docs/policies folder.
+
+The custom policy website address is [http://ipnz.github.io/Docs/](http://ipnz.github.io/Docs/)
+
 ### Tools
 
 * Learn about [Git](http://git-scm.com/)
@@ -13,14 +23,7 @@ This Git repository contains all Internet Party NZ policies in
 * Editors with Markdown preview
   * [MarkdownPad](http://www.markdownpad.com/) - Windows only - Free for personal use
   * Microsoft's [Visual Studio Code](https://code.visualstudio.com/) - Linux, Mac and Windows
-  
-### Notes
 
-Each document has Jekyll metadata header and the file is prefixed with the date format Eg 2015-01-01. 
-This allows Github to host a custom website based on [Jekyll](http://jekyllrb.com/) website using [gh-pages](https://pages.github.com/)
-
-The custom policy website address is [http://ipnz.github.io/Docs/](http://ipnz.github.io/Docs/)
-
-*Thanks to the above software makers for making their software free*
+*Thanks to the above software developers for their contributions*
 
 Visit the [Internet Party website](https://internet.org.nz)
