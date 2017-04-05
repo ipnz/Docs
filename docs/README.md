@@ -1,23 +1,26 @@
-# Minimal Mistakes
+# Welcome to the Internet Party NZ Policies 
 
-**[Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes)** is a two column responsive Jekyll theme perfect for powering your GitHub hosted blog.
+This Git repository contains all Internet Party NZ policies in
+[Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) format.
 
-## Minimal Mistakes is all about:
+### Tools
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
+* Learn about [Git](http://git-scm.com/)
+* Tools to access Git repositories  
+  * [Github desktop](https://desktop.github.com/) - Integrates with Github natively on Mac and Windows 
+  * Atlassian [Sourcetree](https://www.sourcetreeapp.com/) - Another excellent GUI for accessing Git repositories - Linux, Mac and Windows
+* Online Word docx to [markdown converter](http://word-to-markdown.herokuapp.com/). Thanks to @benbalter
+* Editors with Markdown preview
+  * [MarkdownPad](http://www.markdownpad.com/) - Windows only - Free for personal use
+  * Microsoft's [Visual Studio Code](https://code.visualstudio.com/) - Linux, Mac and Windows
+  
+### Notes
 
-![screenshot of Minimal Mistakes theme](http://mmistakes.github.io/minimal-mistakes/images/mm-theme-post-600.jpg)
+Each document has Jekyll metadata header and the file is prefixed with the date format Eg 2015-01-01. 
+This allows Github to host a custom website based on [Jekyll](http://jekyllrb.com/) website using [gh-pages](https://pages.github.com/)
 
-See a [live version of Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes/) hosted on GitHub.
+The custom policy website address is [http://ipnz.github.io/Docs/](http://ipnz.github.io/Docs/)
 
-## Getting Started
+*Thanks to the above software makers for making their software free*
 
-Minimal Mistakes takes advantage of Sass and data files to make customizing easier. These features require Jekyll 2.x and will not work with older versions of Jekyll.
-
-To learn how to install and use this theme check out the [Setup Guide](http://mmistakes.github.io/minimal-mistakes/theme-setup/) for more information.
+Visit the [Internet Party website](https://internet.org.nz)

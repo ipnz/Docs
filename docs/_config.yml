@@ -24,7 +24,7 @@ kramdown:
   use_coderay: false
 
 collections:
-  ipnzdocs:
+  docs:
     output: true
     permalink: /:path/
 
