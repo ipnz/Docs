@@ -1,0 +1,66 @@
+# Site wide configuration
+
+title:            Internet Party NZ
+locale:           en_US
+url:              http://ipnz.github.io/Docs
+
+
+# Jekyll configuration
+
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+collections:
+  ipnzdocs:
+    output: true
+    permalink: /:path/
+
+
+# Site owner
+owner:
+  name: Internet Party
+  avatar: ipbanner.png
+  bio: "New Zealand Political Party."
+  email:
+  disqus-shortname:
+  twitter: InternetPartyNZ
+  facebook: InternetPartyNZ
+  google:
+    plus: 101346964772299510652
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: ipnz
+  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: #username
+  xing: #username
+  instagram: InternetPartyNZ
+  lastfm: #username
+  tumblr: #username
+  pinterest: internetparty
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: InternetPartyNZ
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+  codepen: #username
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
