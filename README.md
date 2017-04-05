@@ -5,13 +5,13 @@ This Git repository contains all Internet Party NZ policies in
 
 ### Github pages
 
-[Github-pages](https://pages.github.com/) allows free static websites to be created using markdown and [Jekyll](http://jekyllrb.com/). Custom domain names can also be configured at no cost (domain registratioin fee not included).
+[Github-pages](https://pages.github.com/) allows free static websites to be created using markdown and [Jekyll](http://jekyllrb.com/). Custom domain names can also be configured at no cost (domain registration not included).
 
 The docs folder contains all the Jekyll files including the IPNZ's policy documents and posts. 
 
 Policy documents specifically are located in the docs/docs/policies folder.
 
-The custom policy website address is [http://ipnz.github.io/Docs/](http://ipnz.github.io/Docs/)
+The Jekyll policy website address is [http://ipnz.github.io/Docs/](http://ipnz.github.io/Docs/)
 
 ### Tools
 
