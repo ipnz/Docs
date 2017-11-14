@@ -156,7 +156,7 @@ application for Full membership; and
 4.5.3.6 Has resided in New Zealand for 12 months continuously or more.
 
 4.5.4. Provided the above conditions are satisfied, full membership of the Internet Party is valid for
-36 calendar months.
+12 calendar months.
 
 ### Termination of Membership
 
