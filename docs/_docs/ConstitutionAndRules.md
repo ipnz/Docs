@@ -130,7 +130,7 @@ resident in New Zealand or not, who:
 
 4.5.1.1 Is 14 years old or over; and
 
-4.5.1.2 Has paid a fee for membership of no less than $10.00 (ten dollars New Zealand) upon
+4.5.1.2 Has paid a fee for membership of no less than $0.01 (One cent New Zealand) upon
 application for General membership; and
 
 4.5.1.3 Accepts and abides by the rules and objectives of the Internet Party; and
@@ -146,17 +146,20 @@ provided for in these rules.
 
 4.5.3.2 Accepts and abides by the rules and objectives of the Internet Party; and
 
-4.5.3.3 Has paid a fee for membership of no less than $10.00 (10 dollars New Zealand) upon
+4.5.3.3 Has paid a fee for membership of no less than $0.01 (One cent New Zealand) upon
 application for Full membership; and
 
 4.5.3.4 Is a qualified elector under the Electoral Act 1993; and
 
 4.5.3.5 Is a New Zealand citizen or permanent resident; and
 
-4.5.3.6 Has resided in New Zealand for 12 months continuously or more.
+4.5.3.6 Has resided in New Zealand for 12 months continuously or more; and
+
+4.5.3.7 Agrees to pay a total fee for Full membership of at least $1.00 NZD (One New Zealand dollar) over
+the course of their membership.
 
 4.5.4. Provided the above conditions are satisfied, full membership of the Internet Party is valid for
-12 calendar months.
+36 calendar months.
 
 ### Termination of Membership
 
