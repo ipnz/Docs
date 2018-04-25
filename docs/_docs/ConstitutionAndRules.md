@@ -155,8 +155,8 @@ application for Full membership; and
 
 4.5.3.6 Has resided in New Zealand for 12 months continuously or more; and
 
-4.5.3.7 Agrees to pay a total fee for Full membership of at least $1.00 NZD (One New Zealand dollar) over
-the course of their membership.
+4.5.3.7 Agrees to pay a total fee for Full membership of at least $1.00 NZD (One New Zealand dollar) 
+over the course of their membership.
 
 4.5.4. Provided the above conditions are satisfied, full membership of the Internet Party is valid for
 36 calendar months.
