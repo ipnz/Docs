@@ -3,7 +3,7 @@ layout: post
 title: Constitution & Rules
 excerpt: "Constitution & Rules"
 category: rules
-date: 2015-01-01 00:00
+date: 2018-04-27 21:45
 tags: [Constitution & Rules]
 comments: true
 ---
