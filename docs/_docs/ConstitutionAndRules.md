@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Constitution & Rules
+title: IPnz Constitution & Rules
 excerpt: "Constitution & Rules"
 category: rules
-date: 20125-01-10 10:01
+date: 2025-01-10 10:01
 tags: [Constitution & Rules]
 comments: true
 ---
