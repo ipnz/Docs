@@ -7,7 +7,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url('/Docs/assets/fonts/PTSansNarrow-Regular.woff2') format('woff2'), url('/Docs/assets/fonts/PTSansNarrow-Regular.woff') format('woff'), url('/Docs/assets/fonts/PTSansNarrow-Regular.ttf') format('truetype');
+  src: url('/Docs/assets/fonts/PTSansNarrow-Regular.ttf') format('truetype');
 }
 // PT Sans Narrow - Bold
 @font-face {
@@ -15,7 +15,7 @@
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url('/Docs/assets/fonts/PTSansNarrow-Bold.woff2') format('woff2'), url('/Docs/assets/fonts/PTSansNarrow-Bold.woff') format('woff'), url('/Docs/assets/fonts/PTSansNarrow-Bold.ttf') format('truetype');
+  src: url('/Docs/assets/fonts/PTSansNarrow-Bold.ttf') format('truetype');
 }
 
 // PT Serif - Regular
@@ -24,7 +24,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url('/Docs/assets/fonts/PTSerif-Regular.woff2') format('woff2'), url('/Docs/assets/fonts/PTSerif-Regular.woff') format('woff'), url('/Docs/assets/fonts/PTSerif-Regular.ttf') format('truetype');
+  src: url('/Docs/assets/fonts/PTSerif-Regular.ttf') format('truetype');
 }
 // PT Serif - Bold
 @font-face {
@@ -32,7 +32,7 @@
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url('/Docs/assets/fonts/PTSerif-Bold.woff2') format('woff2'), url('/Docs/assets/fonts/PTSerif-Bold.woff') format('woff'), url('/Docs/assets/fonts/PTSerif-Bold.ttf') format('truetype');
+  src: url('/Docs/assets/fonts/PTSerif-Bold.ttf') format('truetype');
 }
 // PT Serif - Italic
 @font-face {
@@ -40,5 +40,5 @@
   font-style: italic;
   font-weight: 400;
   font-display: swap;
-  src: url('/Docs/assets/fonts/PTSerif-Italic.woff2') format('woff2'), url('/Docs/assets/fonts/PTSerif-Italic.woff') format('woff'), url('/Docs/assets/fonts/PTSerif-Italic.ttf') format('truetype');
+  src: url('/Docs/assets/fonts/PTSerif-Italic.ttf') format('truetype');
 } 
