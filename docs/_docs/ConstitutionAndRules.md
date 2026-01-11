@@ -10,7 +10,7 @@ comments: true
 
 {% include _toc.html %}
 
-# CONSTITUTION OF THE INTERNET PARTY (IPNZ)
+# CONSTITUTION OF THE INTERNET PARTY (IPnz)
 *An unincorporated society for political activity, as at 27 April 2018.*
 
 ---
