@@ -13,6 +13,8 @@ License: These fonts are distributed under the SIL Open Font License (OFL). See 
 
 Notes:
 
-* Fonts were downloaded from Google Fonts and stored locally to avoid external calls.
-* The CSS (`\_includes/head/styles.css`) has been updated to reference the local WOFF2 files, with TTF files as a fallback for broadest compatibility.
+- Fonts were downloaded from Google Fonts and stored locally to avoid external calls.
+- Updated `docs/_sass/vendor/google/_fonts.scss` to prefer WOFF2 variants (where available) with TTF as a fallback and `font-display: swap` for better rendering.
+- Multiple WOFF2 subset files were downloaded to improve performance and character coverage; these are stored in this folder.
+- License: SIL Open Font License (OFL). See https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
 
