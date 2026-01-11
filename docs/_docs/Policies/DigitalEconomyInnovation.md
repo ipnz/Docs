@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Digital Economy & Innovation
+title: "Digital Economy & Innovation"
 excerpt: "Digital technologies, including the Internet, are an opportunity to overcome persistent problems that New Zealand has faced over decades, such as low productivity, a low wage economy, and a lack of sufficient high quality jobs. New Zealanders work harder and earn less than most other people in the developed world. We are 'Working hard but not smart'"
 category: policies
 date: 2015-01-01 00:00

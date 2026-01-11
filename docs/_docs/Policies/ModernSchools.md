@@ -450,7 +450,7 @@ Confronting the same issues, the UK Department of Education proposed the followi
 
 The Internet Party will continue to support current initiatives to give schools free, fast and uncapped Internet connections, upgrading network cabling and wireless connectivity. We will ensure that there is effective oversight so that the work is complete by the end of 2016, is delivering high quality outputs to budget, and is responsive to feedback.
 
-        The Internet Party will support schools and teachers to further develop formal and informal external networks for collaboration, innovation and resource creation.
+The Internet Party will support schools and teachers to further develop formal and informal external networks for collaboration, innovation and resource creation.
 
 ### 5.2 Boost ICT in schools
 
@@ -458,11 +458,11 @@ The Internet Party believes that schools need financial assistance beyond the re
 
 This includes further professional development for teachers, upgrades to ICT equipment, creating learning spaces, and better technical support.
 
-        The Internet Party will triple the amount of annual ICT funding to state and state-integrated schools. This will be an additional government expenditure of about $75 million per year.
+The Internet Party will triple the amount of annual ICT funding to state and state-integrated schools. This will be an additional government expenditure of about $75 million per year.
 
-        According to the Ministry of Education the total ICT component in 2013 operational funding to state and state-integrated schools is $34.8 million, calculated at $4782.61 per school and $31.96 per pupil. This is 2.75 percent of total 2013 operational funding.
+According to the Ministry of Education the total ICT component in 2013 operational funding to state and state-integrated schools is $34.8 million, calculated at $4782.61 per school and $31.96 per pupil. This is 2.75 percent of total 2013 operational funding.
 
-        By way of comparison, $359 million will be spent over four years on providing the four new teaching and leadership roles in schools.
+By way of comparison, $359 million will be spent over four years on providing the four new teaching and leadership roles in schools.
 
 ### 5.3 Step up capability development and pedagogical change
 
@@ -470,11 +470,11 @@ The Internet Party will support resources, systems and capabilities for teachers
 
 We will promote leadership and vision from principals and school boards of trustees, as well as government policy that gives high priority to supporting education professionals to adapt quickly to the digital learning environment.
 
-        The Internet Party will review Government strategies and plans for teachers' professional learning to support the effective use of digital technology in schools with a view to step it up.
+The Internet Party will review Government strategies and plans for teachers' professional learning to support the effective use of digital technology in schools with a view to step it up.
 
-        Better ways of scaling up successful new, innovative approaches by schools will be introduced, as well as ensuring that the insights from success are widely shared amongst schools. Support for teachers in the new NCEA digital technologies subjects will be designed and delivered.
+Better ways of scaling up successful new, innovative approaches by schools will be introduced, as well as ensuring that the insights from success are widely shared amongst schools. Support for teachers in the new NCEA digital technologies subjects will be designed and delivered.
 
-        Ideas will also be invited from experts and professional bodies on ways to increase literacy of computer science related knowledge and competencies, as well as increase research into ICT-related areas.
+Ideas will also be invited from experts and professional bodies on ways to increase literacy of computer science related knowledge and competencies, as well as increase research into ICT-related areas.
 
 ### 5.4 Review National Standards
 
@@ -482,7 +482,7 @@ The Internet Party will initiate a review of National Standards by experts, scho
 
 Greater recognition will be given to the value of detailed student data, getting to know learners' interests and needs, and trialling new strategies. The emphasis will be on getting agreement on what needs to be measured to provide students with adequate feedback on their progress and data-led learning needs, as well as how the measurement/feedback systems need to be implemented.
 
-        The Internet Party will consult with educators, schools and teachers to consider whether new national literacy and numeracy development strategies for years 1 to 8 are required. These will be implemented as a priority, ensuring buy-in from teachers and parents/caregivers.
+The Internet Party will consult with educators, schools and teachers to consider whether new national literacy and numeracy development strategies for years 1 to 8 are required. These will be implemented as a priority, ensuring buy-in from teachers and parents/caregivers.
 
 ### 5.5 Fix Novopay
 

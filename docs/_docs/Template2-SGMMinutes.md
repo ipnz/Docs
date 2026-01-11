@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Checklist & Special Resolution for SGM
+title: "Checklist & Special Resolution for SGM"
 excerpt: "Checklist and minutes template for the Special General Meeting of Internet Party Assets Incorporated."
 category: rules
 date: 2025-01-10 10:02
@@ -20,10 +20,10 @@ comments: true
 ---
 
 ### PRE-MEETING CHECKLIST
-- [ ] Notice of Meeting sent to all members at least **14 days** in advance.
-- [ ] Proposed new constitution circulated with the notice.
-- [ ] Quorum requirement is **50% of eligible members**.
-- [ ] Proxy forms (if applicable) received and validated.
+- [  ] Notice of Meeting sent to all members at least **14 days** in advance.
+- [  ] Proposed new constitution circulated with the notice.
+- [  ] Quorum requirement is **50% of eligible members**.
+- [  ] Proxy forms (if applicable) received and validated.
 
 ### MEETING PROCEEDINGS
 1.  **Welcome & Apologies:** Record attendees and apologies.
@@ -47,8 +47,15 @@ comments: true
 ### CERTIFICATION OF MINUTES
 I confirm that the above is a true and correct record of the resolution passed at the Special General Meeting of Internet Party Assets Incorporated held on [Date].
 
-_________________________ _________________________
-**Chairperson's Signature** **Date**
+
+
+_________________________ 
+**Chairperson's Signature** 
+
+_________________________
+**Date**
+
+
 
 _________________________
 **Secretary's Signature**
