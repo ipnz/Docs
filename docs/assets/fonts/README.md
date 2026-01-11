@@ -13,7 +13,6 @@ License: These fonts are distributed under the SIL Open Font License (OFL). See 
 
 Notes:
 
-\- Fonts were downloaded from Google Fonts and stored locally to avoid external calls.
-
-\- The CSS (`\_includes/head/styles.css`) has been updated to reference the local WOFF2 files, with TTF files as a fallback for broadest compatibility.
+* Fonts were downloaded from Google Fonts and stored locally to avoid external calls.
+* The CSS (`\_includes/head/styles.css`) has been updated to reference the local WOFF2 files, with TTF files as a fallback for broadest compatibility.
 
