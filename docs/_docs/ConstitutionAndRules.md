@@ -186,33 +186,49 @@ There will be two categories of membership: “General membership” and “Full
 
 <a id="ipnz-7-1"></a>
 **7.1** The Internet Party shall hold an Annual General Meeting that all Members may attend in person or digitally. The Executive Committee is responsible for setting the agenda.
+
 **7.2** When in session the Annual General Meeting will be the highest governing body of the Internet Party.
+
 **7.3** The Annual General Meeting shall be held at such a time and place as shall be determined by the Executive Committee.
+
 **7.4** Notice shall be given by the Party Secretary to all Members not less than two calendar months prior.
+
 **7.5** The Annual General Meeting must include:
 
 - <a id="ipnz-7-5-a"></a> (a) Consideration of the financial accounts;
 - <a id="ipnz-7-5-b"></a> (b) An annual report from the Party President;
 - <a id="ipnz-7-5-c"></a> (c) An annual report from the Party Secretary; and
 - <a id="ipnz-7-5-d"></a> (d) Any other business as determined by the Executive Committee.
+
 **7.6** The Annual General Meeting will be preceded by the Annual General Meeting of Internet Party Assets Incorporated, which must take place on the same day and at the same place.
+
 **7.7** An election of the Executive Committee shall be conducted at the Annual General Meeting in every year that is not an election year.
+
 **7.8** Any member in attendance is entitled to vote on all matters before the meeting.
 
 **Special General Meetings**
+
 **7.9** A Special General Meeting may be called by the Party Convenor or by a majority of the Executive Committee.
+
 **7.10** Notice shall be given to all Members no less than 10 working days prior.
+
 **7.11** Only such matters as notified in the agenda shall be considered.
 
 **Miscellaneous**
+
 **7.12** The Party President is the Chairperson. In their absence, the Executive Committee shall appoint an interim Chairperson.
+
 **7.13** The Party Secretary shall record minutes.
+
 **7.14** Quorum must include:
 
 - <a id="ipnz-7-14-a"></a> (a) At least 50 per cent of the Executive Committee; and
 - <a id="ipnz-7-14-b"></a> (b) At least 10 per cent or 50 Full Members, whichever is the greater.
+
 **7.15** Proxy representation is permitted but does not count toward quorum.
+
 **7.16** Quorum includes those in attendance in person or digitally.
+
 **7.17** Meetings shall be open to the public and media as non-participating observers unless decided otherwise.
 
 ---
