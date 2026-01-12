@@ -200,6 +200,7 @@ There will be two categories of membership: “General membership” and “Full
 - <a id="ipnz-7-5-c"></a> (c) An annual report from the Party Secretary; and
 - <a id="ipnz-7-5-d"></a> (d) Any other business as determined by the Executive Committee.
 
+
 **7.6** The Annual General Meeting will be preceded by the Annual General Meeting of Internet Party Assets Incorporated, which must take place on the same day and at the same place.
 
 **7.7** An election of the Executive Committee shall be conducted at the Annual General Meeting in every year that is not an election year.
@@ -224,6 +225,7 @@ There will be two categories of membership: “General membership” and “Full
 
 - <a id="ipnz-7-14-a"></a> (a) At least 50 per cent of the Executive Committee; and
 - <a id="ipnz-7-14-b"></a> (b) At least 10 per cent or 50 Full Members, whichever is the greater.
+
 
 **7.15** Proxy representation is permitted but does not count toward quorum.
 
@@ -258,6 +260,7 @@ There will be two categories of membership: “General membership” and “Full
   - (d) The Membership Director; and
   - (e) If applicable, one representative elected by the Parliamentary caucus; and
   - (f) Five Full members elected into the roles of Executive Officer.
+
 
 **8.8** Each member has one vote. Decisions by simple majority; the Party President has a casting vote.
 
@@ -349,6 +352,7 @@ There will be two categories of membership: “General membership” and “Full
 - <a id="ipnz-12-3-b"></a> (b) Creating an "Indicative Party List" (9-121 candidates).
 - <a id="ipnz-12-3-c"></a> (c) Consulting members, who rank the Indicative List.
 - <a id="ipnz-12-3-d"></a> (d) The Executive Committee producing the "Final Party List" at its sole discretion.
+
 
 **12.4** The Executive Committee determines the detailed procedure.
 
