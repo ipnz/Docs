@@ -14,7 +14,9 @@ comments: true
 ## Internet Party Assets Incorporated
 
 **Meeting Date:** [Date]
+
 **Chairperson:** [Name]
+
 **Secretary/Minute-taker:** [Name]
 
 ---
