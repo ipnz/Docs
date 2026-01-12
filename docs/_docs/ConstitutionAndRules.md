@@ -236,11 +236,17 @@ There will be two categories of membership: “General membership” and “Full
 ## **8. EXECUTIVE COMMITTEE**
 
 **Structure**
+
 **8.1** There will be an Executive Committee as per these rules.
+
 **8.2** When the Annual General Meeting is not in session, the Executive Committee shall be the governing body of the Internet Party.
+
 **8.3** The Executive Committee is responsible for the administration of political affairs, selection of the Party List and candidates, approving the manifesto, appointing the Party Secretary, and the management of Internet Party Assets Incorporated.
+
 **8.4** The Executive Committee is bound to act in accordance with the objectives and these rules.
+
 **8.5** Each member shall be appointed for a term not exceeding two calendar years and is eligible for re-appointment.
+
 **8.6** The Executive Committee shall meet not less than 4 times per calendar year.
 
 **Membership of the Executive Committee**
@@ -253,26 +259,37 @@ There will be two categories of membership: “General membership” and “Full
   - (e) If applicable, one representative elected by the Parliamentary caucus; and
   - (f) Five Full members elected into the roles of Executive Officer.
 **8.8** Each member has one vote. Decisions by simple majority; the Party President has a casting vote.
+
 **8.9** The Executive Committee can create non-voting ex officio positions.
+
 **8.10** It shall attempt to remain representative of the membership base.
 
 **Electing members of the Executive Committee**
+
 **8.11** The Party Secretary shall open nominations no less than one month prior to an AGM.
+
 **8.12** Any Full member may be nominated by at least two current Full members and one Executive Committee member.
+
 **8.13** An election for positions (excluding Party Secretary and Leader) will be held at the AGM by Single Transferable Vote (or simple majority for 2-3 candidates).
+
 **8.14** The term is generally two calendar years, adjusted in election years.
 
 **Removal from Office**
+
 **8.15** The Executive Committee may remove any member from its ranks by a 75% vote at a Special General Meeting, except for the Party Leader when in Parliament (covered by clause 10).
 
 **Vacancy**
+
 **8.16** Where a position is vacant, the Party Secretary will conduct a by-election as soon as practicable.
 
 **Duties and Responsibilities**
+
 **8.17** Specific duties for the President, Membership Director, and Executive Officers are outlined.
 
 **Powers and Limitations**
+
 **8.18** The Executive Committee has authority to direct IP Assets Inc. to borrow money, exercise other lawful powers, appoint sub-committees, and enter into component party arrangements.
+
 **8.19** It may delegate powers but can revoke any delegation immediately.
 
 ---
@@ -280,10 +297,15 @@ There will be two categories of membership: “General membership” and “Full
 ## **9. PARTY SECRETARY**
 
 **9.1** The Executive Committee shall appoint a Party Secretary responsible for administration.
+
 **9.2** The Party Secretary is responsible for ensuring compliance with New Zealand’s electoral law.
+
 **9.3** The Party Secretary is an automatic, voting member of the Executive Committee.
+
 **9.4** The Party Secretary will be remunerated and is an employee of Internet Party Assets Incorporated.
+
 **9.5** The Party Secretary can exercise powers given by the Executive Committee and those under these rules.
+
 **9.6** The Party Secretary acts as the Returning Officer for internal elections or may delegate this role.
 
 ---
@@ -291,10 +313,15 @@ There will be two categories of membership: “General membership” and “Full
 ## **10. PARTY LEADER**
 
 **10.1** The Internet Party will have a Party Leader, responsible for Parliamentary affairs if represented.
+
 **10.2** The Party Leader is an automatic, voting member of the Executive Committee.
+
 **10.3** If not in Parliament, the Leader is the #1 List candidate or a Full Member approved by 75% of the Executive Committee.
+
 **10.4** If in Parliament, the Leader is selected by majority vote of the Parliamentary caucus (with specific rules for one or two members).
+
 **10.5** A Leader may be removed by a simple majority vote of no confidence by the caucus.
+
 **10.6** An automatic confidence vote is held at the first caucus meeting after a general election.
 
 ---
@@ -308,10 +335,13 @@ There will be two categories of membership: “General membership” and “Full
 ## **12. SELECTION OF PARTY LIST**
 
 **Selection Pledge**
+
 **12.1** All candidates must sign a formal selection pledge.
+
 **12.2** The Executive Committee shall distribute relevant information to candidates.
 
 **Selecting the Party List**
+
 **12.3** The Executive Committee produces the Party List via a process involving:
 
 - <a id="ipnz-12-3-a"></a> (a) Calling for nominations (self-nomination by Full members allowed).
@@ -321,16 +351,21 @@ There will be two categories of membership: “General membership” and “Full
 **12.4** The Executive Committee determines the detailed procedure.
 
 **Selecting Electorate Candidates**
+
 **12.5** The Executive Committee may ask List candidates to stand in electorates.
+
 **12.6** List candidates may decline and remain on the List.
 
 **Considerations**
+
 **12.7** In ranking candidates, the Executive Committee shall actively maintain and promote diversity and equality.
 
 **Democratic participation**
+
 **12.8** Every Member is entitled to participate in ranking the Indicative Party List.
 
 **Remuneration**
+
 **12.9** The Executive Committee is empowered to remunerate members of the Party List.
 
 ---
@@ -338,17 +373,27 @@ There will be two categories of membership: “General membership” and “Full
 ## **13. MANIFESTO AND POLICY DEVELOPMENT**
 
 **Policy Committee**
+
 **13.1** A Policy Committee shall be appointed by the Executive Committee.
+
 **13.2** It is responsible for facilitating and ratifying policy development.
+
 **13.3** It comprises the Party President, Party Leader, and 5-10 appointed Full members (and advisors).
+
 **13.4** The Executive Committee shall promote diversity in its membership.
+
 **13.5** The Committee appoints its own chair and meets at least once a year.
+
 **13.6** It determines its own rules consistent with Party objectives.
+
 **13.7** The Executive Committee may remunerate Policy Committee members.
 
 **Manifesto**
+
 **13.8** The Policy Committee is responsible for developing the manifesto prior to each general election.
+
 **13.9** The manifesto is confirmed by the Executive Committee before public release.
+
 **13.10** The Policy Committee may involve members and advisors in development.
 
 ---
@@ -356,18 +401,27 @@ There will be two categories of membership: “General membership” and “Full
 ## **14. FINANCE AND EXPENDITURE**
 
 **Internet Party Assets Incorporated**
+
 **14.1** "Internet Party Assets Incorporated" is responsible for the Party’s financial accounts, expenditure, property and assets.
+
 **14.2** Its Managing Committee is as contained in its own Rules.
+
 **14.3** Its members are all Executive Committee members plus additional members selected to reach 15-20 total.
+
 **14.4** Its rules are attached as a schedule.
+
 **14.5** Its AGM is held immediately prior to the Party's AGM.
 
 **Decisions**
+
 **14.6** At its first meeting after each AGM, the Executive Committee will decide by resolution on income disbursement, the budget, remuneration, expenditure approval processes, and legal compliance.
 
 **Auditing and reporting**
+
 **14.7** The Party Secretary may contract a Chartered Accountant or solicitor for parts of their role with Committee approval.
+
 **14.8** The Party Secretary must prepare a financial report for the AGM.
+
 **14.9** The Party Secretary must ensure the Party's accounts are independently audited yearly as per the Electoral Act 1993.
 
 ---
@@ -375,8 +429,11 @@ There will be two categories of membership: “General membership” and “Full
 ## **15. STRUCTURAL UNITS AND AUTHORITIES**
 
 **15.1** The Executive Committee may delegate authority and establish other structural units.
+
 **15.2** It determines the process for selecting members to these units.
+
 **15.3** The Chairperson of a unit is the delegated representative.
+
 **15.4** If delegated authority is removed, the unit immediately ceases to exist.
 
 ---
@@ -390,7 +447,9 @@ There will be two categories of membership: “General membership” and “Full
 ## **17. PARTY BY-LAWS**
 
 **17.1** The Executive Committee is empowered to enact by-laws that affect or clarify this constitution.
+
 **17.2** The Party Secretary keeps a register of by-laws available to members.
+
 **17.3** The Executive Committee may amend or revoke by-laws at its discretion.
 
 ---
@@ -398,10 +457,13 @@ There will be two categories of membership: “General membership” and “Full
 ## **18. AMENDMENTS TO THE CONSTITUTION**
 
 **Entrenchment of objectives**
+
 **18.1** The objectives under Clause 3 shall not be amended unless by a 75% majority vote of the Executive Committee at a Special General Meeting called for that purpose.
 
 **Amendments**
+
 **18.2** Any Full member may propose amendments via a procedure set by the Party Secretary.
+
 **18.3** Notice of proposed amendments must be given not less than one month prior to an AGM or five working days prior to a Special General Meeting.
 
 ---
@@ -409,6 +471,9 @@ There will be two categories of membership: “General membership” and “Full
 ## **19. DISSOLUTION**
 
 **19.1** A 75% Majority of Executive Committee members may, at a Special General Meeting, resolve to dissolve the Party.
+
 **19.2** The motion must be passed by more than 50 per cent of Full Members and have no more than 500 Full Members in objection.
+
 **19.3** Upon dissolution, the Executive Committee must also dissolve Internet Party Assets Incorporated.
+
 **19.4** Any property shall be transferred to political parties or societies with similar objects within New Zealand.
