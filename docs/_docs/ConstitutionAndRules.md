@@ -258,6 +258,7 @@ There will be two categories of membership: “General membership” and “Full
   - (d) The Membership Director; and
   - (e) If applicable, one representative elected by the Parliamentary caucus; and
   - (f) Five Full members elected into the roles of Executive Officer.
+
 **8.8** Each member has one vote. Decisions by simple majority; the Party President has a casting vote.
 
 **8.9** The Executive Committee can create non-voting ex officio positions.
@@ -348,6 +349,7 @@ There will be two categories of membership: “General membership” and “Full
 - <a id="ipnz-12-3-b"></a> (b) Creating an "Indicative Party List" (9-121 candidates).
 - <a id="ipnz-12-3-c"></a> (c) Consulting members, who rank the Indicative List.
 - <a id="ipnz-12-3-d"></a> (d) The Executive Committee producing the "Final Party List" at its sole discretion.
+
 **12.4** The Executive Committee determines the detailed procedure.
 
 **Selecting Electorate Candidates**
