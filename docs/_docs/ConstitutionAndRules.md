@@ -19,6 +19,7 @@ comments: true
 
 <a id="ipnz-1-1"></a>
 **1.1** In these rules:
+
 *   <a id="ipnz-def-digitally"></a> **"Digitally"** means any communications made through electronic media.
 *   <a id="ipnz-def-electoral-candidate"></a> **"Electoral candidate"** means a candidate selected by the Internet Party to contest an electorate at a general election or by-election.
 *   <a id="ipnz-def-executive-committee"></a> **"Executive Committee"** means the Executive Committee of the Internet Party.
